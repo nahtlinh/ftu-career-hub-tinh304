@@ -598,9 +598,9 @@ function showInsights(industry) {
     let count = 0;
     let avgSal = "Đang cập nhật";
     let topSkills = [
-        {name: "Tiếng Anh", count: "80%"},
-        {name: "Tin học văn phòng", count: "60%"},
-        {name: "Giao tiếp", count: "50%"}
+        {name: "Tiếng Anh", countText: "80%", rawCount: 80},
+        {name: "Tin học văn phòng", countText: "60%", rawCount: 60},
+        {name: "Giao tiếp", countText: "50%", rawCount: 50}
     ];
     
     if (rawInsightsData) {
@@ -622,7 +622,7 @@ function showInsights(industry) {
         
         if (rawInsightsData.Top_10_Skills) {
             const entries = Object.entries(rawInsightsData.Top_10_Skills).slice(0, 5);
-            topSkills = entries.map(e => ({ name: e[0], count: e[1] + " jobs" }));
+            topSkills = entries.map(e => ({ name: e[0], countText: e[1] + " jobs", rawCount: e[1] }));
         }
     }
     
@@ -631,8 +631,28 @@ function showInsights(industry) {
     
     const skillsContainer = document.getElementById('insight-top-skills');
     skillsContainer.innerHTML = '';
+    
+    // Find max count to scale bars
+    const maxCount = Math.max(...topSkills.map(s => s.rawCount), 1);
+    
+    skillsContainer.style.display = 'flex';
+    skillsContainer.style.flexDirection = 'column';
+    skillsContainer.style.gap = '12px';
+    skillsContainer.style.width = '100%';
+
     topSkills.forEach(s => {
-        skillsContainer.innerHTML += `<span class="tag" style="background: #e9ecef; color: #495057; border: none;">${s.name} <strong style="color:#007bff; margin-left:4px;">${s.count}</strong></span>`;
+        const percent = Math.round((s.rawCount / maxCount) * 100);
+        skillsContainer.innerHTML += `
+            <div style="display: flex; align-items: center; width: 100%; gap: 12px;">
+                <div style="width: 140px; font-size: 14px; font-weight: 500; color: #495057; text-transform: capitalize; text-align: right; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="${s.name}">${s.name}</div>
+                <div style="flex-grow: 1; background: #e9ecef; border-radius: 6px; height: 28px; overflow: hidden; position: relative;">
+                    <div style="width: ${percent}%; height: 100%; background: linear-gradient(90deg, #007bff, #0056b3); border-radius: 6px; display: flex; align-items: center; padding-left: 12px; color: #fff; font-size: 13px; font-weight: bold; transition: width 0.5s ease-out;">
+                        ${percent > 15 ? s.countText : ''}
+                    </div>
+                </div>
+                ${percent <= 15 ? `<div style="font-size: 13px; font-weight: bold; color: #007bff;">${s.countText}</div>` : `<div style="width: 40px;"></div>`}
+            </div>
+        `;
     });
 }
 
