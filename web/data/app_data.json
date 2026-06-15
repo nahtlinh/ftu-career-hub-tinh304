@@ -21,6 +21,68 @@
             "canva": 9,
             "erp": 7,
             "english": 7
+        },
+        "Top_10_Skills_By_Family": {
+            "Business Development": {
+                "giao tiếp": 9,
+                "canva": 3,
+                "tiếng anh": 3,
+                "excel": 2,
+                "photoshop": 1,
+                "làm việc nhóm": 1,
+                "python": 0,
+                "sql": 0,
+                "powerpoint": 0,
+                "powerbi": 0
+            },
+            "Data/Business Analysis": {
+                "sql": 12,
+                "powerbi": 11,
+                "python": 10,
+                "excel": 6,
+                "tableau": 6,
+                "r": 5,
+                "giao tiếp": 5,
+                "tiếng anh": 4,
+                "erp": 3,
+                "communication": 2
+            },
+            "Finance": {
+                "excel": 8,
+                "giao tiếp": 6,
+                "tiếng anh": 2,
+                "làm việc nhóm": 2,
+                "sap": 1,
+                "erp": 1,
+                "english": 1,
+                "python": 0,
+                "sql": 0,
+                "powerpoint": 0
+            },
+            "HR": {
+                "giao tiếp": 9,
+                "tiếng anh": 5,
+                "excel": 4,
+                "erp": 3,
+                "english": 3,
+                "powerpoint": 2,
+                "làm việc nhóm": 2,
+                "photoshop": 1,
+                "communication": 1,
+                "python": 0
+            },
+            "Marketing": {
+                "canva": 5,
+                "capcut": 4,
+                "làm việc nhóm": 4,
+                "tiếng anh": 3,
+                "english": 2,
+                "communication": 1,
+                "giao tiếp": 1,
+                "python": 0,
+                "sql": 0,
+                "excel": 0
+            }
         }
     },
     "courses": [],

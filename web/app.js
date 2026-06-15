@@ -645,8 +645,9 @@ function showInsights(industry) {
             count = counts[mappedFamily];
         }
         
-        if (rawInsightsData.Top_10_Skills) {
-            const entries = Object.entries(rawInsightsData.Top_10_Skills).slice(0, 5);
+        if (rawInsightsData.Top_10_Skills_By_Family && rawInsightsData.Top_10_Skills_By_Family[mappedFamily]) {
+            const industrySkills = rawInsightsData.Top_10_Skills_By_Family[mappedFamily];
+            const entries = Object.entries(industrySkills).slice(0, 5);
             topSkills = entries.map(e => ({ name: e[0], countText: e[1] + " jobs", rawCount: e[1] }));
         }
     }
