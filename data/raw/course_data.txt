@@ -1,0 +1,4601 @@
+{"response": "[{\"course_code\": \"DTUE309\", \"course_name\": \"Economic Analysis of Public Investment Project (Phân tích kinh tế dự án đầu tư công)\", \"domain_knowledge\": [\"public investment projects\", \"socio-economic development\", \"socio-economic benefits\", \"social discount rates\"], \"jd_skills\": [\"economic analysis\", \"measuring socio-economic benefits\", \"analyzing project impacts\", \"financial indicators analysis\", \"public investment project evaluation\"], \"tools\": []}, {\"course_code\": \"EAB121\", \"course_name\": \"Tiếng Anh học thuật và thương mại 2 (Academic and Business English 2)\", \"domain_knowledge\": [\"Tiếng Anh học thuật\", \"Tiếng Anh thương mại\", \"thương hiệu\", \"chiến lược kinh doanh\", \"hậu cần\", \"doanh nghiệp\", \"văn hóa nước ngoài\", \"B1 level vocabulary & grammar\"], \"jd_skills\": [\"Kỹ năng nghe (listening)\", \"Kỹ năng nói (speaking)\", \"Kỹ năng đọc (reading - skimming, scanning)\", \"Kỹ năng viết (writing - business emails, job application letters, complaint letters, summary writing, proposal reports, invitation responses)\", \"thuyết trình (presentation)\", \"tranh luận (debate)\", \"thảo luận (discussion)\"], \"tools\": []}, {\"course_code\": \"KDOE410\", \"course_name\": \"International Business Practice 1\", \"domain_knowledge\": [\"organizational model and structure\", \"basic business activities\", \"Finance and Investment\", \"Trade and export-import\", \"Marketing and Communication\", \"Entrepreneurship and Innovation\"], \"jd_skills\": [\"communication\", \"presentation\", \"self-direction\", \"career development planning\", \"business report writing\"], \"tools\": []}, {\"course_code\": \"DTU300E\", \"course_name\": \"Investment Project Design (Lập và phân tích dự án đầu tư)\", \"domain_knowledge\": [\"investment projects\", \"investment environment\", \"financial viability\", \"socio-economic impacts\", \"project risks\", \"market analysis\", \"financial analysis\", \"socio-economic analysis\", \"risk analysis\"], \"jd_skills\": [\"formulating investment proposals\", \"project risk assessment\", \"financial and economic analysis\", \"presentation\", \"writing reports/essays\", \"citation\", \"data analysis\"], \"tools\": []}, {\"course_code\": \"KDOE304\", \"course_name\": \"Global Value Chain (Chuỗi giá trị toàn cầu)\", \"domain_knowledge\": [\"global value chain\", \"national competitive advantage\", \"globalization\", \"business environment\", \"value chain organization models\"], \"jd_skills\": [\"formulating business strategies\", \"planning value chain participation\", \"SWOT analysis\", \"PESTEL analysis\", \"Porter's Diamond analysis\", \"Global Value Chain framework\", \"resource optimization\", \"competitive analysis\"], \"tools\": [\"SWOT\", \"PESTEL\", \"Porter's Diamond model\", \"Global Value Chain framework\"]}, {\"course_code\": \"KDOE523\", \"course_name\": \"Graduation Thesis (Khóa luận tốt nghiệp)\", \"domain_knowledge\": [\"international business\", \"competitive strategy\", \"business model innovation\", \"business ideation\", \"international market operations\"], \"jd_skills\": [\"project report writing\", \"thesis defense\", \"data collection\", \"business analysis\", \"communication\", \"presentation\", \"problem-solving\", \"strategic planning\"], \"tools\": []}, {\"course_code\": \"EAB111\", \"course_name\": \"Tiếng Anh học thuật và thương mại 1 (Academic and Business English 1)\", \"domain_knowledge\": [\"Tiếng Anh học thuật\", \"Tiếng Anh thương mại\", \"B1 level vocabulary & grammar\", \"thảo luận cuộc họp\", \"giới thiệu sản phẩm\", \"đàm phán\"], \"jd_skills\": [\"Kỹ năng nghe (listening)\", \"Kỹ năng nói (speaking)\", \"Kỹ năng đọc (reading - skimming, scanning, making inferences)\", \"Kỹ năng viết (writing - topic sentences, paragraph comparing, cause-effect paragraphs, short essays, business emails, product reviews, reports, inquiry letters)\", \"thuyết trình sản phẩm\", \"đàm phán thương mại\"], \"tools\": []}, {\"course_code\": \"KETE410\", \"course_name\": \"International Accounting\", \"domain_knowledge\": [\"international financial reporting standards (IFRS)\", \"international accounting convergence\", \"accounting diversification\", \"Vietnamese accounting standards (VAS)\", \"accounting operations in MNCs\", \"assets\", \"liabilities\", \"equity\", \"revenue\", \"expenses\"], \"jd_skills\": [\"accounting record-keeping\", \"financial reporting\", \"transaction recording\", \"communication\", \"presentation\", \"teamwork\", \"report writing\"], \"tools\": []}, {\"course_code\": \"KDOE411\", \"course_name\": \"International Business Practice 2 (Thực hành Kinh doanh quốc tế 2)\", \"domain_knowledge\": [\"international business operations\", \"finance\", \"investment\", \"trade\", \"export-import\", \"marketing\", \"communication\", \"entrepreneurship\", \"innovation\"], \"jd_skills\": [\"document processing\", \"data synthesis\", \"business analysis\", \"strategic planning\", \"communication\", \"presentation\", \"career development planning\", \"report writing\"], \"tools\": []}, {\"course_code\": \"TMAE329\", \"course_name\": \"Non-tariff measures in International Trade (Các biện pháp phi thuế trong thương mại quốc tế)\", \"domain_knowledge\": [\"non-tariff measures\", \"technical barriers to trade (TBT)\", \"sanitary and phytosanitary (SPS) measures\", \"trade defense instruments\", \"anti-dumping\", \"countervailing\", \"safeguards\", \"WTO\", \"UNCTAD\", \"national trade regulations\"], \"jd_skills\": [\"identifying non-tariff barriers\", \"developing trade strategies\", \"business analysis\", \"communication\", \"data retrieval\", \"information analysis\"], \"tools\": []}, {\"course_code\": \"TCHE531\", \"course_name\": \"Hi-Fin 4 - Graduation (Hi-Fin 4 - Học phần tốt nghiệp)\", \"domain_knowledge\": [\"finance\", \"banking\", \"economics\", \"financial models\", \"systemic risk\", \"CFA\", \"Securities Practitioner License\"], \"jd_skills\": [\"scientific research\", \"data collection\", \"financial modeling\", \"data analysis\", \"critical thinking\", \"independent and collaborative work\", \"professional communication\", \"report writing\", \"oral presentation\"], \"tools\": [\"AI-based applications\", \"advanced IT tools\", \"digital technologies\"]}, {\"course_code\": \"PLUE422\", \"course_name\": \"International Trade Law (Pháp luật thương mại quốc tế)\", \"domain_knowledge\": [\"international trade law\", \"WTO law\", \"trade in goods\", \"trade in services\", \"dispute settlement\", \"Free Trade Agreements (FTAs)\"], \"jd_skills\": [\"legal research\", \"legal analysis\", \"legal advising\", \"trade dispute resolution\", \"teamworking\", \"leadership\"], \"tools\": []}, {\"course_code\": \"LCME301\", \"course_name\": \"Digital Transformation in Logistics and Supply Chain\", \"domain_knowledge\": [\"digitalization trends\", \"logistics and supply chain operations\", \"IoT\", \"Big Data\", \"AI\", \"Blockchain\", \"automation\", \"transportation\", \"warehousing\", \"distribution\", \"supply chain resilience\"], \"jd_skills\": [\"evaluating technology adoption\", \"designing digital solutions\", \"analyzing real-world cases\", \"economic-business impact evaluation\", \"written reports\", \"oral presentations\", \"digital tool utilization\"], \"tools\": [\"IoT\", \"Big Data\", \"AI\", \"Blockchain\", \"automation\", \"digital tools\", \"digital platforms\"]}, {\"course_code\": \"KDOE503\", \"course_name\": \"International Business Practice 3 - Mid-course Internship (Thực hành kinh doanh quốc tế 3 - Thực tập giữa khóa)\", \"domain_knowledge\": [\"economic and business theories\", \"international business activities\", \"organizational structure\", \"strategic planning\", \"business operations\"], \"jd_skills\": [\"SWOT analysis\", \"business analysis\", \"communication\", \"presentation\", \"career development planning\", \"problem-solving\"], \"tools\": []}, {\"course_code\": \"TMAE333\", \"course_name\": \"Digital Trade (Thương mại kỹ thuật số)\", \"domain_knowledge\": [\"digital trade\", \"buying/selling/exchanging in digital environment\", \"digital trade business regulations in Vietnam\", \"digital trade strategies\"], \"jd_skills\": [\"economic analysis\", \"business analysis\", \"creative thinking\", \"proposing digital business solutions\", \"lifelong learning\"], \"tools\": []}, {\"course_code\": \"QTRE531\", \"course_name\": \"Graduation thesis (Khóa luận tốt nghiệp)\", \"domain_knowledge\": [\"business administration\", \"research methodology\", \"theoretical framework\"], \"jd_skills\": [\"identifying research questions\", \"data gathering\", \"empirical material collection\", \"data analysis\", \"discussion\", \"drawing conclusions\", \"making recommendations\", \"research writing\", \"teamworking\", \"communication\"], \"tools\": []}, {\"course_code\": \"TCHE201\", \"course_name\": \"Hi-Fin2 - Project - based learning (Hi-Fin2 - Học tập theo dự án)\", \"domain_knowledge\": [\"equity\", \"fixed-income assets\", \"financial derivatives\", \"security price movements\", \"investment portfolios\", \"risk management\", \"macroeconomic conditions\", \"investor profiles\"], \"jd_skills\": [\"security analysis\", \"asset evaluation\", \"portfolio construction\", \"investment recommendation report writing\", \"portfolio revision\", \"presentation\"], \"tools\": []}, {\"course_code\": \"TCHE309\", \"course_name\": \"Risk Management for Multinational Corporations (Quản trị rủi ro công ty đa quốc gia)\", \"domain_knowledge\": [\"MNC risk management\", \"COSO ERM\", \"ISO 31000\", \"exchange rate risk\", \"interest rate risk\", \"commodity price risk\", \"political risk\", \"supply chain risk\", \"credit risk\", \"liquidity risk\", \"risk management architecture\"], \"jd_skills\": [\"risk identification\", \"risk measurement and quantification\", \"designing risk prevention solutions\", \"building policy frameworks\", \"developing key risk indicators (KRIs)\", \"reporting\", \"teamworking\"], \"tools\": [\"COSO ERM\", \"ISO 31000\"]}, {\"course_code\": \"TCHE501\", \"course_name\": \"Hi-Fin 3 - Internship (Hi-Fin3 - Thực tập giữa khóa)\", \"domain_knowledge\": [\"banking\", \"international finance\", \"organizational structure\", \"professional culture\"], \"jd_skills\": [\"data analysis\", \"structured analysis\", \"devising business solutions\", \"team communication\", \"professional reporting\", \"career planning\", \"problem-solving\"], \"tools\": [\"data analysis tools\", \"software\"]}, {\"course_code\": \"TCHE100\", \"course_name\": \"Hi - Fin 1 – Project-based learning (Hi-Fin 1 - Học tập theo dự án)\", \"domain_knowledge\": [\"finance and banking careers\", \"personal financial management\", \"cash and credit management\", \"uncertain management\", \"investment decision-making\", \"retirement planning\"], \"jd_skills\": [\"career pathway analysis\", \"competency self-reflection\", \"application preparation (CV, cover letter, LinkedIn profile, personal portfolio)\", \"interviewing\", \"presentation\", \"teamwork\", \"time management\", \"financial planning\"], \"tools\": [\"LinkedIn\", \"MS Teams\", \"FTU e-Learning\"]}, {\"course_code\": \"KTEE317\", \"course_name\": \"Global Climate Governance (Quản biến đổi khí hậu toàn cầu)\", \"domain_knowledge\": [\"global climate change governance\", \"politics of climate change\", \"socio-political/economic/environmental values in climate policy\", \"Microeconomics\", \"Macroeconomics\"], \"jd_skills\": [\"policy analysis\", \"structuring policies\", \"case study analysis\", \"data processing\", \"data presentation\", \"written communication\"], \"tools\": []}, {\"course_code\": \"TCHE315\", \"course_name\": \"International Financial Stability (Ổn định tài chính quốc tế)\", \"domain_knowledge\": [\"systemic risk\", \"global financial system\", \"international financial institutions\", \"crisis transmission mechanisms\", \"causes of financial crises (banking, debt, currency)\", \"macroprudential/microprudential supervision\", \"climate-related financial risks\", \"FinTech\", \"crypto-assets\", \"non-bank financial intermediation\"], \"jd_skills\": [\"analyzing sources of instability\", \"policy evaluation\", \"risk assessment\", \"data analysis\", \"presenting\", \"teamwork\", \"policy analysis\"], \"tools\": []}, {\"course_code\": \"COSE531/COSH531\", \"course_name\": \"i-TEC4_Học phần tốt nghiệp – Dự án sáng tạo (Graduation Thesis – Creative Project)\", \"domain_knowledge\": [\"computer science and data science in economics and business\", \"software development lifecycle\", \"data analysis\"], \"jd_skills\": [\"literature reading\", \"software development\", \"data analysis\", \"experiment execution\", \"thesis writing\", \"presentation and defense\", \"problem solving\"], \"tools\": [\"software development tools\", \"data analysis tools\"]}, {\"course_code\": \"QTRE501\", \"course_name\": \"MID- COURSE INTERNSHIP (Thực tập giữa khoá)\", \"domain_knowledge\": [\"business administration\", \"value chains\", \"business types and sizes\", \"organizational structure\", \"operational activities\", \"financial status\", \"human resources\", \"strategic orientation\"], \"jd_skills\": [\"analyzing performance\", \"marketing evaluation\", \"proposing solutions\", \"information searching and evaluating\", \"business report writing\", \"communication\", \"teamwork\"], \"tools\": []}, {\"course_code\": \"KTEE334\", \"course_name\": \"Public Choice (Lựa chọn công)\", \"domain_knowledge\": [\"public choice theory\", \"market failures\", \"public policy\", \"externalities\", \"democratic decision-making process\"], \"jd_skills\": [\"strategic planning\", \"public policy analysis\", \"report writing\", \"presentation\", \"critique\", \"computational analysis\"], \"tools\": [\"Excel\", \"programming languages\"]}, {\"course_code\": \"QTRE431\", \"course_name\": \"Retail management (Quản trị bán lẻ)\", \"domain_knowledge\": [\"retail industry concepts\", \"retail business environment\", \"retail strategies\", \"business models\", \"product portfolios\", \"customer service\", \"pricing\", \"inventory\", \"supply chains\", \"customer experience\"], \"jd_skills\": [\"retail strategic planning\", \"business environment analysis\", \"customer behavior analysis\", \"retail marketing\", \"store management\", \"product display optimization\"], \"tools\": []}, {\"course_code\": \"KTEE333\", \"course_name\": \"State management on Maritime resources (Quản lý nhà nước về tài nguyên biển)\", \"domain_knowledge\": [\"maritime resources\", \"state management of maritime affairs\", \"economic models of resource management\", \"environmental impact assessments\"], \"jd_skills\": [\"marine development planning\", \"policy analysis\", \"presentation\", \"report writing\", \"critique\", \"computational analysis\"], \"tools\": [\"computational tools\"]}, {\"course_code\": \"QTRE302\", \"course_name\": \"Managing Emotions in Service Business (Quản trị cảm xúc trong kinh doanh dịch vụ)\", \"domain_knowledge\": [\"service management\", \"service development\", \"inventory control\", \"theories/models of emotions in service\", \"relationship between emotions and service quality\"], \"jd_skills\": [\"conflict resolution\", \"customer experience optimization\", \"active listening\", \"feedback handling\", \"team cooperation\", \"emotion management\", \"communication\"], \"tools\": []}, {\"course_code\": \"TCH316E\", \"course_name\": \"Finance in Global Supply Chain\", \"domain_knowledge\": [\"Supply Chain Finance (SCF)\", \"trade cycle\", \"trade finance products\", \"credit risk\", \"payment risk\", \"legal risk\", \"international certification CSCF standards\"], \"jd_skills\": [\"Trade Cycle Analysis\", \"risk assessment\", \"designing financing strategies\", \"data analysis\", \"report presentation\", \"independent and team work\"], \"tools\": []}, {\"course_code\": \"COSE305/COSH305\", \"course_name\": \"i-TEC 3_ Dự án Tối ưu hoá trong kinh tế và kinh doanh (Thực tập giữa khoá) (Optimization in Economics and Business Project)\", \"domain_knowledge\": [\"data science\", \"optimization models\", \"economics and business application development\"], \"jd_skills\": [\"small-scale application development\", \"business data analysis\", \"report writing\", \"presentation\", \"teamwork\", \"independent research\"], \"tools\": []}, {\"course_code\": \"QTRE307\", \"course_name\": \"Service Marketing Management\", \"domain_knowledge\": [\"service quality management and delivery\", \"customer behavior theories in service\", \"service marketing strategies\"], \"jd_skills\": [\"service quality assessment\", \"designing improvement solutions\", \"service analysis\", \"written reports\", \"oral presentation\", \"information research\"], \"tools\": [\"service quality measurement tools\"]}, {\"course_code\": \"QTRE430\", \"course_name\": \"Consumer Behavior in Services\", \"domain_knowledge\": [\"consumer behavior\", \"behavioral psychology\", \"cultural factors\", \"purchase decision-making process\", \"individual vs organizational behavior\", \"market segmentation\", \"service positioning\"], \"jd_skills\": [\"consumer research\", \"statistical analysis\", \"market surveys\", \"case study presentation\", \"teamwork\", \"proposing service marketing solutions\"], \"tools\": [\"statistical tools\"]}, {\"course_code\": \"KDOE305\", \"course_name\": \"Business Ethics and Corporate Social Responsibility (Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp)\", \"domain_knowledge\": [\"business ethics\", \"corporate social responsibility (CSR)\", \"ethical theories\", \"CSR models\", \"conflicts of interest\", \"financial transparency\", \"workers' rights\"], \"jd_skills\": [\"ethical decision-making\", \"CSR strategy formulation\", \"information synthesis\", \"case study analysis\", \"problem-solving\"], \"tools\": []}, {\"course_code\": \"KTEE305\", \"course_name\": \"Global Governance (Quản lý toàn cầu)\", \"domain_knowledge\": [\"global governance structure\", \"international cooperation\", \"global trade/financial governance\", \"sustainable development\"], \"jd_skills\": [\"policy analysis\", \"policy proposal\", \"professional communication (presentation, discussion, debate, report writing)\", \"networking\"], \"tools\": []}, {\"course_code\": \"KTEE315\", \"course_name\": \"Digital Governance (Quản lý số)\", \"domain_knowledge\": [\"digital transformation\", \"artificial intelligence\", \"IoT\", \"5G\", \"digital platforms\", \"regulatory mechanisms in digital space\", \"risk control models\"], \"jd_skills\": [\"policy analysis\", \"risk management\", \"business analysis\", \"communication\", \"presentation\", \"report writing\"], \"tools\": []}, {\"course_code\": \"DBAE304\", \"course_name\": \"Technology of Business Analytics (Công nghệ và lập trình trong phân tích dữ liệu kinh doanh)\", \"domain_knowledge\": [\"technology platforms of business analytics\", \"open-source computing\", \"business decision making\"], \"jd_skills\": [\"formulating business problems\", \"applying analytical technology\", \"evaluating decisions\", \"report writing\", \"spoken presentation\"], \"tools\": [\"open-source computing environments\"]}, {\"course_code\": \"BUSE405\", \"course_name\": \"Entrepreneurship (Tinh thần doanh nhân)\", \"domain_knowledge\": [\"entrepreneurship fundamentals\", \"opportunity recognition\", \"startup business models\", \"growth strategies\", \"financial management\", \"fundraising\"], \"jd_skills\": [\"business model design\", \"startup plan preparation\", \"competitive analysis\", \"market research\", \"presentation\", \"teamwork\", \"strategic planning\"], \"tools\": []}, {\"course_code\": \"COSE101/COSH101\", \"course_name\": \"i-TEC 1_Phát triển kỹ năng và định hướng nghề nghiệp (Career Path Design and Skill Development)\", \"domain_knowledge\": [\"data science careers\", \"professional workplace qualifications\"], \"jd_skills\": [\"career path planning\", \"soft skills development\", \"individual career path reporting\", \"academic planning\", \"presentation\"], \"tools\": []}, {\"course_code\": \"TCHE419\", \"course_name\": \"Foreign Exchange Trading (Kinh doanh ngoại hối)\", \"domain_knowledge\": [\"foreign exchange market\", \"foreign exchange trading\", \"exchange rate risks\", \"financial tools and models\"], \"jd_skills\": [\"arbitrage trading\", \"currency risk hedging\", \"financial problem-solving\", \"data analysis\", \"English communication in finance\", \"teamwork\"], \"tools\": [\"financial tools\"]}, {\"course_code\": \"QTRE326\", \"course_name\": \"Change Management (Quản trị sự thay đổi)\", \"domain_knowledge\": [\"organizational change\", \"change models\", \"change diagnosis\", \"change leadership\", \"change interventions\", \"transition strategies\"], \"jd_skills\": [\"diagnosing organizational needs\", \"leadership and implementation of change strategies\", \"risk management in transitions\", \"decision making\", \"communication\", \"critical thinking\"], \"tools\": []}, {\"course_code\": \"LCME300\", \"course_name\": \"Supply Chain Analytics (Phân tích dữ liệu chuỗi cung ứng)\", \"domain_knowledge\": [\"supply chain systems and structures\", \"demand forecasting\", \"inventory utilization\", \"production capacity planning\", \"material requirements planning\"], \"jd_skills\": [\"supply chain modeling\", \"quantitative analysis\", \"data-driven decision making\", \"cost/pricing analysis\", \"report writing\", \"professional presentation\"], \"tools\": [\"advanced analytical tools\", \"decision-support models\"]}, {\"course_code\": \"KTEE335\", \"course_name\": \"Economics of Platforms (Kinh tế học về nền tảng kinh doanh)\", \"domain_knowledge\": [\"platform economy\", \"pricing and non-pricing strategies\", \"game theory\", \"industrial organization theory\", \"data privacy\", \"antitrust\", \"big tech market manipulation\"], \"jd_skills\": [\"platform design evaluation\", \"competitive strategy analysis\", \"policy recommendation\", \"presentation\", \"report writing\"], \"tools\": []}, {\"course_code\": \"TCHE314\", \"course_name\": \"International Carbon Market (Thị trường các-bon quốc tế)\", \"domain_knowledge\": [\"carbon market operating mechanisms\", \"compliance vs voluntary markets\", \"EU ETS\", \"CORSIA\", \"China ETS\", \"carbon pricing instruments\", \"carbon credit strategies\", \"Net Zero\", \"NDCs\"], \"jd_skills\": [\"carbon pricing instrument selection\", \"carbon credit strategy proposal\", \"policy analysis\", \"data analysis\", \"scientific reporting\", \"presentation\", \"teamwork\"], \"tools\": []}, {\"course_code\": \"TCHE313\", \"course_name\": \"Global Climate Finance (Tài chính khí hậu toàn cầu)\", \"domain_knowledge\": [\"global climate finance\", \"climate risk assessment\", \"disclosure standards (TCFD, ISSB, ESRS, GRI)\", \"carbon pricing\", \"carbon accounting (Scope 1, 2, 3)\", \"accounting standards (GHG Protocol, ISO 14064, PCAF)\", \"sustainable business models (circular economy, decarbonization)\", \"ESG integration\", \"climate assets valuation\"], \"jd_skills\": [\"climate risk modeling and stress testing\", \"emissions accounting\", \"sustainable business model design\", \"capital mobilization strategy\", \"traditional asset valuation adjustment\", \"reporting and disclosure presentation\", \"data analysis\"], \"tools\": [\"TCFD\", \"ISSB\", \"ESRS\", \"GRI\", \"GHG Protocol\", \"ISO 14064\", \"PCAF\"]}, {\"course_code\": \"QTRE327\", \"course_name\": \"Management of sustainable entrepreneurship (Quản trị Khởi nghiệp bền vững)\", \"domain_knowledge\": [\"sustainable entrepreneurship\", \"sustainability solutions innovation\", \"social and environmental business models\", \"circular economy\", \"ecological sustainability\"], \"jd_skills\": [\"business model evaluation\", \"sustainable solution design\", \"market research\", \"consulting project execution\", \"stakeholder presentation\", \"teamwork\"], \"tools\": []}, {\"course_code\": \"QTRE429\", \"course_name\": \"SERVICE MANAGEMENT (Quản trị dịch vụ)\", \"domain_knowledge\": [\"service operations management\", \"Design Thinking\", \"new service development\", \"service demand forecasting\", \"customer service theory\", \"technology in service delivery\"], \"jd_skills\": [\"design thinking execution\", \"service demand forecasting\", \"case study analysis\", \"operational problem solving\", \"project management\", \"written report\", \"oral presentation\", \"teamwork\"], \"tools\": []}, {\"course_code\": \"MKTE406\", \"course_name\": \"E-Marketing\", \"domain_knowledge\": [\"electronic marketing tools\", \"internet-based marketing\", \"digital trade environment\", \"customer behavior on electronic media\"], \"jd_skills\": [\"e-marketing campaign planning\", \"environmental scanning\", \"marketing strategy formulation\", \"market data collection\", \"business analysis\", \"e-marketing tool management\"], \"tools\": [\"internet tools\", \"electronic media tools\"]}, {\"course_code\": \"DASE403/DASH403\", \"course_name\": \"Phân tích dữ liệu Web (Web Analytics)\", \"domain_knowledge\": [\"web analytics\", \"website metrics\", \"user behavior tracking\", \"digital conversion optimization\", \"digital marketing integration\"], \"jd_skills\": [\"web metrics configuration\", \"website data analysis\", \"web conversion rate optimization\", \"business report writing\", \"digital marketing analytics\"], \"tools\": [\"Google Analytics\", \"Crazy Egg\", \"Alexa\"]}, {\"course_code\": \"DASE402/DASH402\", \"course_name\": \"Mô hình ngẫu nhiên trong Phân tích dữ liệu kinh doanh (Stochastic Models in Business Analytics)\", \"domain_knowledge\": [\"Poisson models\", \"Renewal models\", \"Random walks\", \"Markov chains\", \"Markov decision processes\", \"Martingales\", \"Queueing theory\", \"business data applications\"], \"jd_skills\": [\"stochastic modeling\", \"quantitative optimization\", \"data analysis\", \"algorithm implementation\", \"programming\"], \"tools\": [\"Python\"]}, {\"course_code\": \"TCHE403\", \"course_name\": \"International Financial Markets (Thị trường tài chính quốc tế)\", \"domain_knowledge\": [\"international financial markets\", \"international currency market\", \"bond market\", \"stock market\", \"international derivatives market\", \"risk hedging\"], \"jd_skills\": [\"investment decision making\", \"capital raising\", \"derivative hedging\", \"risk assessment\", \"financial data analysis\", \"English communication in finance\", \"teamwork\"], \"tools\": []}, {\"course_code\": \"COSE204/COSH204\", \"course_name\": \"i-TEC 2_Dự án AI (Artificial Intelligence Project)\", \"domain_knowledge\": [\"Artificial Intelligence\", \"machine learning\", \"deep learning\", \"software design\", \"business data analysis\"], \"jd_skills\": [\"programming\", \"machine learning algorithm application\", \"deep learning modeling\", \"project management\", \"software development\", \"presentation and group communication\"], \"tools\": [\"Python\", \"machine learning tools\", \"deep learning tools\"]}, {\"course_code\": \"NTSE326\", \"course_name\": \"Marketing Analytics (Phân tích dữ liệu Marketing)\", \"domain_knowledge\": [\"Customer Lifetime Value (CLV)\", \"Click-Through Rate (CTR)\", \"Cost Per Acquisition (CPA)\", \"Return on Marketing Investment (ROMI)\", \"customer segmentation (RFM)\", \"A/B testing\", \"attribution models\", \"AI in marketing\"], \"jd_skills\": [\"marketing campaign analysis\", \"data-driven segmentation\", \"A/B testing execution\", \"dashboard design\", \"business-oriented visualization presentation\", \"data processing\"], \"tools\": [\"Excel\", \"Google Sheets\", \"PowerPoint\", \"Google Slides\"]}, {\"course_code\": \"TCHE406/TCHH406\", \"course_name\": \"Công nghệ tài chính và ứng dụng (Fintech and applications)\", \"domain_knowledge\": [\"financial technology (Fintech)\", \"big data in finance\", \"AI and machine learning in portfolio optimization\", \"financial econometrics\", \"stock price prediction\", \"time series models\", \"expected returns forecasting\"], \"jd_skills\": [\"stock price prediction modeling\", \"optimal portfolio design\", \"mobile/web interface design\", \"econometric analysis\", \"programming\", \"presentation\", \"teamwork\"], \"tools\": [\"Python\", \"Figma\"]}, {\"course_code\": \"TMAE328\", \"course_name\": \"Trade Policy Analysis (Phân tích chính sách thương mại)\", \"domain_knowledge\": [\"international trade models\", \"gravity models\", \"computable general equilibrium models\", \"partial equilibrium models\", \"multilateral trade regulations\", \"Vietnam's trade policy\"], \"jd_skills\": [\"trade policy impact evaluation\", \"statistical analysis\", \"economic modeling\", \"quantitative analysis\", \"presentation\", \"written research\"], \"tools\": [\"Excel\", \"Stata\", \"R\"]}, {\"course_code\": \"QTRE432\", \"course_name\": \"Fundraising for new ventures (Gọi vốn cho khởi nghiệp)\", \"domain_knowledge\": [\"entrepreneurial finance\", \"start-up capital structure\", \"business evaluation and valuation\", \"venture capital method\", \"real options approach\", \"private equity industry\", \"employment contracts\", \"exit decisions\"], \"jd_skills\": [\"start-up valuation\", \"capital raising strategy design\", \"investment contract negotiation\", \"problem-solving\", \"digital tool usage\", \"technical writing\"], \"tools\": [\"computational techniques\"]}, {\"course_code\": \"KTEE528\", \"course_name\": \"e-PLANE V: Graduation Thesis (e-PLANE V: Khóa luận tốt nghiệp)\", \"domain_knowledge\": [\"international economics\", \"international business\", \"policy planning\", \"policy implementation\", \"organizational operation\"], \"jd_skills\": [\"advanced economic analysis\", \"creative problem-solving\", \"academic research\", \"professional communication\", \"thesis writing and defense\", \"task management\"], \"tools\": [\"academic tools\"]}, {\"course_code\": \"KTEE501\", \"course_name\": \"e-PLANE III: Mid-course Internship (e-PLANE III: Thực tập giữa khóa)\", \"domain_knowledge\": [\"Business Model Canvas\", \"Lean BMC\", \"organizational structure\", \"department relationships\", \"key resources\", \"market position\"], \"jd_skills\": [\"business model analysis\", \"operational tasks\", \"career planning\", \"professional adaptation\", \"teamwork\", \"communication\"], \"tools\": [\"Business Model Canvas\", \"Lean BMC\"]}, {\"course_code\": \"KTEE508\", \"course_name\": \"e-PLANE IV: Economic Project Practice (e-PLANE IV: Thực hành phân tích kinh tế)\", \"domain_knowledge\": [\"economic analysis\", \"business planning\", \"research methodologies\", \"international business environment (Industry 4.0)\"], \"jd_skills\": [\"economic research\", \"business plan development\", \"quantitative data analysis\", \"teamwork\", \"project coordination\", \"presentation\", \"creative problem-solving\"], \"tools\": [\"analytical tools\"]}, {\"course_code\": \"KTEE507\", \"course_name\": \"e-PLANE IV: Business Project Practice (e-PLANE IV: Thực hành dự án kinh doanh)\", \"domain_knowledge\": [\"business project management\", \"business planning\", \"industry 4.0 context\", \"business models\"], \"jd_skills\": [\"business project design\", \"operational evaluation\", \"business plan presentation\", \"team coordination\", \"innovative project implementation\", \"communication\"], \"tools\": []}, {\"course_code\": \"ITM301F\", \"course_name\": \"International Transport Management\", \"domain_knowledge\": [\"transport management\", \"liner and charter shipping\", \"air transport\", \"road/rail transport\", \"multimodal transport\", \"transport law\", \"trade-offs in logistics\", \"transport cost calculation\"], \"jd_skills\": [\"selecting modes of transport\", \"choosing transport companies\", \"cost calculation\", \"systemic analysis\", \"critical problem-solving\", \"professional presentation\"], \"tools\": []}, {\"course_code\": \"KTEE338\", \"course_name\": \"Contract in supply chain management\", \"domain_knowledge\": [\"supply chain contracts\", \"contract management processes\", \"contract performance criteria\", \"monitoring obligations\"], \"jd_skills\": [\"contract risk analysis\", \"contract design\", \"performance monitoring\", \"information analysis\", \"presentation\", \"negotiation\"], \"tools\": []}, {\"course_code\": \"MKTE306\", \"course_name\": \"Distribution channel and sales force management (Quản lý kênh phân phối và lực lượng bán hàng)\", \"domain_knowledge\": [\"distribution channel design\", \"channel member behavior\", \"marketing environment\", \"sales force management trends\", \"sales organization structure\"], \"jd_skills\": [\"distribution system design\", \"sales force coordination\", \"channel positioning\", \"communication\", \"presentation\"], \"tools\": []}, {\"course_code\": \"MKTE408\", \"course_name\": \"International Business Communication (Truyền thông trong kinh doanh)\", \"domain_knowledge\": [\"international business communication\", \"intercultural communication\", \"corporate brand reputation\", \"advertising media\"], \"jd_skills\": [\"communication strategy design\", \"business negotiation\", \"product advertising\", \"brand building\", \"digital content creation\", \"presentation\"], \"tools\": [\"information technology tools\"]}, {\"course_code\": \"KTEE220\", \"course_name\": \"Digital Media Economics (Kinh tế học về truyền thông số)\", \"domain_knowledge\": [\"digital media markets\", \"information goods\", \"two-sided markets\", \"data economy\", \"digital labor\", \"media monopolies\", \"digital consumer behavior\", \"regulatory policies\"], \"jd_skills\": [\"business model evaluation\", \"competitive structure analysis\", \"policy analysis\", \"professional presentation\", \"debate and critique\", \"report writing\"], \"tools\": []}, {\"course_code\": \"TMAE327\", \"course_name\": \"Business Innovation (Sáng tạo kinh doanh)\", \"domain_knowledge\": [\"social business models\", \"design thinking\", \"crowdfunding campaigns\", \"social business ecosystem\", \"social innovation\"], \"jd_skills\": [\"business model design\", \"design thinking implementation\", \"crowdfunding campaign execution\", \"information synthesis\", \"professional presentation\", \"team coordination\"], \"tools\": [\"Design thinking tools\"]}, {\"course_code\": \"GPM301F\", \"course_name\": \"Global Purchasing Management (Quản lý mua hàng toàn cầu)\", \"domain_knowledge\": [\"global procurement\", \"purchasing processes\", \"supplier evaluation criteria\", \"procurement risk control\", \"Kraljic Matrix\", \"Total Cost of Ownership (TCO)\", \"Multi-Criteria Analysis (MCA)\"], \"jd_skills\": [\"global purchasing planning\", \"supplier capability assessment\", \"total cost of ownership analysis\", \"procurement risk assessment\", \"decision making\", \"data analysis\"], \"tools\": [\"Kraljic Matrix\", \"Total Cost of Ownership (TCO)\", \"Multi-Criteria Analysis (MCA)\"]}, {\"course_code\": \"WDME301\", \"course_name\": \"Warehouse and Distribution Management (Quản lý kho hàng và phân phối)\", \"domain_knowledge\": [\"warehouse design\", \"distribution logistics\", \"transport planning\", \"reverse logistics\", \"warehouse management systems (WMS)\"], \"jd_skills\": [\"warehouse layout design\", \"distribution project analysis\", \"operational problem solving\", \"WMS data entry and analysis\", \"presentation\", \"teamwork\"], \"tools\": [\"WMS\", \"Fast\"]}, {\"course_code\": \"MKTE206\", \"course_name\": \"Digital marketing (Marketing số)\", \"domain_knowledge\": [\"digital marketing platforms\", \"customer experience (B2C and B2B)\", \"digital marketing strategies\"], \"jd_skills\": [\"digital marketing planning\", \"digital environment analysis\", \"data analytics tool utilization\", \"presentation\", \"strategy formulation\"], \"tools\": [\"digital platforms\", \"data analytics tools\"]}, {\"course_code\": \"TMAE202\", \"course_name\": \"Social Innovation (Sáng tạo xã hội)\", \"domain_knowledge\": [\"social entrepreneurship\", \"sustainable development\", \"social business ecosystem\", \"stakeholder relationships\", \"organizational culture for sustainability\"], \"jd_skills\": [\"sustainable business modeling\", \"creative social problem-solving\", \"project proposal\", \"team coordination\", \"presentation\", \"critical thinking\"], \"tools\": []}, {\"course_code\": \"MKTE407\", \"course_name\": \"Brand in International Business (Thương hiệu trong kinh doanh quốc tế)\", \"domain_knowledge\": [\"brand components\", \"brand classifications\", \"brand positioning\", \"brand development models in international trade\"], \"jd_skills\": [\"brand building\", \"brand positioning\", \"branding strategy analysis\", \"creative problem-solving\", \"presentation\", \"professional writing\"], \"tools\": []}, {\"course_code\": \"MKTE305\", \"course_name\": \"Marketing Research (Nghiên cứu Marketing)\", \"domain_knowledge\": [\"marketing research process\", \"research designs\", \"quantitative/qualitative methods\", \"questionnaire design\", \"sampling methods\"], \"jd_skills\": [\"research problem definition\", \"survey design\", \"data collection\", \"data analysis\", \"report writing\", \"presentation\", \"market environment analysis\"], \"tools\": [\"analytical software\"]}, {\"course_code\": \"MKTE402\", \"course_name\": \"Business Customer Relationship (Quan hệ khách hàng trong kinh doanh)\", \"domain_knowledge\": [\"customer relationship management (CRM)\", \"customer lifetime value\", \"customer data analysis\", \"CRM philosophy\", \"customer profitability\"], \"jd_skills\": [\"CRM program design\", \"customer database development\", \"CRM strategy implementation\", \"customer profitability assessment\", \"teamwork\", \"presentation\"], \"tools\": [\"CRM software\"]}]"}
+
+[
+  {
+    "course_code": "QTRE441",
+    "course_name": "Innovation Management",
+    "domain_knowledge": [
+      "Innovation management concepts",
+      "Types of innovation",
+      "Innovation management models",
+      "Theories of innovation management",
+      "Innovation processes",
+      "Enterprise innovation strategies"
+    ],
+    "jd_skills": [
+      "Manage innovation projects",
+      "Foster a creative culture",
+      "Identify and capitalize on innovation opportunities",
+      "Commercialize innovations",
+      "Apply creative methods to develop solutions",
+      "Creative problem-solving",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE405",
+    "course_name": "Applied Personal Finance",
+    "domain_knowledge": [
+      "Fundamentals of personal finance",
+      "Asset management (cash, deposits, automobile, real assets)",
+      "Personal credit management",
+      "Consumer loans management",
+      "Insurances (life, healthcare, automobile, house)",
+      "Investment methods (equities, fixed-income securities, real estates)",
+      "Retirement planning",
+      "Personal income and asset management"
+    ],
+    "jd_skills": [
+      "Personal financial planning",
+      "Develop personal financial plans",
+      "Evaluate current financial position",
+      "Assess saving and investment alternatives",
+      "Analyze financial data",
+      "Formulate financial plans",
+      "Written group/individual reporting",
+      "Financial presentations"
+    ],
+    "tools": [
+      "Personal finance applications",
+      "MS Teams",
+      "FTU e-Learning"
+    ]
+  },
+  {
+    "course_code": "DASE401/DASH401",
+    "course_name": "Deep learning and its applications",
+    "domain_knowledge": [
+      "Activation functions",
+      "Loss functions",
+      "Optimization techniques",
+      "Computational graphs",
+      "Multilayer perceptrons",
+      "Convolutional Neural Network (CNN)",
+      "Recurrent neural networks (RNN)",
+      "Generative adversarial networks (GAN)",
+      "Self-attention and transformers",
+      "Graph neural networks",
+      "Geometric deep learning",
+      "Neural differential equations",
+      "Neural architecture search",
+      "Federated learning",
+      "AI ethics (privacy, bias, accountability, human-AI interaction)"
+    ],
+    "jd_skills": [
+      "Implement deep learning models",
+      "Evaluate deep learning models",
+      "Image classification",
+      "Object detection",
+      "Sentiment analysis",
+      "Text generation",
+      "Game playing AI development",
+      "Compare deep learning model performance"
+    ],
+    "tools": [
+      "Python",
+      "Keras"
+    ]
+  },
+  {
+    "course_code": "TOAE206",
+    "course_name": "Time Series Models for Economics and Business",
+    "domain_knowledge": [
+      "Descriptive statistical analysis",
+      "Stationary and non-stationary series",
+      "Autocorrelation diagram",
+      "Unit root test",
+      "ARIMA models",
+      "SARIMA models",
+      "ARCH models",
+      "GARCH models",
+      "Vector Autoregression (VAR)",
+      "Error Correction Model (ECM)",
+      "Vector Error Correction Model (VECM)",
+      "Granger causality models",
+      "Toda-Yamamoto extended Granger causality model",
+      "Cointegration testing methods"
+    ],
+    "jd_skills": [
+      "Time series modeling",
+      "Economic analysis",
+      "Forecasting",
+      "Model estimation and selection",
+      "Logical thinking",
+      "Quantitative research"
+    ],
+    "tools": [
+      "Python"
+    ]
+  },
+  {
+    "course_code": "DASE400/DASH400",
+    "course_name": "Big Data Technologies and Tools",
+    "domain_knowledge": [
+      "Big Data characteristics (volume, variety, velocity, veracity, value)",
+      "Big Data ecosystem",
+      "Distributed storage systems",
+      "Data processing frameworks",
+      "NoSQL databases",
+      "MapReduce",
+      "Data integration",
+      "Real-time analytics"
+    ],
+    "jd_skills": [
+      "Manage and analyze large-scale datasets",
+      "Data collection",
+      "Data preprocessing",
+      "Data integration from multiple sources",
+      "Descriptive, inferential, predictive, and prescriptive analysis",
+      "Apply statistical measures to big data"
+    ],
+    "tools": [
+      "Apache Hadoop",
+      "Spark",
+      "HBase",
+      "R",
+      "Python",
+      "TensorFlow"
+    ]
+  },
+  {
+    "course_code": "KETE533",
+    "course_name": "Graduation Thesis – PACE4",
+    "domain_knowledge": [
+      "Political science",
+      "Social sciences",
+      "Research methodology",
+      "Accounting theory",
+      "Auditing standards",
+      "Taxation principles",
+      "Corporate finance"
+    ],
+    "jd_skills": [
+      "Conduct in-depth academic and practical research",
+      "Formulate research arguments",
+      "Methodological problem-solving",
+      "Scientific evaluation and synthesis",
+      "Information collection and processing",
+      "Report writing and academic communication",
+      "Professional decision-making"
+    ],
+    "tools": [
+      "Office applications",
+      "Research IT tools"
+    ]
+  },
+  {
+    "course_code": "QTRE408",
+    "course_name": "Cross-cultural management",
+    "domain_knowledge": [
+      "International management complexity",
+      "Organizational behavior",
+      "Human resources management",
+      "Cross-cultural frameworks and models",
+      "Cultural values, norms, and communication styles",
+      "Global business environment",
+      "Multicultural contexts"
+    ],
+    "jd_skills": [
+      "Manage people in international workplaces",
+      "Apply cross-cultural frameworks to business cases",
+      "Cross-cultural leadership and motivation",
+      "International negotiations and conflict resolution",
+      "Design culturally responsive HRM policies",
+      "Intercultural competence",
+      "Case analysis and strategic recommendation",
+      "Written business reporting",
+      "Professional presentations"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE402",
+    "course_name": "Insurance in Business",
+    "domain_knowledge": [
+      "Fundamental legal principles in insurance",
+      "Risk management necessity",
+      "Marine cargo insurance",
+      "Aviation insurance",
+      "Fire and special risk insurance",
+      "Construction and installation insurance",
+      "Insurance company operations",
+      "Legal and compliance functions"
+    ],
+    "jd_skills": [
+      "Arranging insurance policies",
+      "Evaluate international business risks",
+      "Apply general average calculation techniques",
+      "Solve practical insurance problems",
+      "Utilize legal-commercial tools"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "NHAE406",
+    "course_name": "Bank Risk Management",
+    "domain_knowledge": [
+      "Risk identification and classification",
+      "Market risk",
+      "Interest rate risk",
+      "Credit risk",
+      "Liquidity risk",
+      "Operational risk",
+      "Capital adequacy regulations",
+      "International risk management standards",
+      "Bank risk management procedures and strategies"
+    ],
+    "jd_skills": [
+      "Bank risk analysis",
+      "Evaluate risk management strategies",
+      "Apply risk measurement models",
+      "Propose bank risk management solutions",
+      "Case analysis",
+      "Teamwork and problem-solving"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE401",
+    "course_name": "International Business and Management",
+    "domain_knowledge": [
+      "Globalization drivers and criticisms",
+      "National environmental differences",
+      "Economic, political, legal, financial, and cultural differences",
+      "International trade theories",
+      "Government influence on international trade",
+      "Global market entry strategies",
+      "Cross-border management practices"
+    ],
+    "jd_skills": [
+      "Managerial decision-making in international settings",
+      "Assess global opportunities and risks",
+      "Adapt strategies to diverse cultural and economic contexts",
+      "Case study analysis",
+      "Develop global managerial mindset",
+      "Teamwork and independent study",
+      "Communication and presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KTE337",
+    "course_name": "Operation and Production Management in Supply chain",
+    "domain_knowledge": [
+      "Production management process",
+      "Production Control environment drivers",
+      "Forecasting in Operations Management",
+      "Production and Process Design and Development",
+      "Facility Planning and Design",
+      "Inventory Planning",
+      "Warehouse Management",
+      "JIT Manufacturing",
+      "Supply Chain Management",
+      "Productivity Management",
+      "Work Methods and Evaluation",
+      "Quality Control and Quality Management",
+      "Maintenance and Reliability Management"
+    ],
+    "jd_skills": [
+      "Evaluate production and operation practices",
+      "Apply economic and business theories to supply chain operations",
+      "Write business reports",
+      "Deliver presentations",
+      "Apply quantitative operational models"
+    ],
+    "tools": [
+      "Moving average (MA)",
+      "EOQ",
+      "ABC analysis",
+      "JIT",
+      "Kaizen",
+      "5S"
+    ]
+  },
+  {
+    "course_code": "NHAE401",
+    "course_name": "Bank lending",
+    "domain_knowledge": [
+      "Principles and practices of bank lending",
+      "Commercial banking principles",
+      "Types of bank loans",
+      "Borrowers' creditworthiness evaluation",
+      "Lending techniques",
+      "Credit appraisal procedures",
+      "Loan structuring",
+      "Credit portfolio monitoring"
+    ],
+    "jd_skills": [
+      "Analyze credit needs",
+      "Analyze borrowers' financial statements",
+      "Make sound lending decisions",
+      "Conduct customer interviews",
+      "Prepare loan documentation",
+      "Complete credit appraisal",
+      "Teamwork and communication",
+      "Manage credit risks"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "COSE403/COSH403",
+    "course_name": "Distributed System and Blockchain Technology",
+    "domain_knowledge": [
+      "Principles of distributed computing systems",
+      "Decentralized systems",
+      "Blockchain technology fundamentals",
+      "Consensus mechanisms",
+      "Blockchain applications in FinTech",
+      "Blockchain applications in supply chain management"
+    ],
+    "jd_skills": [
+      "Golang programming",
+      "Solidity programming",
+      "Analyze open-source blockchain source code",
+      "Develop decentralized applications (dApps)",
+      "Team programming"
+    ],
+    "tools": [
+      "Golang",
+      "Solidity",
+      "Ethereum"
+    ]
+  },
+  {
+    "course_code": "QTRE413",
+    "course_name": "Advanced Financial Management",
+    "domain_knowledge": [
+      "Capital budgeting",
+      "Capital structure propositions",
+      "Payout policy decisions",
+      "Risk-return relationships",
+      "Cost of capital",
+      "Portfolio management principles"
+    ],
+    "jd_skills": [
+      "Make corporate capital budgeting decisions",
+      "Estimate the cost of capital",
+      "Evaluate payout policy options",
+      "Provide senior financial advisory",
+      "Financial problem-solving",
+      "Independent and critical thinking",
+      "Professional presentations"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE443",
+    "course_name": "Financial Modeling",
+    "domain_knowledge": [
+      "Financial modeling concepts",
+      "Calculus tools in finance",
+      "Business valuation models",
+      "Asset pricing models",
+      "Risk management models",
+      "Corporate financial management"
+    ],
+    "jd_skills": [
+      "Build business valuation models",
+      "Build asset pricing models",
+      "Build risk management models",
+      "Analyze financial data",
+      "Construct financial models on personal computers",
+      "Support financial decision-making",
+      "Group project report writing"
+    ],
+    "tools": [
+      "Excel",
+      "personal computers modeling tools"
+    ]
+  },
+  {
+    "course_code": "COSE405/COSH405",
+    "course_name": "Advanced Programming",
+    "domain_knowledge": [
+      "Advanced programming techniques",
+      "High-level programming languages",
+      "Sorting and searching algorithms",
+      "Algorithms on data structures",
+      "Array operations",
+      "Recursion",
+      "Pointers",
+      "File operations",
+      "Exception handling"
+    ],
+    "jd_skills": [
+      "Advanced software coding",
+      "Implement and test basic algorithms",
+      "Debugging and code optimization",
+      "Team programming",
+      "Self-learning new programming languages"
+    ],
+    "tools": [
+      "Java",
+      "C++",
+      "Software development tools"
+    ]
+  },
+  {
+    "course_code": "DTUE306",
+    "course_name": "Real Estate Finance",
+    "domain_knowledge": [
+      "Residential real estate finance",
+      "Commercial real estate finance",
+      "Real estate investing risks and rewards",
+      "Development financing",
+      "Real estate appraising",
+      "Managing real estate portfolios",
+      "Leasing and property management",
+      "Analyzing site locations"
+    ],
+    "jd_skills": [
+      "Value the real estate market",
+      "Model real estate investment issues",
+      "Process and analyze financial data",
+      "Build real estate portfolios",
+      "Conduct professional debate",
+      "Collaborative research"
+    ],
+    "tools": [
+      "Simulation project tools"
+    ]
+  },
+  {
+    "course_code": "QTRE328/QTRH328",
+    "course_name": "Management of New Product Development",
+    "domain_knowledge": [
+      "Theories of new products",
+      "New product development process",
+      "Minimum Viable Product (MVP) concepts",
+      "Product launching frameworks"
+    ],
+    "jd_skills": [
+      "Apply product development tools",
+      "Design prototypes and MVPs",
+      "Build product launch plans",
+      "Problem-solving and product ownership",
+      "Independent project management",
+      "Multi-tasking teamwork"
+    ],
+    "tools": [
+      "Prototyping tools",
+      "MVP design platforms"
+    ]
+  },
+  {
+    "course_code": "KETE408",
+    "course_name": "Internship – PACE2",
+    "domain_knowledge": [
+      "Corporate environments",
+      "Business operations",
+      "Accounting processes",
+      "Auditing practices",
+      "Financial management",
+      "Taxation within enterprises"
+    ],
+    "jd_skills": [
+      "Perform corporate accounting and auditing tasks",
+      "Observe and analyze business transactions",
+      "Compare academic theory with practice",
+      "Identify corporate issues",
+      "Formulate recommendations for businesses",
+      "Communication and presentation",
+      "Professional report writing"
+    ],
+    "tools": [
+      "Office productivity tools",
+      "Enterprise accounting software",
+      "Excel"
+    ]
+  },
+  {
+    "course_code": "KTEE209",
+    "course_name": "Survey Design and Data Analysis",
+    "domain_knowledge": [
+      "Primary data collection meaning and methods",
+      "Quantitative research design",
+      "Socio-economic research fields",
+      "Behavioral economics",
+      "Economic and econometric models"
+    ],
+    "jd_skills": [
+      "Design questionnaires",
+      "Collect and process primary data",
+      "Analyze and evaluate survey data",
+      "Apply econometric models to analyze data",
+      "Write data-driven research reports",
+      "Critical thinking",
+      "Collaborate in teams"
+    ],
+    "tools": [
+      "Google Forms",
+      "Qualtrics",
+      "SurveyMonkey",
+      "Excel",
+      "R",
+      "SPSS Amos",
+      "Stata",
+      "SmartPLS"
+    ]
+  },
+  {
+    "course_code": "TCHE456",
+    "course_name": "Mergers & Acquisitions",
+    "domain_knowledge": [
+      "M&A market dynamics",
+      "Corporate strategy in M&A",
+      "Motivations for M&A (strategic, financial, market)",
+      "Capital structure in M&A",
+      "Shareholder value maximization",
+      "Market for corporate control",
+      "Valuation techniques in M&A",
+      "Corporate restructuring"
+    ],
+    "jd_skills": [
+      "Execute acquisition plans",
+      "Valuate target businesses",
+      "Deal structuring",
+      "Formulate financing strategies",
+      "Assess strategic fit",
+      "Collaborate on case analysis",
+      "Present M&A proposals"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DTUE408",
+    "course_name": "Security Technical Analysis",
+    "domain_knowledge": [
+      "Technical Analysis core theories",
+      "Dow theory",
+      "Reversal rules",
+      "Price and trading volume fluctuations",
+      "Trend identification"
+    ],
+    "jd_skills": [
+      "Analyze trends and price movements",
+      "Interpret real-time stock market data",
+      "Design technical analysis reports",
+      "Collaborative problem-solving",
+      "Market forecasting"
+    ],
+    "tools": [
+      "Chart analysis tools",
+      "Trading platforms"
+    ]
+  },
+  {
+    "course_code": "COSE402/COSH402",
+    "course_name": "Web & Mobile Application Development",
+    "domain_knowledge": [
+      "Web application architecture",
+      "Mobile application architecture (iOS/Android)",
+      "Front-end technologies",
+      "Back-end technologies",
+      "Server-side scripting",
+      "Database integration",
+      "Cross-platform mobile frameworks"
+    ],
+    "jd_skills": [
+      "Design web and mobile user interfaces",
+      "Develop responsive front-ends",
+      "Program server-side logic",
+      "Perform database integration",
+      "Develop cross-platform mobile apps",
+      "Test and deploy web/mobile applications"
+    ],
+    "tools": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web frameworks",
+      "Mobile development frameworks"
+    ]
+  },
+  {
+    "course_code": "COSE404/COSH404",
+    "course_name": "Cloud computing",
+    "domain_knowledge": [
+      "Cloud computing concepts",
+      "Cloud service models (IaaS, PaaS, SaaS)",
+      "Cloud deployment models (public, private, hybrid)",
+      "Cloud security architecture",
+      "Hybrid multi-cloud concepts",
+      "Microservices",
+      "Serverless architecture",
+      "DevOps",
+      "Internet of Things (IoT) cloud integration"
+    ],
+    "jd_skills": [
+      "Analyze cloud performance, scalability, and cost",
+      "Design cloud applications",
+      "Develop and deploy cloud services",
+      "Evaluate and select cloud solutions",
+      "Manage cloud infrastructures"
+    ],
+    "tools": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "IBM Cloud"
+    ]
+  },
+  {
+    "course_code": "TMAE301",
+    "course_name": "International Trade Policy",
+    "domain_knowledge": [
+      "Classical trade theories",
+      "Modern trade theories",
+      "Policy instruments governing global commerce",
+      "State import and export management",
+      "Multilateral trade regulations",
+      "Commitments in international trade",
+      "Vietnam's trade policy"
+    ],
+    "jd_skills": [
+      "Analyze international trade policy issues",
+      "Retrieve and analyze trade data",
+      "Propose solutions for import/export activities",
+      "Trade policy research"
+    ],
+    "tools": [
+      "Trade databases"
+    ]
+  },
+  {
+    "course_code": "VJP204",
+    "course_name": "Business Communication",
+    "domain_knowledge": [
+      "Business writing styles",
+      "Effective document design principles",
+      "Contemporary business communication channels",
+      "Intercultural communication strategies",
+      "Nonverbal communication in workplace",
+      "Communication ethics"
+    ],
+    "jd_skills": [
+      "Prepare business correspondence",
+      "Write memos, business letters, and reports",
+      "Deliver professional presentations",
+      "Prepare job application packages (resumes, cover letters)",
+      "Job interviewing",
+      "Perform academic referencing (APA)",
+      "Collaborative writing"
+    ],
+    "tools": [
+      "APA referencing system"
+    ]
+  },
+  {
+    "course_code": "TCHE427",
+    "course_name": "Behavioural Finance",
+    "domain_knowledge": [
+      "Psychological phenomena in finance",
+      "Behavioural finance theory",
+      "Self-deception errors theory",
+      "Heuristics-based judgment",
+      "Emotion-based judgment",
+      "Social effects theory",
+      "Efficient market hypothesis",
+      "Traditional wealth management vs behavioral finance"
+    ],
+    "jd_skills": [
+      "Analyze psychological influences on investment decisions",
+      "Construct investment portfolios based on investor psychology",
+      "Explain investment market anomalies",
+      "Deliver persuasive financial presentations",
+      "Conduct independent finance research"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KET.F9.2",
+    "course_name": "Financial Management 2",
+    "domain_knowledge": [
+      "Corporate financial management",
+      "Valuation of bonds and stocks",
+      "Cost of capital models (cost of equity, cost of debt, WACC)",
+      "Capital structure theories",
+      "Dividend policies",
+      "Financial risk management (interest rates, foreign currencies)",
+      "Business valuation methods",
+      "Market efficiency theories"
+    ],
+    "jd_skills": [
+      "Calculate corporate cost of capital",
+      "Evaluate corporate financing options",
+      "Apply asset and business valuation models",
+      "Develop risk mitigation plans",
+      "Formulate financial strategies",
+      "Process and present financial data"
+    ],
+    "tools": [
+      "IT tools",
+      "Excel"
+    ]
+  },
+  {
+    "course_code": "QTRE444",
+    "course_name": "Agile Project Management",
+    "domain_knowledge": [
+      "Agile methodology principles",
+      "Agile Manifesto values and principles",
+      "Conventional vs agile approaches",
+      "Agile project frameworks and methods",
+      "Stakeholder engagement in agile",
+      "Agile performance metrics",
+      "APM dimensions (time, cost, risk, quality management)"
+    ],
+    "jd_skills": [
+      "Gather agile requirements",
+      "Agile project estimation",
+      "Agile release planning",
+      "Track performance metrics",
+      "Apply agile PM tools for project execution",
+      "Agile team leadership",
+      "Report writing and academic citation"
+    ],
+    "tools": [
+      "Agile PM tools",
+      "Harvard citation system"
+    ]
+  },
+  {
+    "course_code": "KTEE213",
+    "course_name": "Impact Evaluation",
+    "domain_knowledge": [
+      "Randomized assignment",
+      "Instrumental variables",
+      "Regression discontinuity design",
+      "Difference-in-differences",
+      "Matching methods",
+      "Correlation vs causality",
+      "Impact evaluation research ethics"
+    ],
+    "jd_skills": [
+      "Select impact evaluation methods for specific policies/programs",
+      "Quantify policy intervention impacts",
+      "Develop impact evaluation projects",
+      "Quantitative data analysis",
+      "Data visualization",
+      "Deliver professional presentations"
+    ],
+    "tools": [
+      "Quantitative data analysis software",
+      "Statistical visualization tools"
+    ]
+  },
+  {
+    "course_code": "KET.F9.1",
+    "course_name": "Financial Management 1",
+    "domain_knowledge": [
+      "Fundamentals of financial management",
+      "Corporate and stakeholder objectives",
+      "Macroeconomic environment and policy effects",
+      "Financial markets",
+      "Working capital funding strategies"
+    ],
+    "jd_skills": [
+      "Perform corporate financial analysis",
+      "Manage inventory, receivables, and payables",
+      "Manage corporate cash",
+      "Appraise investment projects",
+      "Make corporate investment decisions",
+      "Financial planning"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE431",
+    "course_name": "Public Finance",
+    "domain_knowledge": [
+      "Public finance nature and government role",
+      "Resource allocation foundations",
+      "Public goods provision",
+      "Cost-benefit analysis for public projects",
+      "Tax system mechanisms and theories",
+      "Tax inefficiency and excess burden",
+      "State budget positions and deficits",
+      "Public debt causes and impacts",
+      "Extra-budgetary public financial funds"
+    ],
+    "jd_skills": [
+      "Analyze specialized issues in public finance",
+      "Assess public finance policy impacts on markets and enterprises",
+      "Apply public project appraisal methods",
+      "Budget analysis",
+      "Critical thinking",
+      "Defend professional viewpoints"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE453",
+    "course_name": "Short-term finance",
+    "domain_knowledge": [
+      "Short-term financial decisions",
+      "Short-term financing instruments",
+      "Near-future cash flows analysis",
+      "Credit granting decisions",
+      "Financial aspects of inventory management",
+      "Cash holding motives and costs"
+    ],
+    "jd_skills": [
+      "Analyze short-term financial performance",
+      "Manage cash, credit, and inventory",
+      "Perform financial statement analysis",
+      "Read and interpret professional financial news",
+      "Deliver professional presentations",
+      "Team leadership"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DTUE303",
+    "course_name": "Introduction of Investment",
+    "domain_knowledge": [
+      "Investment process basics",
+      "Capital market functions",
+      "Investment vehicles and financial instruments",
+      "Modern portfolio theory",
+      "Asset pricing models"
+    ],
+    "jd_skills": [
+      "Analyze investment vehicles",
+      "Apply portfolio management models",
+      "Apply asset pricing models",
+      "Evaluate business and investment situations",
+      "English communication & presentation",
+      "Problem-solving and teamwork"
+    ],
+    "tools": [
+      "Office IT tools"
+    ]
+  },
+  {
+    "course_code": "TANE313",
+    "course_name": "Public Speaking",
+    "domain_knowledge": [
+      "Models of communication",
+      "Types of public speaking (informative, impromptu, persuasive, introduction)",
+      "Speech adaptation for audiences",
+      "Speech selection and organizational patterns",
+      "Ethical standards in communication"
+    ],
+    "jd_skills": [
+      "Conduct speech audience adaptation",
+      "Deliver speeches with vocal variety and fluent message delivery",
+      "Use relevant body language and eye contact",
+      "Design mediated and non-mediated presentational aids",
+      "Write informative and persuasive speech content",
+      "Active and analytical listening"
+    ],
+    "tools": [
+      "Multimedia presentation tools"
+    ]
+  },
+  {
+    "course_code": "KTEE310",
+    "course_name": "Financial Econometrics",
+    "domain_knowledge": [
+      "Financial econometrics principles",
+      "Financial time series analysis",
+      "AR, MA, and ARMA models",
+      "Vector Autoregression (VAR)",
+      "Error Correction Models (ECM)",
+      "ARCH and GARCH models"
+    ],
+    "jd_skills": [
+      "Analyze financial data series",
+      "Predict price trends",
+      "Conduct empirical financial research",
+      "Quantitative forecasting",
+      "Data analysis"
+    ],
+    "tools": [
+      "Statistical software"
+    ]
+  },
+  {
+    "course_code": "PLUE302",
+    "course_name": "Law on Finance and Banking",
+    "domain_knowledge": [
+      "Banking and financial law overview",
+      "State budget and public finance regulations",
+      "Taxation legal frameworks",
+      "Insurance and securities laws",
+      "Banking activities of credit institutions",
+      "Finance and banking violations and punishments",
+      "Dispute resolution in finance"
+    ],
+    "jd_skills": [
+      "Apply banking and financial rules to cases",
+      "Conduct legal reasoning and analysis",
+      "Legal research and writing",
+      "Counsel clients on finance and banking regulations",
+      "Resolve legal disputes in finance and banking"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE446",
+    "course_name": "Business Valuation",
+    "domain_knowledge": [
+      "Principles of corporate value creation",
+      "Growth and core valuation frameworks",
+      "Financial statement analysis",
+      "Performance forecasting methods",
+      "Cost of capital",
+      "Enterprise and equity value concepts",
+      "Intrinsic valuation",
+      "Relative valuation",
+      "Multiples analysis"
+    ],
+    "jd_skills": [
+      "Measure return on invested capital",
+      "Analyze corporate financial statements",
+      "Forecast business performance",
+      "Estimate cost of capital and enterprise value",
+      "Apply scenario analysis to valuations",
+      "Apply relative multiple analysis",
+      "Written/oral business valuation reporting"
+    ],
+    "tools": [
+      "IT tools",
+      "Excel"
+    ]
+  },
+  {
+    "course_code": "QTRE445",
+    "course_name": "Strategic Financial Management",
+    "domain_knowledge": [
+      "Corporate strategy and financial management intersection",
+      "Strategic frameworks and models",
+      "Internal and external analysis",
+      "Strategic option generation and screening",
+      "Financial option implementation",
+      "Detailed sector analysis"
+    ],
+    "jd_skills": [
+      "Analyze organizational strategic direction",
+      "Represent data for professional practice",
+      "Evaluate external environment impacts",
+      "Perform detailed sector analysis",
+      "Evaluate organizational option generation and screening",
+      "Analyze companies and make decisions through case studies",
+      "Report financial solutions",
+      "Deliver professional presentations"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE310",
+    "course_name": "Customs Affairs",
+    "domain_knowledge": [
+      "Customs procedures and operational principles",
+      "Vietnam and global customs system",
+      "International trade and customs law",
+      "Goods classification and HS code",
+      "Determination of origin",
+      "Customs valuation principles",
+      "Anti-smuggling and trade fraud prevention",
+      "Supply chain security"
+    ],
+    "jd_skills": [
+      "Prepare import/export customs documentation",
+      "Determine HS code, origin, and customs value",
+      "Complete VNACCS declarations",
+      "Handle customs inspections",
+      "Solve customs scenarios",
+      "Collaborate on trade project reports"
+    ],
+    "tools": [
+      "VNACCS"
+    ]
+  },
+  {
+    "course_code": "TMAE315",
+    "course_name": "International Investment Project Management",
+    "domain_knowledge": [
+      "International investment project theories",
+      "Project management theories",
+      "Project lifecycle phases (initiation, planning, execution, monitoring, closure)",
+      "Project organization personnel structures",
+      "Work Breakdown Structure (WBS)",
+      "Project scheduling and resource allocation"
+    ],
+    "jd_skills": [
+      "Select projects and personnel structures",
+      "Develop project activity plans",
+      "Estimate project budgets",
+      "Perform project risk management",
+      "Lead project teams",
+      "Use analytical project tools"
+    ],
+    "tools": [
+      "Microsoft Project",
+      "Crystal Ball",
+      "Gantt chart"
+    ]
+  },
+  {
+    "course_code": "KETH319",
+    "course_name": "Ứng dụng công nghệ trong kế toán",
+    "domain_knowledge": [
+      "Role of technology in accounting",
+      "Accounting information processing",
+      "Data visualization and reporting principles",
+      "Specialized accounting software concepts"
+    ],
+    "jd_skills": [
+      "Process financial and accounting transactions using IT tools",
+      "Create visualization-based accounting reports",
+      "Perform accounting data analysis",
+      "Critical thinking and professional presentation",
+      "Work with specialized accounting software"
+    ],
+    "tools": [
+      "Excel",
+      "PowerBI",
+      "MISA"
+    ]
+  },
+  {
+    "course_code": "TMAE406",
+    "course_name": "Technology Transfer",
+    "domain_knowledge": [
+      "Categories of technology",
+      "Technology transfer concepts",
+      "Technology transfer contracts",
+      "Legal and regulatory aspects of transfer",
+      "International business operations context"
+    ],
+    "jd_skills": [
+      "Analyze technology transfer activities of enterprises",
+      "Evaluate technology transfer contracts",
+      "Perform business reasoning and communication",
+      "Comply with ethical and academic integrity standards"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KET.F8.4",
+    "course_name": "Audit and Assurance Services – F8 part 2",
+    "domain_knowledge": [
+      "Financial statement audit detailed methodology",
+      "International Standards on Auditing (ISAs)",
+      "Audit cycles and financial statement items",
+      "Final review and report procedures",
+      "Subsequent events and going concern principle",
+      "Auditor's report types",
+      "Written representations",
+      "Management letters"
+    ],
+    "jd_skills": [
+      "Execute audit procedures on specific items",
+      "Analyze audit evidence to assess risks",
+      "Identify potential misstatements",
+      "Apply professional skepticism",
+      "Prepare structured audit working papers",
+      "Propose audit conclusions"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE330",
+    "course_name": "International Taxation",
+    "domain_knowledge": [
+      "Fundamental tax theories",
+      "Taxation components and principles",
+      "Tax system in Vietnam",
+      "Personal Income Tax (PIT)",
+      "Special Consumption Tax (SCT)",
+      "Import–Export Duties",
+      "Value-Added Tax (VAT)",
+      "Corporate Income Tax (CIT)"
+    ],
+    "jd_skills": [
+      "Perform tax calculation",
+      "Analyze tax cases and compliance issues",
+      "Apply tax rules to international business transactions",
+      "Academic and professional presentations"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE442",
+    "course_name": "Corporate Governance",
+    "domain_knowledge": [
+      "Principles, theories, and practices of corporate governance",
+      "Roles of shareholders, stakeholders, and boards",
+      "Theoretical foundations and governance models",
+      "Corporate risk governance mechanisms",
+      "Disclosure practices",
+      "Corporate Social Responsibility (CSR) and sustainability"
+    ],
+    "jd_skills": [
+      "Analyze corporate governance structures",
+      "Assess board performance and composition",
+      "Evaluate risk governance mechanisms",
+      "Propose governance solutions",
+      "Apply CSR and sustainability initiatives",
+      "Case-based analysis and presentation",
+      "Critical thinking and teamwork leadership"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE421",
+    "course_name": "Strategic Corporate Finance",
+    "domain_knowledge": [
+      "Strategic corporate finance principles",
+      "Economic value and market value",
+      "Capital allocation strategies",
+      "Cash flow forecasting and risk assessment",
+      "Income distribution policies",
+      "Capital structure decisions",
+      "Bankruptcy and corporate restructuring",
+      "Mergers & acquisitions (M&A) mechanisms"
+    ],
+    "jd_skills": [
+      "Formulate corporate financial decisions",
+      "Perform corporate financial valuation",
+      "Execute M&A and restructuring analysis",
+      "Design quantitative models for strategic decisions",
+      "Process financial data using software",
+      "Academic English communication",
+      "Team leadership"
+    ],
+    "tools": [
+      "Corporate finance modeling software"
+    ]
+  },
+  {
+    "course_code": "QTRE206",
+    "course_name": "Personal Financial Management",
+    "domain_knowledge": [
+      "Personal financial planning process",
+      "Time value of money principles",
+      "Personal financial statements",
+      "Cash flow management and budgeting",
+      "Credit management strategies",
+      "Consumption and financing choices",
+      "Asset protection and insurance",
+      "Investment portfolio design",
+      "Retirement and estate planning"
+    ],
+    "jd_skills": [
+      "Assess individual financial position",
+      "Analyze and project personal cash flows",
+      "Formulate budgets",
+      "Develop tailored investment and debt reduction plans",
+      "Design and justify personal financial plans",
+      "Case study analysis"
+    ],
+    "tools": [
+      "Budgeting tools"
+    ]
+  },
+  {
+    "course_code": "TCHE446",
+    "course_name": "Entrepreneurship and Innovation",
+    "domain_knowledge": [
+      "Innovation and entrepreneurship concepts",
+      "Innovation strategies",
+      "Technological trajectories",
+      "Competitive environments",
+      "Market, technological, and organizational change",
+      "Venture creation planning",
+      "Raising capital and building management teams",
+      "Organizational learning, alliances, and corporate ventures"
+    ],
+    "jd_skills": [
+      "Assess markets and identify business opportunities",
+      "Design innovation strategies",
+      "Develop and test business models",
+      "Plan early-stage venture operations",
+      "Analyze business cases and propose solutions",
+      "Pitch and present business ideas",
+      "Innovation project management"
+    ],
+    "tools": [
+      "Innovation mapping models"
+    ]
+  },
+  {
+    "course_code": "QTRE212/QTRH212",
+    "course_name": "Leadership and strategy practicum",
+    "domain_knowledge": [
+      "Strategic leadership and management planning",
+      "Organizational structuring and restructuring",
+      "Human Resource Management strategic roles",
+      "Power, conflict, and coalitions within organizations",
+      "Manager as change agent",
+      "Organizational culture (myths, values, identities, rituals)",
+      "Change management frameworks"
+    ],
+    "jd_skills": [
+      "Develop strategic leadership plans",
+      "Analyze organizational situations from multiple perspectives",
+      "Engage in structured reflection",
+      "Design effective change management plans",
+      "Problem-solving for complex/wicked problems",
+      "Interpersonal skills (collaboration, presentation, motivation)",
+      "Team leadership"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE408",
+    "course_name": "Intellectual Property",
+    "domain_knowledge": [
+      "Intellectual property rights principles",
+      "Objects of intellectual property (copyright, industrial property, plant varieties)",
+      "Intellectual property role in business and state",
+      "Relationship between intellectual property and trade"
+    ],
+    "jd_skills": [
+      "Assess and resolve intellectual property issues",
+      "Retrieve legal documents and patent data",
+      "Apply IP knowledge to international operations",
+      "Propose IP protection and licensing solutions",
+      "Academic and professional communication"
+    ],
+    "tools": [
+      "Intellectual property databases",
+      "Legal retrieval tools"
+    ]
+  },
+  {
+    "course_code": "COSE401/COSH401",
+    "course_name": "Software Quality Assurance",
+    "domain_knowledge": [
+      "Software quality assurance concepts",
+      "Quality standards",
+      "Review techniques (requirements, analysis, design, source code)",
+      "Software testing methodologies"
+    ],
+    "jd_skills": [
+      "Perform quality assurance activities across the software lifecycle",
+      "Conduct requirements and design reviews",
+      "Perform source code reviews",
+      "Implement automated testing",
+      "Write test plans and cases"
+    ],
+    "tools": [
+      "Selenium",
+      "Automated testing tools"
+    ]
+  },
+  {
+    "course_code": "TMAE410",
+    "course_name": "Trade Facilitation",
+    "domain_knowledge": [
+      "Theories and regulatory frameworks of trade facilitation",
+      "Trade transaction costs",
+      "Trade policy instruments",
+      "Doha Development Agenda",
+      "WTO Trade Facilitation Agreement (freedom of transit, fees, formalities, transparency)"
+    ],
+    "jd_skills": [
+      "Analyze strategic trade facilitation issues",
+      "Assess trade process effectiveness",
+      "Propose process improvements",
+      "Develop trade processes that align with agreements",
+      "Present analysis and recommendations"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE429",
+    "course_name": "Project Financing",
+    "domain_knowledge": [
+      "Project financing structures",
+      "Project risk identification and mitigation",
+      "Funding sources and financing criteria",
+      "Project evaluation and appraisal techniques",
+      "Cash flow analysis and projections",
+      "Cost of capital",
+      "Risk-return considerations"
+    ],
+    "jd_skills": [
+      "Assess feasibility of project finance mobilization",
+      "Analyze data and compile project financing reports",
+      "Design project financing plans",
+      "Collaborate on financial case studies",
+      "Deliver professional presentations"
+    ],
+    "tools": [
+      "Financial modeling software",
+      "MS Teams",
+      "FTU e-Learning"
+    ]
+  },
+  {
+    "course_code": "QTRE443",
+    "course_name": "The Fundamentals of M&A and Corporate Restructurings",
+    "domain_knowledge": [
+      "Corporate restructuring concepts",
+      "M&A processes and board governance",
+      "Leveraged buyouts",
+      "Consulting and finance roles in M&A",
+      "Merger integration (operational and financial)",
+      "Corporate distress, financial restructuring, and bankruptcy",
+      "Joint ventures and strategic alliances",
+      "M&A commercial, legal, and tax context (Vietnam & international)"
+    ],
+    "jd_skills": [
+      "Evaluate M&A transactions",
+      "Analyze financial statements and industry reports",
+      "Conduct M&A case study analysis",
+      "Draft written restructuring reports",
+      "Deliver oral M&A presentations",
+      "Apply restructuring frameworks"
+    ],
+    "tools": [
+      "Harvard citation system"
+    ]
+  },
+  {
+    "course_code": "MKTE405",
+    "course_name": "Marketing of Financial Services",
+    "domain_knowledge": [
+      "Marketing principles for financial and banking services",
+      "Financial market dynamics",
+      "Customer behavior in finance and banking",
+      "Product and service development in banking",
+      "Branding strategies",
+      "Digital marketing in banking",
+      "Financial service characteristics (intangibility, trust, regulation)",
+      "Fintech and digital transformation trends"
+    ],
+    "jd_skills": [
+      "Analyze financial markets",
+      "Develop marketing plans for financial/banking services",
+      "Design targeted marketing campaigns",
+      "Manage marketing projects",
+      "Teamwork and leadership"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE412",
+    "course_name": "Trade in Services",
+    "domain_knowledge": [
+      "International trade in services concepts",
+      "Characteristics and roles of trade in services",
+      "General Agreement on Trade in Services (GATS)",
+      "WTO principles and service commitments",
+      "National service sector policies",
+      "Service export strategies"
+    ],
+    "jd_skills": [
+      "Identify service trade economic phenomena",
+      "Analyze international service markets",
+      "Propose service export solutions",
+      "Perform compliance checks against trade policies"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "PLUE424",
+    "course_name": "Competition Law",
+    "domain_knowledge": [
+      "Economic competition and policy",
+      "Competition economics (industrial-organisation theory)",
+      "Vietnamese Competition Law",
+      "WTO competition provisions",
+      "Competition commitments in FTAs",
+      "Relevant market concepts and definition methods",
+      "Anti-competitive practices (agreements, abuse of power, concentrations)",
+      "Unfair competition rules",
+      "Competition authorities jurisdiction and procedure"
+    ],
+    "jd_skills": [
+      "Define relevant markets",
+      "Assess anti-competitive impact of business transactions",
+      "Analyze anti-competitive agreements",
+      "Solve competition-law issues",
+      "Research international competition law and policy",
+      "Teamwork and professional presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE440",
+    "course_name": "Electronic supply chain management",
+    "domain_knowledge": [
+      "Integrated supply chain",
+      "Procurement and service management strategies",
+      "E-commerce in supply chains",
+      "Information technology in SCM",
+      "Supply chain synchronization",
+      "Global electronic supply chain implications",
+      "E-supply chain trends and challenges",
+      "Management information systems (MIS)"
+    ],
+    "jd_skills": [
+      "Plan, organize, operate, and control SCM processes",
+      "Design, analyze, and improve e-business supply chains",
+      "Perform case study analysis and write SCM reports",
+      "Apply ICT in supply chain operations",
+      "Collaborative teamwork",
+      "Retrieve online business information"
+    ],
+    "tools": [
+      "office software (Word, Excel, PowerPoint)",
+      "LAN/Internet tools",
+      "Management Information Systems (MIS)"
+    ]
+  },
+  {
+    "course_code": "TMAE205",
+    "course_name": "Transport Economics",
+    "domain_knowledge": [
+      "National transportation system",
+      "Transport demand and capacity",
+      "Labor, wages, and costs in transport",
+      "Pricing and freight rates",
+      "Revenue and profit in transport",
+      "International transport",
+      "Maritime transport"
+    ],
+    "jd_skills": [
+      "Analyze transportation systems operations",
+      "Evaluate and optimize transport activities",
+      "Perform economic calculations (costs, pricing, freight rates, profit)",
+      "Professional communication",
+      "Problem-solving and creative thinking"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KDOE302",
+    "course_name": "Negotiation and conflict management",
+    "domain_knowledge": [
+      "Negotiation theories",
+      "Conflict management theories",
+      "International trade negotiation frameworks",
+      "Cross-cultural communication in negotiation",
+      "Negotiation strategies, tactics, and styles"
+    ],
+    "jd_skills": [
+      "Analyze negotiation scenarios",
+      "Design effective negotiation approaches",
+      "Evaluate negotiation outcomes",
+      "Resolve cross-border disputes",
+      "Build collaborative business relationships",
+      "Perform negotiation simulations",
+      "Work in multicultural teams"
+    ],
+    "tools": [
+      "Negotiation simulation platforms"
+    ]
+  },
+  {
+    "course_code": "KET.F8.3",
+    "course_name": "Audit and Assurance Services – F8 part 1",
+    "domain_knowledge": [
+      "Audit regulatory framework",
+      "Audit and assurance concepts",
+      "Functions of audits",
+      "Corporate governance basics",
+      "Professional ethics and conduct",
+      "Audit planning and client acceptance",
+      "Risk of material misstatement",
+      "Internal control systems",
+      "Audit evidence, assertions, and procedures"
+    ],
+    "jd_skills": [
+      "Formulate audit plans",
+      "Perform risk assessment",
+      "Analyze and recommend improvements for internal controls",
+      "Identify audit risks and propose responses",
+      "Apply professional skepticism and code of conduct",
+      "Work within an audit team"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE311",
+    "course_name": "AI Applications in Corporate finance",
+    "domain_knowledge": [
+      "Artificial Intelligence (AI) and Generative AI",
+      "AI in Corporate Finance",
+      "Quantitative research methods with AI",
+      "Qualitative research methods with AI",
+      "Financial modeling principles",
+      "Corporation research report structure"
+    ],
+    "jd_skills": [
+      "Use AI/Generative AI to solve corporate finance problems",
+      "Perform quantitative/qualitative research using AI",
+      "Draft industry research reports with AI assistance",
+      "Build AI-driven financial models",
+      "Analyze company corporate financial situations",
+      "Deliver financial presentations"
+    ],
+    "tools": [
+      "Generative AI tools",
+      "AI-driven financial modeling software"
+    ]
+  },
+  {
+    "course_code": "COSE400/COSH400",
+    "course_name": "User Interface and User Experiences Design",
+    "domain_knowledge": [
+      "UI/UX design processes",
+      "User thói quen and behavior research",
+      "Mobile and web layout design",
+      "Visual design principles (color, layout, grid systems, typography)",
+      "Wireframe and workflow concepts",
+      "Prototyping theories"
+    ],
+    "jd_skills": [
+      "Evaluate app usage habits",
+      "Establish app workflows and features",
+      "Create wireframes and workflows",
+      "Design professional mobile and web UI",
+      "Draft technical design reports",
+      "Present technical solutions",
+      "Teamwork"
+    ],
+    "tools": [
+      "UI/UX design software",
+      "Wireframing tools",
+      "Figma"
+    ]
+  },
+  {
+    "course_code": "TCHE312",
+    "course_name": "Blockchain and Digital Currency",
+    "domain_knowledge": [
+      "Blockchain structure and principles",
+      "Consensus algorithms",
+      "Distributed ledger data security",
+      "Types of digital currencies (cryptocurrency, stablecoin, CBDC)",
+      "Impact of digital currencies on banking",
+      "Smart contracts and decentralized finance (DeFi)",
+      "Legal, security, and governance risks in blockchain"
+    ],
+    "jd_skills": [
+      "Analyze blockchain financial applications",
+      "Evaluate digital currency risks and opportunities",
+      "Assess legal and security compliance",
+      "Trace blockchain trends",
+      "Collaborative project research"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KET.F6",
+    "course_name": "TAXATION – F6",
+    "domain_knowledge": [
+      "Vietnamese tax system operation",
+      "Taxpayer obligations and compliance",
+      "Personal Income Tax (PIT) liabilities",
+      "Corporate Income Tax (CIT) liabilities",
+      "Foreign Contractor Tax (FCT)",
+      "Value Added Tax (VAT)",
+      "Tax planning principles"
+    ],
+    "jd_skills": [
+      "Compute PIT, CIT, FCT, and VAT liabilities",
+      "Apply tax planning techniques for individuals and companies",
+      "Address tax compliance issues",
+      "Perform ethical analysis in taxation",
+      "Collaborative tax analysis"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE404",
+    "course_name": "Financial Technology",
+    "domain_knowledge": [
+      "FinTech overview and development",
+      "Electronic payments technology",
+      "Blockchain technology and cryptocurrencies",
+      "Capital mobilization innovations (crowdfunding, digital credit, ICOs)",
+      "Investment tech (robo-advisors, big data analytics)",
+      "Data analysis and modeling in FinTech"
+    ],
+    "jd_skills": [
+      "Analyze impact of tech trends on finance/banking",
+      "Evaluate potential and risks of new financial tech",
+      "Propose FinTech business solutions",
+      "Program in Python for finance",
+      "Analyze financial data and compile reports"
+    ],
+    "tools": [
+      "Python"
+    ]
+  },
+  {
+    "course_code": "KET.F7.2",
+    "course_name": "Financial Reporting 2",
+    "domain_knowledge": [
+      "Corporate financial reporting",
+      "Consolidation techniques for group accounts",
+      "Accounting standards application (taxation, non-current assets, EPS, foreign exchange rates)",
+      "Creative accounting and professional ethics"
+    ],
+    "jd_skills": [
+      "Prepare financial statements for a single company",
+      "Prepare consolidated financial statements for complex groups",
+      "Perform financial ratio analysis",
+      "Interpret complex accounting data",
+      "English communication and debate"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KETE401",
+    "course_name": "Auditing",
+    "domain_knowledge": [
+      "Audit regulatory and legal framework",
+      "Audit and assurance concepts",
+      "Functions of audits",
+      "Corporate governance principles",
+      "Professional ethics and codes of conduct",
+      "Audit risk assessment and planning",
+      "Internal control evaluation",
+      "Audit assertions and audit evidence",
+      "Auditor's report types",
+      "Management letters"
+    ],
+    "jd_skills": [
+      "Develop financial statement audit plans",
+      "Assess client audit risks",
+      "Analyze and recommend internal control improvements",
+      "Design and execute audit procedures",
+      "Determine appropriate auditor's reports",
+      "Apply professional skepticism"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KDOE408",
+    "course_name": "International business operations",
+    "domain_knowledge": [
+      "Foreign operation expansion methods",
+      "Strategic export modes",
+      "Franchising and licensing",
+      "Outsourcing strategies",
+      "Strategic alliances",
+      "Foreign Direct Investment (FDI)",
+      "International business theories"
+    ],
+    "jd_skills": [
+      "Design, select, and manage foreign operation methods",
+      "Evaluate risks in international expansion",
+      "Apply digital tools to expand operations",
+      "Maintain strategic flexibility",
+      "Collaborative problem-solving",
+      "Multicultural collaboration"
+    ],
+    "tools": [
+      "digital expansion tools"
+    ]
+  },
+  {
+    "course_code": "QTRE439",
+    "course_name": "Blockchain Applications In Business And Management",
+    "domain_knowledge": [
+      "Blockchain technology basics",
+      "Tokenization, cryptocurrencies, and stablecoins",
+      "Machine to machine payments",
+      "Identity protection in blockchain",
+      "Decentralized finance (DeFi)",
+      "Blockchain in supply chain management",
+      "Distributed exchanges",
+      "Risks of blockchain technology",
+      "Digital Competency Framework"
+    ],
+    "jd_skills": [
+      "Identify business situations for blockchain deployment",
+      "Select appropriate blockchain platforms",
+      "Formulate blockchain-based business plans",
+      "Utilize smart contracts",
+      "Work in collaborative project teams",
+      "Perform office informatics and data literacy tasks"
+    ],
+    "tools": [
+      "smart contracts",
+      "distributed ledgers",
+      "blockchain platforms"
+    ]
+  },
+  {
+    "course_code": "KET.F7.1",
+    "course_name": "Financial Reporting 1",
+    "domain_knowledge": [
+      "International Financial Reporting Standards (IFRS)",
+      "Accounting for tangible and intangible non-current assets",
+      "Revenue recognition principles",
+      "Lease accounting",
+      "Financial instruments accounting",
+      "Inventory valuation",
+      "Provisions, contingent liabilities, and contingent assets"
+    ],
+    "jd_skills": [
+      "Record complicated financial transactions",
+      "Report financial performance under IFRS",
+      "English professional communication and debate",
+      "Independent and collaborative financial research"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DTUE310",
+    "course_name": "Foreign Investment",
+    "domain_knowledge": [
+      "International investment theories",
+      "Forms of international investment (FDI, FPI)",
+      "International investment liberalization trends",
+      "National investment policies",
+      "Regulatory frameworks for global investment",
+      "OLI framework",
+      "PESTEL model"
+    ],
+    "jd_skills": [
+      "Analyze national investment environments",
+      "Evaluate and select investment locations",
+      "Formulate corporate international investment strategies",
+      "Analyze global capital flow trends",
+      "Present and write business reports",
+      "Creative problem-solving"
+    ],
+    "tools": [
+      "OLI framework",
+      "PESTEL tool"
+    ]
+  },
+  {
+    "course_code": "COSE302/COSH302",
+    "course_name": "IT Project Management",
+    "domain_knowledge": [
+      "IT project lifecycle phases (initiation, planning, execution, monitoring, closure)",
+      "Project definition and scope management",
+      "Work Breakdown Structures (WBS)",
+      "Time and cost estimation methods",
+      "Project scheduling techniques",
+      "IT project risk management",
+      "Stakeholder management",
+      "Project human resource allocation"
+    ],
+    "jd_skills": [
+      "Plan and initiate IT projects",
+      "Estimate time, budget, and resources",
+      "Develop project schedules",
+      "Monitor and control IT project progress",
+      "Utilize project management tools",
+      "Collaborate with project stakeholders"
+    ],
+    "tools": [
+      "project management tools"
+    ]
+  },
+  {
+    "course_code": "TCHE414",
+    "course_name": "International Finance",
+    "domain_knowledge": [
+      "Exchange rate determination and management",
+      "Exchange rate policies",
+      "Balance of Payments (BOP)",
+      "International financial markets",
+      "Monetary and macroeconomic linkages between nations",
+      "International monetary system development",
+      "International financial institutions",
+      "Financial and banking services integration",
+      "Financial and monetary crises",
+      "Capital mobility"
+    ],
+    "jd_skills": [
+      "Evaluate exchange rate determinants",
+      "Analyze macroeconomic linkages",
+      "Identify financial crisis indicators",
+      "Propose international finance solutions",
+      "Collaborative project work",
+      "English financial presentations"
+    ],
+    "tools": [
+      "financial tools and models"
+    ]
+  }
+]
+
+[
+  {
+    "course_code": "TMAE313",
+    "course_name": "Supply Chain Management",
+    "domain_knowledge": [
+      "Forecasting",
+      "Procurement management",
+      "Inventory management",
+      "Distribution management",
+      "Supply chain integration",
+      "Total Cost of Ownership - TCO",
+      "Economic Order Quantity - EOQ"
+    ],
+    "jd_skills": [
+      "Apply qualitative and quantitative models and tools",
+      "Analyze supply chain operations in enterprises",
+      "Demand forecasting",
+      "Supplier management",
+      "Communication",
+      "Presentation",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE310",
+    "course_name": "Applied machine learning in financial analysis",
+    "domain_knowledge": [
+      "Machine learning concepts",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Semi-supervised Learning",
+      "Linear regression",
+      "ARIMA",
+      "Logistic regression",
+      "Random forest",
+      "Xgboost",
+      "Decision tree",
+      "Yield curves",
+      "Valuing businesses and securities"
+    ],
+    "jd_skills": [
+      "Financial modeling process",
+      "Build and evaluate financial models",
+      "Forecasting stock prices and market indices",
+      "Predicting debt defaults",
+      "Detecting fraudulent financial statements and transactions",
+      "Collaborative tasks"
+    ],
+    "tools": [
+      "Python"
+    ]
+  },
+  {
+    "course_code": "TCHE412",
+    "course_name": "International payment",
+    "domain_knowledge": [
+      "Exchange rates",
+      "Currencies in international payments",
+      "International payment methods",
+      "International trade transactions",
+      "International banking standards",
+      "Foreign exchange",
+      "Exchange rate quotation methods",
+      "Cross-rate calculation methods",
+      "Legal regulations and professional ethics in international payments"
+    ],
+    "jd_skills": [
+      "Draft and check documents related to international payment",
+      "Negotiate and implement international payment terms",
+      "Risk analysis and risk mitigation",
+      "Critical problem solving",
+      "English communication",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DASE202/DASH202",
+    "course_name": "Quantitative method for Economics and business",
+    "domain_knowledge": [
+      "Suy luận thống kê",
+      "Phân tích hồi quy",
+      "Suy luận nhân quả",
+      "Thiết kế thử nghiệm và bán thử nghiệm",
+      "Thử nghiệm ngẫu nhiên có kiểm soát",
+      "Biến công cụ",
+      "Phương pháp ghép nối"
+    ],
+    "jd_skills": [
+      "Phân tích dữ liệu kinh tế và kinh doanh",
+      "Ước tính tác động nhân quả",
+      "Tư duy phản biện",
+      "Giải quyết vấn đề",
+      "Truyền đạt kết quả phân tích"
+    ],
+    "tools": [
+      "Python",
+      "Stata",
+      "R"
+    ]
+  },
+  {
+    "course_code": "KET.F5.2",
+    "course_name": "PERFORMANCE MANAGEMENT 2",
+    "domain_knowledge": [
+      "Management accounting techniques",
+      "Budgeting",
+      "Standard costing",
+      "Budget types",
+      "Budgetary systems",
+      "Quantitative analysis in budgeting",
+      "Variances analysis (basic, mix, yield, planning, operational)",
+      "Performance analysis",
+      "Divisional performance",
+      "Transfer pricing"
+    ],
+    "jd_skills": [
+      "Performance measurement and control",
+      "Problem solving",
+      "Analyzing and presenting",
+      "Decision making"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DBZE306/DBZH306",
+    "course_name": "Kinh doanh số (Digital Business)",
+    "domain_knowledge": [
+      "Kinh doanh số",
+      "Hệ thống doanh nghiệp",
+      "Hệ thống di động",
+      "Internet",
+      "Phân tích dữ liệu",
+      "Mô hình kinh doanh số"
+    ],
+    "jd_skills": [
+      "Phát triển kế hoạch chiến lược",
+      "Tích hợp công nghệ số vào doanh nghiệp",
+      "Đề xuất ý tưởng và giải pháp chuyển đổi số",
+      "Tổng hợp, phân tích và đánh giá thông tin",
+      "Làm việc nhóm"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE204",
+    "course_name": "Urban Economics and City Logistics",
+    "domain_knowledge": [
+      "Urban economics",
+      "Urban logistics activities",
+      "Goods flows movement",
+      "Environmental impacts",
+      "Congestion",
+      "Energy consumption",
+      "Urban logistics systems"
+    ],
+    "jd_skills": [
+      "Apply urban logistics models to evaluate optimization potential",
+      "Apply optimization models and qualitative/quantitative methods to solve problems of urban freight transportation",
+      "Communication",
+      "Teamwork",
+      "Presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE425",
+    "course_name": "International Financial Management",
+    "domain_knowledge": [
+      "International financial environment",
+      "International financial management",
+      "Role of MNCs",
+      "Exchange rate risk management",
+      "International investment, restructuring and financing",
+      "International working capital management (cash flow, inventory, account receivables)",
+      "International tax management",
+      "International short-term financing"
+    ],
+    "jd_skills": [
+      "Combine data analysis methods and financial tools",
+      "Propose solutions in international financial management",
+      "Independent work",
+      "Teamwork",
+      "English communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KET.F5.1",
+    "course_name": "PERFORMANCE MANAGEMENT 1",
+    "domain_knowledge": [
+      "Management accounting techniques",
+      "Cost accounting techniques",
+      "CVP analysis",
+      "Basic pricing techniques",
+      "Limiting factors",
+      "Relevant cost accounting",
+      "Basic risk management"
+    ],
+    "jd_skills": [
+      "Planning",
+      "Decision-making",
+      "Performance evaluation and control",
+      "Collecting and analyzing data",
+      "Problem solving",
+      "Presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KTEE406",
+    "course_name": "Development Economics",
+    "domain_knowledge": [
+      "Sustainable development process",
+      "Social and political studies",
+      "Research tools and methodology in development economics"
+    ],
+    "jd_skills": [
+      "Analyze sustainable development",
+      "Critical thinking",
+      "Presentation and debating",
+      "Data searching and analysis",
+      "Working in digital environment",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DTUE406",
+    "course_name": "Portfolio management",
+    "domain_knowledge": [
+      "Portfolio theories",
+      "Portfolio management process",
+      "Investment objective setting",
+      "Investment policy determination",
+      "Risk and return projection",
+      "Portfolio designing",
+      "Asset allocation",
+      "Security selection",
+      "Portfolio monitoring, adjustment and evaluation",
+      "Valuation models of financial assets",
+      "Derivatives for portfolio risk management"
+    ],
+    "jd_skills": [
+      "Manage portfolios of different assets",
+      "Process and analyze financial data and models",
+      "Academic English",
+      "Teamwork",
+      "Leadership"
+    ],
+    "tools": [
+      "Financial software"
+    ]
+  },
+  {
+    "course_code": "QTRE449",
+    "course_name": "International Human Resource Management",
+    "domain_knowledge": [
+      "International Human Resource Management (IHRM)",
+      "Theoretical frameworks of cultural differences",
+      "IHRM in different types of international company",
+      "Staffing, recruitment and selection",
+      "Training and development",
+      "Performance management",
+      "Compensation",
+      "Industrial relationship"
+    ],
+    "jd_skills": [
+      "Manage global workforce",
+      "Apply IHRM tools and techniques",
+      "Problem-solving and decision-making",
+      "Teamwork",
+      "Effective communication",
+      "Professional presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KTEE214/KTEH214",
+    "course_name": "Kinh tế số (Digital Economics)",
+    "domain_knowledge": [
+      "Kinh tế số",
+      "Hàng hóa và dịch vụ số",
+      "Mô hình thị trường số",
+      "Hiệu ứng mạng",
+      "Mô hình tạo giá trị",
+      "Mô hình kinh doanh kỹ thuật số",
+      "Quyền riêng tư, quy định và chiến lược phát triển",
+      "Mô hình chuyển đổi số",
+      "Mô hình kinh doanh bền vững",
+      "Trách nhiệm xã hội của doanh nghiệp (CSR)"
+    ],
+    "jd_skills": [
+      "Phân tích các vấn đề trong phát triển nền kinh tế số",
+      "Đánh giá lợi ích - chi phí",
+      "Làm việc nhóm",
+      "Thuyết trình",
+      "Nghiên cứu"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "NHAE408",
+    "course_name": "Applied Technology in Finance and Banking",
+    "domain_knowledge": [
+      "Modern technology trends in finance and banking",
+      "Machine Learning and Big Data in banking",
+      "Operating principles of financial technologies",
+      "VBA programming for custom functions"
+    ],
+    "jd_skills": [
+      "Analyze data and solve financial problems",
+      "Design finance and banking solutions using VBA",
+      "Data analysis",
+      "Independent work",
+      "Teamwork"
+    ],
+    "tools": [
+      "Excel",
+      "Visual Basic for Applications (VBA)"
+    ]
+  },
+  {
+    "course_code": "PLUE410",
+    "course_name": "International Business Law",
+    "domain_knowledge": [
+      "International business law concepts",
+      "Major international business law systems",
+      "Conflicts of laws",
+      "General principles of international business contracts",
+      "International goods sales contracts",
+      "International service contracts",
+      "International investment contracts",
+      "Methods of dispute resolution"
+    ],
+    "jd_skills": [
+      "Concluding and performing international business contracts",
+      "Synthesize, analyze, and evaluate legal regulations",
+      "Raise legal arguments to resolve specific legal issues"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE409",
+    "course_name": "Financial Risk Management",
+    "domain_knowledge": [
+      "Market risk",
+      "Credit risk",
+      "Liquidity risk",
+      "Operational risk",
+      "Financial derivatives (forwards, futures, options, swaps)",
+      "Risk modeling",
+      "Derivative pricing",
+      "Risk mitigation strategies"
+    ],
+    "jd_skills": [
+      "Identify, analyze and mitigate financial risks",
+      "Price derivatives and assess hedging performance",
+      "Design risk management strategies",
+      "Teamwork",
+      "Presentation"
+    ],
+    "tools": [
+      "Data analytics software"
+    ]
+  },
+  {
+    "course_code": "TMAE203",
+    "course_name": "Maritime Economics",
+    "domain_knowledge": [
+      "International shipping economics and management",
+      "Shipping markets",
+      "Seaborne trade",
+      "Ports",
+      "Merchant fleets",
+      "Logistics and maritime supply chain management"
+    ],
+    "jd_skills": [
+      "Analyze industry practices and operational strategies",
+      "Assess developments in shipping market",
+      "Critical thinking and problem-solving",
+      "Communication",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KTEE211",
+    "course_name": "Recent Economic Thought and Institutions",
+    "domain_knowledge": [
+      "Modern economic theories",
+      "Institutional economics",
+      "Keynesian thought",
+      "Neoclassical tradition",
+      "Economic policies and institutions"
+    ],
+    "jd_skills": [
+      "Analyze institutional practices and economic policies",
+      "Academic communication and reasoning",
+      "Self-learning and independent research"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE402",
+    "course_name": "Organizational Behavior",
+    "domain_knowledge": [
+      "Social behaviour in organizations",
+      "Personality, values, attitudes, job satisfaction, emotions, moods",
+      "Motivational theories",
+      "Decision-making processes",
+      "Group behaviour",
+      "High-performance teams",
+      "Organizational systems, structures, cultures, and change"
+    ],
+    "jd_skills": [
+      "Apply OB concepts to workplace situations",
+      "Management and human resource problem-solving",
+      "Teamwork",
+      "Communication",
+      "Presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE417",
+    "course_name": "International Trade Finance",
+    "domain_knowledge": [
+      "Principles and practices of international trade finance",
+      "Risks in international trade",
+      "Documents in international trade financing",
+      "Trade finance methods (performance bonds, guarantees)",
+      "Financial crime",
+      "Legal regulations in international trade finance"
+    ],
+    "jd_skills": [
+      "Mitigate international trade risks",
+      "Propose solutions for enterprise trade financing",
+      "Data analysis",
+      "Independent and teamwork",
+      "English communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE305",
+    "course_name": "Business Ethics",
+    "domain_knowledge": [
+      "Ethics, business ethics, and professional ethics",
+      "Corporate Social Responsibility (CSR)",
+      "Theories of ethics and business",
+      "Stakeholder roles",
+      "Principles of marketing, human resource, accounting, and environmental management ethics"
+    ],
+    "jd_skills": [
+      "Debate and defend points of view on ethical principles",
+      "Problem-solving and decision-making in management",
+      "Teamwork",
+      "Communication",
+      "Presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE336",
+    "course_name": "Logistics and International Freight Forwarding",
+    "domain_knowledge": [
+      "International transportation and logistics",
+      "Sea, air, road, and multimodal transport",
+      "Carrier liability",
+      "Transportation contracts"
+    ],
+    "jd_skills": [
+      "Arranging transportation processes",
+      "Process analysis and decision making",
+      "Interpersonal communication",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DASE200/DASH200",
+    "course_name": "Học máy (Machine learning)",
+    "domain_knowledge": [
+      "Học có giám sát (supervised)",
+      "Học không giám sát (unsupervised)",
+      "Hồi quy",
+      "Phân loại",
+      "Phân cụm",
+      "Học sâu",
+      "Xác định biến số",
+      "Đánh giá mô hình",
+      "Điều chỉnh tham số",
+      "Mô hình dự báo"
+    ],
+    "jd_skills": [
+      "Áp dụng kỹ thuật học máy vào bài toán kinh tế - kinh doanh",
+      "Mô hình hóa số liệu",
+      "Xây dựng mô hình dự báo",
+      "Trình bày kết quả phân tích"
+    ],
+    "tools": [
+      "Python",
+      "TensorFlow",
+      "scikit-learn"
+    ]
+  },
+  {
+    "course_code": "QTRE309",
+    "course_name": "Principles of entrepreneurship (Khởi sự kinh doanh)",
+    "domain_knowledge": [
+      "Attributes of entrepreneurs",
+      "Searching for business opportunities",
+      "Evaluating business plans",
+      "Marketing, operations, HR management, and financial management in small businesses"
+    ],
+    "jd_skills": [
+      "Plan, finance, develop and operate a new business",
+      "Build business ideas",
+      "Develop a business plan",
+      "Teamwork",
+      "Presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KTEE311",
+    "course_name": "Investment Economics",
+    "domain_knowledge": [
+      "Development investment",
+      "Investment capital mobilization sources",
+      "International relations in investment",
+      "Formulation and evaluation of investment projects",
+      "State management of investment",
+      "Financial and economic analytical tools"
+    ],
+    "jd_skills": [
+      "Project planning and evaluation",
+      "Analyze investment activities",
+      "Formulate and assess investment projects"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE311",
+    "course_name": "Data Analysis",
+    "domain_knowledge": [
+      "Data manipulation",
+      "Predictive analytics",
+      "Decisions under uncertainty",
+      "Business analysis formulation"
+    ],
+    "jd_skills": [
+      "Data-driven business decision making",
+      "Develop, report, and analyze business data",
+      "Apply proper method for specific case study",
+      "Teamwork"
+    ],
+    "tools": [
+      "Excel"
+    ]
+  },
+  {
+    "course_code": "TCHE308",
+    "course_name": "Sustainable Finance (Tài chính bền vững)",
+    "domain_knowledge": [
+      "Environmental, social, and governance (ESG) factors",
+      "Sustainable finance",
+      "Impact investing",
+      "Socially responsible investment strategies",
+      "Corporate sustainability risks"
+    ],
+    "jd_skills": [
+      "Analyze ESG metrics",
+      "Design sustainable finance solutions",
+      "Investment strategy evaluation",
+      "Teamwork",
+      "Foreign language communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "COSE304/COSH304",
+    "course_name": "Internet vạn vật (Internet of Things)",
+    "domain_knowledge": [
+      "Nền tảng phần cứng và phần mềm IoT",
+      "Cảm biến cơ bản",
+      "Máy tính một bảng mạch (SCB)",
+      "Giao thức truyền dữ liệu phổ biến",
+      "Quy trình thiết kế ứng dụng IoT"
+    ],
+    "jd_skills": [
+      "Thiết kế và phát triển ứng dụng IoT",
+      "Giám sát, thu thập thông tin và điều khiển bằng IoT",
+      "Cài đặt, triển khai và đánh giá ứng dụng IoT",
+      "Trình bày báo cáo",
+      "Làm việc nhóm"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE302",
+    "course_name": "International Trade Transactions",
+    "domain_knowledge": [
+      "Methods of transactions (direct sale, intermediary, re-export, countertrade, auction, bidding, franchise)",
+      "International trade customs (Incoterms)",
+      "International sales contracts",
+      "Export and import activities (market research, partner selection, negotiation, contract execution)"
+    ],
+    "jd_skills": [
+      "Export-import process analysis",
+      "Negotiation",
+      "Contract execution",
+      "Communication",
+      "Presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DASE300/DASH300",
+    "course_name": "Phân tích dữ liệu trong kinh tế - kinh doanh",
+    "domain_knowledge": [
+      "Phân tích thống kê",
+      "Trực quan hóa dữ liệu",
+      "Mô hình dự đoán",
+      "Phương pháp kinh tế lượng",
+      "Mô hình trong học máy",
+      "Quyền riêng tư và bảo mật dữ liệu"
+    ],
+    "jd_skills": [
+      "Thu thập, làm sạch, phân tích và trực quan hóa dữ liệu",
+      "Giải quyết vấn đề kinh tế - kinh doanh bằng phân tích dữ liệu",
+      "Đánh giá các giải pháp phân tích dữ liệu"
+    ],
+    "tools": [
+      "Python",
+      "R",
+      "Power BI",
+      "Tableau"
+    ]
+  },
+  {
+    "course_code": "KTEE404",
+    "course_name": "Environmental Economics",
+    "domain_knowledge": [
+      "Economy and environment interactions",
+      "Environmental protection and sustainable development",
+      "Economic tools and theories for environmental problems"
+    ],
+    "jd_skills": [
+      "Analyze environmental issues",
+      "Decision-making",
+      "Independent research",
+      "Presentation",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE424",
+    "course_name": "Financial Statement Analysis",
+    "domain_knowledge": [
+      "Financial statement analysis framework",
+      "Balance sheet, income statement, cash flow statement",
+      "Revenue recognition principles",
+      "Accrual accounting",
+      "Free cash flow to the firm (FCFF)",
+      "Free cash flow to equity (FCFE)",
+      "Financial ratios",
+      "Business models of various industries"
+    ],
+    "jd_skills": [
+      "Analyze and forecast company performance",
+      "Appraise financial performance",
+      "Academic English",
+      "Teamwork"
+    ],
+    "tools": [
+      "FiinPro database"
+    ]
+  },
+  {
+    "course_code": "QTRE304",
+    "course_name": "Emerging Issues in Management",
+    "domain_knowledge": [
+      "Digital transformation and AI for management",
+      "Data-driven decision making",
+      "Platform business models and creative economy",
+      "Sustainability",
+      "People management in hybrid and gig settings",
+      "Innovation management and agile/ambidextrous organizing",
+      "Risk and business-continuity management in VUCA-BANI",
+      "Digital ethics and data governance",
+      "PESTLE and SWOT",
+      "Lewin's Change Model",
+      "Kotter's 8-Step Model",
+      "Business Process Re-engineering (BPR)",
+      "Management by Objectives (MBO)",
+      "Balanced Scorecard",
+      "OKRs",
+      "McKinsey's 7-S Framework",
+      "Design Thinking"
+    ],
+    "jd_skills": [
+      "Scan and analyze shifts in business environment",
+      "Apply contemporary management tools",
+      "Change management planning",
+      "Strategic implementation",
+      "Performance evaluation",
+      "Teamwork"
+    ],
+    "tools": [
+      "Business model canvases",
+      "Analytic dashboards"
+    ]
+  },
+  {
+    "course_code": "COSE303/COSH303",
+    "course_name": "Công nghệ phần mềm (Software Engineering)",
+    "domain_knowledge": [
+      "Mô hình phát triển phần mềm",
+      "Quy trình xây dựng phần mềm (lập kế hoạch, khảo sát, phân tích, thiết kế, cài đặt, kiểm thử, tích hợp, bảo trì)",
+      "Nguyên lý kỹ thuật phần mềm (yêu cầu, thiết kế, kiểm tra)",
+      "Phân tích sơ đồ dòng dữ liệu (DFD)",
+      "Phân tích hướng đối tượng sử dụng UML",
+      "Kiểm tra đánh giá hệ thống",
+      "Quản trị và ước lượng dự án"
+    ],
+    "jd_skills": [
+      "Phát triển phần mềm thực tế",
+      "Sử dụng công cụ UML để vẽ sơ đồ, biểu đồ",
+      "Đọc hiểu tài liệu kĩ thuật UML"
+    ],
+    "tools": [
+      "UML tools"
+    ]
+  },
+  {
+    "course_code": "COSE301/COSH301",
+    "course_name": "System Analysis and Design",
+    "domain_knowledge": [
+      "Phương pháp phân tích thiết kế hướng chức năng",
+      "Phương pháp phân tích thiết kế hướng đối tượng",
+      "Mô hình hóa nghiệp vụ",
+      "Phân tích yêu cầu",
+      "Thiết kế hệ thống",
+      "Sơ đồ lớp UML",
+      "Phân tích use case",
+      "Mối quan hệ thực thể - liên kết (ERD)",
+      "Thiết kế CSDL"
+    ],
+    "jd_skills": [
+      "Xây dựng quy trình thiết kế hệ thống",
+      "Khảo sát hệ thống cũ",
+      "Sử dụng công cụ UML để vẽ sơ đồ, biểu đồ",
+      "Đọc hiểu tài liệu kĩ thuật"
+    ],
+    "tools": [
+      "UML tools"
+    ]
+  },
+  {
+    "course_code": "DTUE301",
+    "course_name": "Principles of Economic Management",
+    "domain_knowledge": [
+      "Economic management policies (fiscal, monetary, trade, investment, exchange rate)",
+      "Functions and roles of state management",
+      "Economic models and theories of economic management"
+    ],
+    "jd_skills": [
+      "Analyze practical issues in sectoral policies",
+      "Macroeconomic management analysis",
+      "Evaluation of economic management policies",
+      "Teamwork",
+      "Communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE341",
+    "course_name": "Financial Economics",
+    "domain_knowledge": [
+      "Modern finance theories",
+      "Allocation of scarce resources",
+      "Consumption/investment decisions",
+      "Valuation of risky assets",
+      "Optimal portfolio",
+      "Investment decisions under certainty and uncertainty"
+    ],
+    "jd_skills": [
+      "Apply rational methods/techniques for investment decisions",
+      "Task coordination",
+      "Foreign language communication",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE442",
+    "course_name": "Quantitative Methods for Finance",
+    "domain_knowledge": [
+      "Quantitative and statistical techniques",
+      "Risk and return measurement",
+      "Expectations and portfolio mathematics",
+      "Methods of simulation",
+      "Estimations and hypothesis testing",
+      "Simple linear regression"
+    ],
+    "jd_skills": [
+      "Analyze financial data",
+      "Construct data-driven strategies",
+      "Informed financial decision making",
+      "Teamwork",
+      "Foreign language communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "COSE203/COSH203",
+    "course_name": "Object-Oriented Programming",
+    "domain_knowledge": [
+      "Nguyên lý thiết kế hướng đối tượng",
+      "Viết lớp và phương thức",
+      "Tham chiếu đối tượng",
+      "Dữ liệu và quyền truy nhập",
+      "Biến và phạm vi",
+      "Cây thừa kế",
+      "Đa hình",
+      "Interface",
+      "Ngoại lệ (exception)",
+      "Dòng vào ra cơ bản",
+      "Lập trình tổng quát",
+      "Cấu trúc dữ liệu tổng quát",
+      "UML class diagrams"
+    ],
+    "jd_skills": [
+      "Lập trình hướng đối tượng",
+      "Cài đặt thiết kế hướng đối tượng bằng C++ hoặc Java",
+      "Đọc hiểu sơ đồ lớp UML"
+    ],
+    "tools": [
+      "C++",
+      "Java"
+    ]
+  },
+  {
+    "course_code": "TMAE306",
+    "course_name": "E-commerce (Thương mại điện tử)",
+    "domain_knowledge": [
+      "E-commerce business models",
+      "Technological infrastructure of e-commerce",
+      "Internet marketing technologies",
+      "Retailing",
+      "Supply chain",
+      "Security and encryption",
+      "Ethical, social, and political issues in e-commerce"
+    ],
+    "jd_skills": [
+      "Design and launch e-commerce ventures",
+      "Strategic planning",
+      "Business planning",
+      "Implement e-commerce strategy",
+      "Teamwork",
+      "Apply AI"
+    ],
+    "tools": [
+      "Office informatics tools"
+    ]
+  },
+  {
+    "course_code": "TLH104/TLHH104/TLH104E",
+    "course_name": "Psychology in Business (Tâm lý học kinh doanh)",
+    "domain_knowledge": [
+      "Psychology of leaders and managers",
+      "Psychology of employees",
+      "Industrial and organizational psychology",
+      "Consumer psychology",
+      "Commercial advertising"
+    ],
+    "jd_skills": [
+      "Psychological counseling and consulting",
+      "Analyze psychological characteristics of business entities",
+      "Communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE409",
+    "course_name": "Productivity and Quality Management",
+    "domain_knowledge": [
+      "Quality management theories",
+      "Continuous improvement",
+      "Customer focus",
+      "Employee involvement",
+      "Statistical tools in quality management",
+      "Quality models and frameworks"
+    ],
+    "jd_skills": [
+      "Synthesize and systematize issues",
+      "Compare, analyze, comment, evaluate quality management",
+      "Decision making on quality",
+      "Teamwork",
+      "Leadership"
+    ],
+    "tools": [
+      "Information technology tools"
+    ]
+  },
+  {
+    "course_code": "KET.F3.2",
+    "course_name": "Financial Accounting 2",
+    "domain_knowledge": [
+      "International accounting standards",
+      "Single entity financial statements",
+      "Consolidated financial statements for groups",
+      "Financial performance and financial position appraisal"
+    ],
+    "jd_skills": [
+      "Prepare single entity financial statements",
+      "Prepare consolidated financial statements",
+      "Appraise financial performance",
+      "English communication in accounting"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DASE201/DASH201",
+    "course_name": "Hệ quản trị cơ sở dữ liệu (Database management system)",
+    "domain_knowledge": [
+      "Phương thức lưu trữ dữ liệu",
+      "Kỹ thuật truy vấn",
+      "Quản trị cơ sở dữ liệu (CSDL)",
+      "Thiết kế cơ sở dữ liệu"
+    ],
+    "jd_skills": [
+      "Xử lý dữ liệu bằng SQL",
+      "Làm sạch, biến đổi dữ liệu",
+      "Truy vấn và tính toán trên cơ sở dữ liệu",
+      "Phân tích dữ liệu kinh doanh"
+    ],
+    "tools": [
+      "SQL"
+    ]
+  },
+  {
+    "course_code": "DASE301",
+    "course_name": "Optimization methods in Economics and Business",
+    "domain_knowledge": [
+      "Linear programming",
+      "Simplex and dual simplex methods",
+      "Transportation problems",
+      "Network optimization",
+      "Synchronous production problems",
+      "Matrix games",
+      "Integer programming"
+    ],
+    "jd_skills": [
+      "Solve linear programming problems",
+      "Solve transportation problems",
+      "Implement optimization methods for economic problems",
+      "Teamwork"
+    ],
+    "tools": [
+      "Python"
+    ]
+  },
+  {
+    "course_code": "COSE202/COSH202",
+    "course_name": "Nhập môn AI và Khoa học dữ liệu",
+    "domain_knowledge": [
+      "Thuật giải Heuristic",
+      "Biểu diễn tri thức và suy diễn",
+      "Máy học",
+      "Mạng neural nhân tạo",
+      "Xử lý dữ liệu văn bản, tiếng nói, ảnh"
+    ],
+    "jd_skills": [
+      "Xây dựng chương trình xử lý thông minh",
+      "Cài đặt chương trình đơn giản",
+      "Tư duy logic",
+      "Giải quyết bài toán thực tế"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "MKTE401",
+    "course_name": "International Marketing",
+    "domain_knowledge": [
+      "International marketing environment",
+      "Target export markets",
+      "Behavior of importers",
+      "Global business contexts"
+    ],
+    "jd_skills": [
+      "International marketing planning",
+      "International market research",
+      "Data analysis",
+      "Evaluate and select export markets",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "NHAE302",
+    "course_name": "Principles of Banking",
+    "domain_knowledge": [
+      "Banking system",
+      "Central banks and commercial banks",
+      "Regulations for banking activities",
+      "Key services (deposit mobilization, credit, payment, e-banking)",
+      "Commercial bank management"
+    ],
+    "jd_skills": [
+      "Analyze and evaluate operational efficiency",
+      "Financial reports analysis",
+      "Risks assessment in bank operations",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE407",
+    "course_name": "Project Management",
+    "domain_knowledge": [
+      "Project lifecycle",
+      "Project management knowledge areas (scope, time, cost, quality, human resources, communication, risk)",
+      "Project scheduling",
+      "Cost management",
+      "Resource allocation",
+      "Project control",
+      "Risk management and termination"
+    ],
+    "jd_skills": [
+      "Develop, execute and control a project plan",
+      "Work breakdown structure (WBS)",
+      "Budgeting",
+      "Teamwork",
+      "Leadership"
+    ],
+    "tools": [
+      "Digital tools",
+      "IT tools"
+    ]
+  },
+  {
+    "course_code": "KTEE325",
+    "course_name": "Culture in Business",
+    "domain_knowledge": [
+      "Cultural theories",
+      "Business culture components",
+      "Cultural models",
+      "Multicultural contexts"
+    ],
+    "jd_skills": [
+      "Apply cultural models in business strategies",
+      "Negotiation, marketing, and HR management in multicultural contexts",
+      "Teamwork",
+      "Communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KDOE307",
+    "course_name": "International Business",
+    "domain_knowledge": [
+      "Globalization",
+      "International business environment",
+      "International business strategies",
+      "Organizational structures of multinational enterprises",
+      "Functional activities of international business",
+      "Modes of entry",
+      "Porter’s Five Forces",
+      "Hofstede’s model"
+    ],
+    "jd_skills": [
+      "Analyze business models",
+      "Evaluate context of countries and enterprises",
+      "Teamwork",
+      "Communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE203",
+    "course_name": "Leadership Skills (Kỹ năng lãnh đạo)",
+    "domain_knowledge": [
+      "Theoretical approaches to leadership",
+      "Leadership styles",
+      "Meaning of power",
+      "Charismatic, transactional, transformational, servant, and authentic leadership",
+      "Team leadership and strategic leadership"
+    ],
+    "jd_skills": [
+      "Influence and motivate",
+      "Problem-solving and decision-making",
+      "Interpersonal communication",
+      "Presentation",
+      "Collaboration",
+      "Team leadership"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KET.F2",
+    "course_name": "Management Accounting (F2)",
+    "domain_knowledge": [
+      "Management accounting techniques",
+      "Nature, source and purpose of management information",
+      "Statistical techniques to analyze data",
+      "Cost accounting and costing techniques",
+      "Budgeting and standard costing",
+      "Variance analysis",
+      "Performance measurement"
+    ],
+    "jd_skills": [
+      "Cost accounting procedures",
+      "Predicting profit",
+      "Preparing budgets",
+      "Interpreting variances",
+      "Preparing management accounting reports",
+      "Data processing"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KET.F3.1",
+    "course_name": "Financial Accounting 1",
+    "domain_knowledge": [
+      "Regulatory and conceptual framework of financial reporting",
+      "Qualitative characteristics of useful information",
+      "Double-entry accounting",
+      "Financial statements for sole traders"
+    ],
+    "jd_skills": [
+      "Recording transactions and events",
+      "Prepare basic financial statements",
+      "Professional English proficiency",
+      "Self-studying"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "VJPE205",
+    "course_name": "Business Analytics",
+    "domain_knowledge": [
+      "Business data basics",
+      "Descriptive analysis",
+      "Predictive analysis",
+      "Business analysis principles"
+    ],
+    "jd_skills": [
+      "Business data analysis",
+      "Formulate and solve business problems",
+      "Identify development trends",
+      "Data preparation",
+      "Decision making"
+    ],
+    "tools": [
+      "Excel",
+      "Tableau",
+      "Knime",
+      "RapidMiner",
+      "Python"
+    ]
+  },
+  {
+    "course_code": "COSE300/COSH300",
+    "course_name": "An toàn thông tin (Information Security)",
+    "domain_knowledge": [
+      "Phương pháp mật mã thông tin và kiểm soát lỗi",
+      "Public key cryptography",
+      "Block ciphers",
+      "Stream ciphers",
+      "Digital signature",
+      "Hashing",
+      "Xác thực",
+      "Sửa lỗi (linear code, hamming code, cyclic code, BCH, Reed-Solomon code)",
+      "Đại số tuyến tính",
+      "Xác suất thống kê"
+    ],
+    "jd_skills": [
+      "Áp dụng các thư viện mã hoá trong lập trình",
+      "Ứng dụng các chuẩn, các giao thức và công cụ về an toàn thông tin",
+      "Mã hoá thông tin"
+    ],
+    "tools": [
+      "Cryptography libraries"
+    ]
+  },
+  {
+    "course_code": "KTEE312",
+    "course_name": "Business Economics",
+    "domain_knowledge": [
+      "Company structure",
+      "Profit maximization theory",
+      "Revenue maximization",
+      "Firms' supply decisions",
+      "Uncertainty considerations",
+      "Demand analysis for goods",
+      "Corporate organizational models"
+    ],
+    "jd_skills": [
+      "Apply economic principles in business operations",
+      "Solve practical problems in management and decision-making",
+      "Communication",
+      "Teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DTUE401",
+    "course_name": "Securities Analysis and Investments",
+    "domain_knowledge": [
+      "Financial investments",
+      "Stocks, bonds, options and other derivative securities valuation",
+      "Securities analysis techniques",
+      "Portfolio management"
+    ],
+    "jd_skills": [
+      "Stock valuation",
+      "Fixed-income securities valuation",
+      "Perform financial analysis",
+      "Teamwork",
+      "Presentation"
+    ],
+    "tools": [
+      "Financial analysis software"
+    ]
+  },
+  {
+    "course_code": "DTUE304",
+    "course_name": "Professional Ethics and Corporate Governance",
+    "domain_knowledge": [
+      "Professional ethics in financial analysis and investment",
+      "Market integrity standards",
+      "Conflicts of interest",
+      "Corporate governance mechanisms"
+    ],
+    "jd_skills": [
+      "Detect and resolve ethical violations",
+      "Implement corporate governance mechanisms",
+      "Teamwork",
+      "Ethical decision-making"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KDOE402",
+    "course_name": "Risk management in international business",
+    "domain_knowledge": [
+      "Risk classification",
+      "Relationship between risk and business performance",
+      "Operational risk",
+      "Credit risk",
+      "National risk",
+      "Market risk",
+      "Risks in international freight transportation",
+      "SWOT matrix",
+      "PESTLE analysis"
+    ],
+    "jd_skills": [
+      "Develop a risk management plan",
+      "Risk assessment and control",
+      "Analyze real-life business risk situations"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "PLUE401",
+    "course_name": "Law on Enterprises (Pháp luật doanh nghiệp)",
+    "domain_knowledge": [
+      "Corporate law core principles",
+      "Legal forms of businesses",
+      "Incorporation",
+      "Corporate governance",
+      "Dissolution",
+      "Legal frameworks and business entity types in typical systems"
+    ],
+    "jd_skills": [
+      "Identify legal risks",
+      "Apply corporate law knowledge in decision-making",
+      "Manage legal compliance",
+      "Corporate formation and restructuring"
+    ],
+    "tools": []
+  }
+]
+
+[
+  {
+    "course_code": "TOAE110/TOAH110",
+    "course_name": "Giải tích (Calculus)",
+    "domain_knowledge": [
+      "Phép tính giới hạn",
+      "Tính liên tục",
+      "Phép tính vi phân hàm một biến và nhiều biến",
+      "Phép tính tích phân hàm một biến và nhiều biến",
+      "Cực trị hàm một biến và nhiều biến",
+      "Phương trình vi phân cấp một",
+      "Phương trình vi phân tuyến tính cấp hai",
+      "Ứng dụng của giải tích trong kinh tế và kinh doanh"
+    ],
+    "jd_skills": [
+      "Giải bài toán tối ưu",
+      "Xác định giới hạn của hàm số",
+      "Xét tính liên tục của hàm số",
+      "Tính đạo hàm riêng",
+      "Tính đạo hàm của hàm ẩn",
+      "Mô hình hóa các tình huống trong kinh tế và kinh doanh",
+      "Tư duy logic",
+      "Phân tích định lượng"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KTE206",
+    "course_name": "Phương pháp nghiên cứu trong kinh tế và kinh doanh (Research Methodology for Economics and Business)",
+    "domain_knowledge": [
+      "Triết lý nghiên cứu",
+      "Phương pháp luận nghiên cứu",
+      "Xác định chủ đề nghiên cứu",
+      "Tổng quan tài liệu nghiên cứu",
+      "Tiếp cận phát triển lý thuyết",
+      "Thiết kế nghiên cứu",
+      "Đạo đức nghiên cứu",
+      "Phân tích dữ liệu định lượng",
+      "Phân tích dữ liệu định tính"
+    ],
+    "jd_skills": [
+      "Xác định chủ đề nghiên cứu",
+      "Tổng quan tài liệu",
+      "Thu thập và phân tích dữ liệu",
+      "Trình bày báo cáo kết quả nghiên cứu",
+      "Làm việc độc lập",
+      "Làm việc theo nhóm"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TOAE109/TOAH109",
+    "course_name": "Đại số tuyến tính (Linear Algebra)",
+    "domain_knowledge": [
+      "Ma trận và định thức",
+      "Không gian véc tơ",
+      "Hệ phương trình tuyến tính",
+      "Nghiệm bình phương tối thiểu",
+      "Mô hình tuyến tính trong kinh tế và kinh doanh",
+      "Ma trận khối trong phân tích dữ liệu",
+      "Giá trị riêng"
+    ],
+    "jd_skills": [
+      "Tính định thức",
+      "Thực hiện phép tính ma trận",
+      "Tìm ma trận nghịch đảo",
+      "Tìm hạng ma trận",
+      "Giải hệ phương trình tuyến tính",
+      "Biểu diễn, phân tích và giải thích dữ liệu",
+      "Giảm kích thước mô hình",
+      "Tư duy logic",
+      "Phân tích định lượng"
+    ],
+    "tools": [
+      "Phần mềm giải toán đại số tuyến tính"
+    ]
+  },
+  {
+    "course_code": "TOAE203",
+    "course_name": "Probability and Statistics for Economics and Business",
+    "domain_knowledge": [
+      "Descriptive statistics",
+      "Probability theory basics",
+      "One-dimensional and multi-dimensional random quantities",
+      "Probability distribution rules",
+      "Sample theory",
+      "Parameter estimation",
+      "Statistical hypothesis testing",
+      "Analysis of variance",
+      "Correlation analysis",
+      "Regression analysis"
+    ],
+    "jd_skills": [
+      "Analyzing economic and business data",
+      "Estimating parameters",
+      "Hypothesis testing",
+      "Regression analysis execution",
+      "Logical reasoning",
+      "Teamwork"
+    ],
+    "tools": [
+      "Excel",
+      "Python",
+      "R"
+    ]
+  },
+  {
+    "course_code": "PLUH111",
+    "course_name": "Introduction to Law",
+    "domain_knowledge": [
+      "Legal theories",
+      "Origins and essences of states and laws",
+      "Socialist legal systems",
+      "Constitutional law of Vietnam",
+      "Civil law (ownership, obligations, contracts)",
+      "Criminal law of Vietnam",
+      "Public international law",
+      "Private international law",
+      "Economic analysis of law"
+    ],
+    "jd_skills": [
+      "Legal provision interpretation",
+      "Legal norm analysis",
+      "Identifying legal issues",
+      "Solving legal cases and problems",
+      "Conflict of laws analysis",
+      "Independent working",
+      "Group working"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TINE210",
+    "course_name": "Digital Technologies and Artificial Intelligence Applications",
+    "domain_knowledge": [
+      "Core concepts of digital technology",
+      "Core concepts of Artificial Intelligence (AI)",
+      "Machine learning models principles",
+      "Digital risks and security policies",
+      "Digital ethics"
+    ],
+    "jd_skills": [
+      "Designing academic content, graphics, and videos",
+      "Professional information communication across platforms",
+      "Teamwork through digital platforms",
+      "Data extraction and visualization",
+      "Identifying and handling security issues (phishing, fake data)",
+      "Deploying small AI application products"
+    ],
+    "tools": [
+      "MS Word",
+      "Google Docs",
+      "MS PowerPoint",
+      "Canva",
+      "AI tools",
+      "Google Workspace",
+      "MS Teams",
+      "MS Excel",
+      "Google Sheets"
+    ]
+  },
+  {
+    "course_code": "TOAE102",
+    "course_name": "Mathematics, Probability and Statistics in Economics",
+    "domain_knowledge": [
+      "Matrices and determinants",
+      "Systems of linear equations",
+      "Calculus for functions of two variables in economics",
+      "Parameter estimation",
+      "Hypothesis testing",
+      "Correlation analysis",
+      "Two-variable regression models"
+    ],
+    "jd_skills": [
+      "Applying mathematical methods in optimization problems",
+      "Economic optimization solving",
+      "Data processing",
+      "Regression and correlation analysis",
+      "Logical reasoning",
+      "Quantitative analysis"
+    ],
+    "tools": [
+      "Statistical software"
+    ]
+  },
+  {
+    "course_code": "TOAE105",
+    "course_name": "Advanced Mathematics",
+    "domain_knowledge": [
+      "Linear Algebra: matrices, determinants, vector spaces, systems of linear equations",
+      "Mathematical Analysis: limit, continuity, integral and differential calculus",
+      "Single-variable and multi-variable calculus extremes",
+      "Linear equations and second order linear equations",
+      "Linear models in business administration"
+    ],
+    "jd_skills": [
+      "Calculating determinants",
+      "Matrix operations",
+      "Finding inverse and rank of matrices",
+      "Solving systems of linear equations",
+      "Finding limits and reviewing continuity",
+      "Calculating derivatives and integrals of single variable functions",
+      "Analyzing multivariate and implicit functions",
+      "Logical thinking",
+      "Quantitative analysis"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE321",
+    "course_name": "Corporate Finance",
+    "domain_knowledge": [
+      "Principles of corporate finance",
+      "Financial statement analysis",
+      "Investment appraisal",
+      "Interest rates",
+      "Risk and return",
+      "Capital Asset Pricing Model (CAPM)",
+      "Capital structure",
+      "Dividend policy",
+      "Short-term financial management"
+    ],
+    "jd_skills": [
+      "Evaluating investment opportunities and projects",
+      "Analyzing return and risk",
+      "Performing financial analysis using ratios and techniques",
+      "Short-term and long-term project appraisal",
+      "Collaboration and problem-solving",
+      "Academic English presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TOAE209/TOAH209",
+    "course_name": "Thiết kế và phân tích thuật toán (Design and Analysis of Algorithms)",
+    "domain_knowledge": [
+      "Ý nghĩa và tầm quan trọng của thuật toán",
+      "Độ phức tạp tính toán theo thời gian và không gian",
+      "Kỹ thuật phân tích và thiết kế thuật toán",
+      "Thuật toán kinh điển"
+    ],
+    "jd_skills": [
+      "Phân tích thuật toán",
+      "Thiết kế thuật toán",
+      "Đánh giá độ phức tạp tính toán của thuật toán",
+      "Lập trình cài đặt thuật toán kinh điển",
+      "So sánh, đánh giá hiệu quả của các thuật toán"
+    ],
+    "tools": [
+      "Ngôn ngữ lập trình"
+    ]
+  },
+  {
+    "course_code": "KET.F1.2",
+    "course_name": "Business and Technology",
+    "domain_knowledge": [
+      "Business and its environment",
+      "Organisational structure",
+      "Role of accounting and audit functions",
+      "Corporate governance",
+      "Financial reporting, assurance, control and compliance",
+      "Leadership, management and people management",
+      "Effective individual and team behaviour",
+      "Professional ethics in business"
+    ],
+    "jd_skills": [
+      "Analyzing external business influences (economic, legal, social, tech)",
+      "Communicating, reporting, and assuring financial information",
+      "Team recruitment, management, and motivation",
+      "Personal effectiveness and communication",
+      "Collaborative teamwork",
+      "Effective presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KET.F4",
+    "course_name": "Corporate and Business Law",
+    "domain_knowledge": [
+      "Vietnamese legal system (sources of law, court system)",
+      "Law of obligations (contract, tort)",
+      "Employment relationships law",
+      "Company forms and constitutions",
+      "Company financing and types of capital",
+      "Company management, administration and regulation",
+      "Legal aspects of insolvency",
+      "Corporate fraudulent and criminal behaviour"
+    ],
+    "jd_skills": [
+      "Identifying legal system elements",
+      "Applying legal rules of obligations",
+      "Analyzing employment relationships legally",
+      "Distinguishing business organizations",
+      "Analyzing corporate legal disputes",
+      "Professional legal problem analysis",
+      "Group work"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KTEE306",
+    "course_name": "International Economic Relations",
+    "domain_knowledge": [
+      "Foundational concepts of international trade",
+      "International trade in services",
+      "International investment",
+      "Economic integration and globalization",
+      "Trade theories (absolute advantage, comparative advantage, modern trade)",
+      "International economic organizations",
+      "International cooperation in science and technology"
+    ],
+    "jd_skills": [
+      "Identifying global economic and business issues",
+      "Analyzing trade policy and regional integration",
+      "Using economic principles to assess flows of goods/services/capital",
+      "Presenting specialized knowledge in academic/professional environments",
+      "Proposing solutions for trade competition and non-tariff barriers"
+    ],
+    "tools": [
+      "Excel",
+      "Stata"
+    ]
+  },
+  {
+    "course_code": "QTRE312",
+    "course_name": "Strategic Management",
+    "domain_knowledge": [
+      "Strategic management process",
+      "Global vs local environments",
+      "Corporate and business-level strategies",
+      "Strategy implementation and functions analysis",
+      "International strategy in global context",
+      "Ethical decision making and CSR",
+      "Stakeholder theory",
+      "Business and government relationship"
+    ],
+    "jd_skills": [
+      "Strategic analysis",
+      "Analyzing enterprises' functional departments",
+      "Strategic decision-making",
+      "Problem-solving",
+      "Leadership in dynamic environments",
+      "Teamwork and persuasion",
+      "Career roadmap design"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TOAE302",
+    "course_name": "Principles of Statistics and Business Statistics",
+    "domain_knowledge": [
+      "Data analytics in business administration",
+      "Types of data",
+      "Data collection and clean principles",
+      "Data exploration and visualization methods",
+      "Data-driven decision making"
+    ],
+    "jd_skills": [
+      "Data cleaning",
+      "Applying exploratory and data visualization techniques",
+      "Extracting and analyzing info from tables, charts, and graphs",
+      "Teamwork and presentation",
+      "Making reports from data analytics",
+      "Critical thinking"
+    ],
+    "tools": [
+      "Statistical software"
+    ]
+  },
+  {
+    "course_code": "KDOE202",
+    "course_name": "Introduction to Management Science",
+    "domain_knowledge": [
+      "Management activities from managerial perspectives",
+      "Internal and external business environments",
+      "Economic models in business planning",
+      "Resource optimization (human resources)",
+      "Business strategy development",
+      "Business models and innovation"
+    ],
+    "jd_skills": [
+      "Strategic analysis",
+      "Applying scientific principles and economic models in planning",
+      "Conducting cost–benefit analysis",
+      "Resource optimization",
+      "Designing and communicating business solutions",
+      "Adaptability and problem-solving"
+    ],
+    "tools": [
+      "Scientific tools"
+    ]
+  },
+  {
+    "course_code": "COSE100/COSH100",
+    "course_name": "Nhập môn Tư duy tính toán và lập trình (Introduction to Computational Thinking and Programming)",
+    "domain_knowledge": [
+      "Khái niệm về thông tin",
+      "Xử lý thông tin",
+      "Toán rời rạc cơ bản (tập hợp, quan hệ, hàm, logic, tổ hợp)",
+      "Biểu diễn dữ liệu (binary, decimal, hexa, fixed-point, floating-point)",
+      "Nguyên lý Đại số Boolean",
+      "Ngôn ngữ lập trình C/C++, Python",
+      "Xây dựng thuật toán và độ phức tạp thuật toán"
+    ],
+    "jd_skills": [
+      "Giải bài toán khoa học máy tính",
+      "Thiết kế mạch đơn giản",
+      "Xây dựng và phân tích thuật toán",
+      "Thiết kế chương trình hướng cấu trúc đơn giản",
+      "Lập trình cơ bản",
+      "Tự học"
+    ],
+    "tools": [
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  {
+    "course_code": "TCHE303",
+    "course_name": "Money and Banking",
+    "domain_knowledge": [
+      "Monetary economics",
+      "Financial system components",
+      "Types of financial intermediaries",
+      "Money and interest rates",
+      "Commercial banking operations and risk",
+      "Central Bank functions and tools",
+      "Monetary policy transmission mechanisms"
+    ],
+    "jd_skills": [
+      "Analyzing monetary economics issues",
+      "Analyzing financial system performance",
+      "Solving problems in monetary and banking sectors",
+      "Teamwork and professional communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KETE310",
+    "course_name": "Managerial Accounting",
+    "domain_knowledge": [
+      "Managerial accounting fundamentals",
+      "Product costing and cost behaviors",
+      "Budgeting and profit planning",
+      "Flexible budgets and performance analysis",
+      "Cost control systems",
+      "Capital budgeting decisions",
+      "Statement analysis",
+      "Accounting professional ethics"
+    ],
+    "jd_skills": [
+      "Applying cost accounting methods",
+      "Analyzing Cost-Volume-Profit relationships",
+      "Preparing budgets",
+      "Analyzing management accounting reports",
+      "Problem solving",
+      "Group work"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "ESP343",
+    "course_name": "Tiếng Anh chuyên ngành - Khoa học máy tính (ESP - Computer Science)",
+    "domain_knowledge": [
+      "English terminology in Computer Science",
+      "Programming languages concepts",
+      "Software engineering concepts",
+      "Computer networks and security concepts",
+      "Artificial intelligence concepts",
+      "Social media concepts"
+    ],
+    "jd_skills": [
+      "Reading technical papers and articles in English",
+      "Writing technical reports and analysis",
+      "Note-taking in professional contexts",
+      "English communication and group discussion",
+      "Academic presenting in English",
+      "Literature search and self-study"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TOAE308",
+    "course_name": "Statistics and Business Analysis",
+    "domain_knowledge": [
+      "Business analytics concepts",
+      "Types of data",
+      "Statistical analysis and quantitative methods",
+      "Computer-based models in business analysis",
+      "Data visualization techniques"
+    ],
+    "jd_skills": [
+      "Data collection and cleaning",
+      "Data visualization and exploration",
+      "Analyzing business data to support decision-making",
+      "Team working",
+      "Making reports from data analysis",
+      "Critical thinking"
+    ],
+    "tools": [
+      "Excel"
+    ]
+  },
+  {
+    "course_code": "ESP231",
+    "course_name": "English for Specific Purpose 3 (International Business and Economics)",
+    "domain_knowledge": [
+      "International Business and Economics terminology",
+      "Export-import operations",
+      "International trade mechanisms",
+      "Foreign exchange transactions and international payment",
+      "Foreign investment",
+      "Marketing and multinational corporations",
+      "Transportation, cargo insurance and arbitration"
+    ],
+    "jd_skills": [
+      "Searching technical terminology in English",
+      "Cross-cultural business communication",
+      "Information gathering and data synthesis",
+      "English technical discussion and presentation",
+      "Writing academic/business essays in English",
+      "Teamwork and collaboration"
+    ],
+    "tools": [
+      "Presentation software",
+      "IT tools"
+    ]
+  },
+  {
+    "course_code": "KTEE212",
+    "course_name": "Policy Analysis",
+    "domain_knowledge": [
+      "Public policy process",
+      "Public sector intervention theories",
+      "Limits of collective action",
+      "Tools of public policy",
+      "Social benefits and costs measurement",
+      "Cost–benefit analysis theory"
+    ],
+    "jd_skills": [
+      "Applying economic principles to policy processes",
+      "Applying cost-benefit analysis tools to policy issues",
+      "Information gathering",
+      "Academic and policy writing (JIEM standard)",
+      "Communication and presentation of policy briefs",
+      "Teamwork and leadership"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "ESP237",
+    "course_name": "English for Specific Purpose - Technical Writing and Presentation",
+    "domain_knowledge": [
+      "Technical writing principles (planning, organizing, editing)",
+      "Data science and computer science English terms",
+      "Technical document structures (summaries, reports, proposals, CV)",
+      "Principles of professional presentation"
+    ],
+    "jd_skills": [
+      "Writing technical reports, abstracts, and proposals",
+      "Writing CVs in English",
+      "Synthesizing information from reading and listening (note-taking)",
+      "Explaining technical data to non-expert audiences",
+      "Integrating graphics into technical texts",
+      "Academic presentation using vocal/non-vocal delivery",
+      "Team collaboration"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KDOE308",
+    "course_name": "International Business Environment",
+    "domain_knowledge": [
+      "Globalization causes and patterns",
+      "Geopolitical changes and tech disruption",
+      "Sustainability and evolving work systems",
+      "Systems thinking in international business",
+      "Roles of governments, multinational enterprises, and stakeholders"
+    ],
+    "jd_skills": [
+      "Analyzing country-specific business environments",
+      "Evaluating opportunities and threats in global markets",
+      "Assessing corporate ethical responsibilities",
+      "Communicating in academic/professional settings",
+      "Developing innovative solutions through human-centred design tools",
+      "Teamwork and presentation"
+    ],
+    "tools": [
+      "Human-centred design tools"
+    ]
+  },
+  {
+    "course_code": "QTRE403",
+    "course_name": "Human Resource Management",
+    "domain_knowledge": [
+      "Human Resource Management concepts and functions",
+      "Labor market conditions and legal environment",
+      "Workforce planning",
+      "Job analysis and design",
+      "Recruitment and selection processes",
+      "Training and employee development",
+      "Performance management and evaluation systems",
+      "Compensation and benefits structure",
+      "Labor relations"
+    ],
+    "jd_skills": [
+      "Applying workforce planning tools",
+      "Performing job analysis and job design",
+      "Managing recruitment, training, and development processes",
+      "Applying employee performance appraisal methods",
+      "Applying compensation structures",
+      "Interpersonal communication, presentation, and leadership",
+      "Problem-solving and critical thinking"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TOAE207/TOAH207",
+    "course_name": "Vật lý cho hệ thống tính toán (Physics for Computing)",
+    "domain_knowledge": [
+      "Cấu trúc máy tính",
+      "Phương pháp tính nâng cao trong vật lý",
+      "Phương trình vi phân có điều kiện biên và điều kiện đầu",
+      "Phương trình đạo hàm riêng",
+      "Mô phỏng động học phân tử",
+      "Phương pháp Monte Carlo trong vật lý"
+    ],
+    "jd_skills": [
+      "Giải gần đúng phương trình vi phân và đạo hàm riêng",
+      "Sử dụng kỹ thuật mô phỏng động học phân tử",
+      "Áp dụng phương pháp mô phỏng Monte Carlo",
+      "Viết thuật toán dưới dạng mã giả",
+      "Tư duy logic và phân tích định lượng"
+    ],
+    "tools": [
+      "Matlab",
+      "C"
+    ]
+  },
+  {
+    "course_code": "TOAE208/TOAH208",
+    "course_name": "Phương pháp tính toán số (Numerical Computing Methods)",
+    "domain_knowledge": [
+      "Số xấp xỉ và sai số (tuyệt đối, tương đối, quy tròn)",
+      "Xấp xỉ hàm số (đa thức nội suy, bình phương bé nhất)",
+      "Tính gần đúng đạo hàm và tích phân",
+      "Giải gần đúng phương trình phi tuyến",
+      "Tính gần đúng nghiệm hệ phương trình đại số tuyến tính",
+      "Giải gần đúng phương trình vi phân thường"
+    ],
+    "jd_skills": [
+      "Áp dụng phương pháp xấp xỉ hàm số",
+      "Giải gần đúng các bài toán toán học",
+      "Thiết kế thuật toán qua sơ đồ khối",
+      "Lập trình thuật toán tính toán số",
+      "Tư duy logic và phân tích định lượng"
+    ],
+    "tools": [
+      "Matlab",
+      "Python"
+    ]
+  },
+  {
+    "course_code": "DASE100/DASH100",
+    "course_name": "Cấu trúc dữ liệu và Giải thuật (Data Structures and Algorithms)",
+    "domain_knowledge": [
+      "Khái niệm thuật toán cơ bản",
+      "Thuật toán tìm kiếm và sắp xếp",
+      "Đồ thị và cây",
+      "Cấu trúc dữ liệu tương ứng"
+    ],
+    "jd_skills": [
+      "Thiết kế thuật toán cơ bản",
+      "Cài đặt thuật toán vào thực tế",
+      "Giải bài tập cấu trúc dữ liệu đồ thị, cây",
+      "Tư duy logic",
+      "Tự học"
+    ],
+    "tools": [
+      "Ngôn ngữ lập trình"
+    ]
+  },
+  {
+    "course_code": "QTRE410",
+    "course_name": "Operations Management",
+    "domain_knowledge": [
+      "Core principles of Operations Management",
+      "Demand forecasting models",
+      "Product and service design",
+      "Process selection and facility layout",
+      "Design of work systems",
+      "Capacity and location planning",
+      "Material requirements planning (MRP)",
+      "Inventory management and scheduling",
+      "Queuing models"
+    ],
+    "jd_skills": [
+      "Forecasting demand in practice",
+      "Designing facility layouts and work systems",
+      "Planning capacity, locations, and inventory",
+      "Analyzing production/service system effectiveness",
+      "Data collection and synthesis",
+      "Critical thinking and teamwork"
+    ],
+    "tools": [
+      "Information technology tools"
+    ]
+  },
+  {
+    "course_code": "COSE201/COSH201",
+    "course_name": "Mạng máy tính (Computer networks)",
+    "domain_knowledge": [
+      "Hoạt động mạng máy tính và Internet",
+      "Mô hình OSI và chức năng các lớp",
+      "Địa chỉ IP và chồng giao thức TCP/IP",
+      "Hoạt động của các thiết bị mạng",
+      "Giao thức mạng quan trọng",
+      "Các dịch vụ chuẩn (DNS, TELNET, FTP, Mail, Web)"
+    ],
+    "jd_skills": [
+      "Giải thích quá trình truyền dữ liệu",
+      "Giải bài toán cấu hình hệ thống mạng",
+      "Sử dụng Internet trong học tập và nghiên cứu",
+      "Cài đặt và cấu hình dịch vụ mạng (DNS, TELNET, FTP, Mail, Web)",
+      "Tự học"
+    ],
+    "tools": [
+      "DNS",
+      "TELNET",
+      "FTP",
+      "Mail",
+      "Web"
+    ]
+  },
+  {
+    "course_code": "COSE200/COSH200",
+    "course_name": "Kiến trúc máy tính và Nguyên lý hệ điều hành (Computer Architecture and Principles of Operating Systems)",
+    "domain_knowledge": [
+      "Kiến trúc máy tính tổng quát",
+      "Kiến trúc CPU và tập lệnh",
+      "Cơ chế ống lệnh",
+      "Hệ thống phân cấp bộ nhớ",
+      "Hệ thống bus và thiết bị ngoại vi",
+      "Nguyên lý hoạt động hệ điều hành",
+      "Quản lý hệ thống file",
+      "Quản lý và điều độ tiến trình CPU",
+      "Hệ điều hành Windows và Linux"
+    ],
+    "jd_skills": [
+      "Xử lý vấn đề kỹ thuật máy tính (tháo lắp, thay thế bộ phận)",
+      "Cài đặt hệ điều hành (Windows, Linux)",
+      "Xử lý sự cố máy tính và laptop",
+      "Đánh giá hoạt động hệ thống máy tính",
+      "Tự học"
+    ],
+    "tools": [
+      "Windows",
+      "Linux"
+    ]
+  },
+  {
+    "course_code": "TCHE401",
+    "course_name": "Financial Markets and Institutions",
+    "domain_knowledge": [
+      "Financial markets role, classifications and participants",
+      "Major financial instruments",
+      "Financial institutions (commercial banks, securities companies, insurance firms, investment funds)",
+      "Financial instrument valuation concepts",
+      "Risk management mechanisms in financial institutions",
+      "Sensitivity and risk analysis tools"
+    ],
+    "jd_skills": [
+      "Analyzing financial market structure and operations",
+      "Valuing financial instruments",
+      "Assessing risks of financial institutions",
+      "Information gathering and selection",
+      "Analyzing financial market trends"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KETE307",
+    "course_name": "Financial Management",
+    "domain_knowledge": [
+      "Investment, financing, and working capital decisions",
+      "Time value of money and rate of return",
+      "Financial asset valuation",
+      "Investment appraisal techniques",
+      "Weighted average cost of capital (WACC)",
+      "Capital structure and financial leverage",
+      "Financial ratio analysis"
+    ],
+    "jd_skills": [
+      "Analyzing corporate financial statements",
+      "Valuing financial assets",
+      "Appraising short-term and long-term investment projects",
+      "Analyzing financing options and capital costs",
+      "Data processing for financial decision-making",
+      "Teamwork and critical thinking"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KETE201/KETH201",
+    "course_name": "Nguyên lý kế toán (Principles of Accounting)",
+    "domain_knowledge": [
+      "Bản chất, vai trò, chức năng của kế toán",
+      "Nguyên tắc kế toán cơ bản",
+      "Yếu tố báo cáo tài chính (Tài sản, Nguồn vốn, Doanh thu, Thu nhập, Chi phí)",
+      "Quy trình lập báo cáo tài chính doanh nghiệp",
+      "Mối quan hệ giữa các báo cáo tài chính",
+      "Đạo đức nghề nghiệp kế toán - kiểm toán"
+    ],
+    "jd_skills": [
+      "Lập chứng từ kế toán",
+      "Ghi sổ kế toán",
+      "Đo lường, xác định giá trị đối tượng kế toán",
+      "Xác định kết quả kinh doanh kỳ kế toán",
+      "Lập báo cáo tài chính cuối kỳ",
+      "Tính toán chỉ tiêu phân tích báo cáo tài chính cơ bản",
+      "Tra cứu văn bản pháp luật về kế toán"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TCHE302",
+    "course_name": "Principles of Finance",
+    "domain_knowledge": [
+      "Nature, premises and functions of finance",
+      "Structure of the financial system",
+      "Financial markets and institutions",
+      "Time value of money and interest rates",
+      "Risk and return relationship",
+      "Efficient investment portfolio theory",
+      "State budget and public finance basics",
+      "Insurance and credit systems"
+    ],
+    "jd_skills": [
+      "Analyzing personal and corporate financial factors",
+      "Evaluating risk and return",
+      "Constructing investment portfolios",
+      "Analyzing national financial and state budget mechanisms",
+      "Solving real-world financial problems",
+      "Professional teamwork and communication"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "PPHE107/PPH107",
+    "course_name": "Tư duy thiết kế (Design thinking)",
+    "domain_knowledge": [
+      "Human-centered design process",
+      "Design thinking methodology in business",
+      "Market needs and customer unmet needs",
+      "Visual communication theory"
+    ],
+    "jd_skills": [
+      "Identifying customer unmet needs and pain points",
+      "Developing design plans based on tools",
+      "Creating viable business solutions",
+      "Customer storytelling and visual presentation",
+      "Managing independent group projects"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE319/TMAH319",
+    "course_name": "Đổi mới sáng tạo (Innovation)",
+    "domain_knowledge": [
+      "Lý thuyết nền tảng về đổi mới sáng tạo",
+      "Quy trình phát triển ý tưởng thành doanh nghiệp",
+      "Hệ sinh thái đổi mới sáng tạo và khởi nghiệp",
+      "Công cụ và kỹ thuật sáng tạo",
+      "Phương thức duy trì đổi mới sáng tạo trong tổ chức"
+    ],
+    "jd_skills": [
+      "Phát triển ý tưởng sáng tạo",
+      "Đánh giá ý tưởng sáng tạo",
+      "Giải quyết bài toán thực tế của doanh nghiệp",
+      "Thu thập, phân tích và xử lý thông tin",
+      "Quản lý và lãnh đạo nhóm",
+      "Thuyết trình và lập luận sắp xếp ý tưởng"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TOAE201/TOAH201",
+    "course_name": "Lý thuyết xác suất và thống kê toán (The Theory of Probability and Mathematical Statistics)",
+    "domain_knowledge": [
+      "Khái niệm cơ bản về xác suất",
+      "Đại lượng ngẫu nhiên một chiều và nhiều chiều",
+      "Quy luật phân phối xác suất",
+      "Lý thuyết mẫu trong thống kê",
+      "Bài toán ước lượng thống kê",
+      "Kiểm định giả thiết thống kê",
+      "Hồi quy tuyến tính",
+      "Ứng dụng xác suất thống kê trong kinh tế và kinh doanh"
+    ],
+    "jd_skills": [
+      "Xử lý số liệu thống kê",
+      "Giải quyết bài toán ước lượng và kiểm định",
+      "Phân tích hồi quy ứng dụng",
+      "Tư duy logic",
+      "Thực hành giải toán bằng phần mềm máy tính"
+    ],
+    "tools": [
+      "Phần mềm xác suất thống kê"
+    ]
+  },
+  {
+    "course_code": "TLHE102/TLHH102",
+    "course_name": "Tâm lý học (Psychology)",
+    "domain_knowledge": [
+      "Khái niệm và lý thuyết tâm lý cơ bản",
+      "Hoạt động nhận thức, ý thức, vô thức",
+      "Xúc cảm, tình cảm, ý chí, nhân cách",
+      "Các thuộc tính tâm lý nhân cách",
+      "Stress, rối loạn tâm lý, hành vi lệch chuẩn"
+    ],
+    "jd_skills": [
+      "Phân tích hành vi, tính cách và động lực",
+      "Kiểm soát cảm xúc cá nhân",
+      "Giải quyết vấn đề tâm lý thực tiễn",
+      "Nghiên cứu các hiện tượng tâm lý đời sống và công việc"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "MKTE301",
+    "course_name": "Principles of Marketing",
+    "domain_knowledge": [
+      "Marketing environment factors",
+      "Consumer and business buyer behaviors",
+      "Marketing research design",
+      "Marketing mix (4Ps) policies",
+      "Target market selection strategies"
+    ],
+    "jd_skills": [
+      "Analyzing marketing environments",
+      "Designing market research",
+      "Selecting target markets",
+      "Proposing integrated marketing solutions",
+      "Professional communication and teamwork",
+      "Group leadership"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "ESP121",
+    "course_name": "Tiếng Anh chuyên ngành 2 (Giao tiếp kinh doanh) (English for Specific Purpose 2)",
+    "domain_knowledge": [
+      "Business English vocabulary and terminology",
+      "Workplace culture and office etiquette",
+      "Formal and informal business report structures",
+      "Business proposal formatting",
+      "Job interview techniques"
+    ],
+    "jd_skills": [
+      "Drafting business emails and workplace messages",
+      "Writing formal/informal business reports and proposals",
+      "Delivering oral presentations with visual aids",
+      "Handling job interviews in English",
+      "Cross-cultural business communication",
+      "Professional listening and reading",
+      "Self-study plan management"
+    ],
+    "tools": [
+      "Visual aids"
+    ]
+  },
+  {
+    "course_code": "TOAE111/TOAH111",
+    "course_name": "Toán rời rạc (Discrete Mathematics)",
+    "domain_knowledge": [
+      "Lý thuyết số",
+      "Suy luận toán học",
+      "Lý thuyết đếm",
+      "Mô hình tính toán",
+      "Máy Turing"
+    ],
+    "jd_skills": [
+      "Giải các bài toán rời rạc cụ thể",
+      "Ứng dụng thuật toán toán học",
+      "Lập trình giải bài toán rời rạc",
+      "Tư duy logic",
+      "Phân tích thuật toán"
+    ],
+    "tools": [
+      "C++",
+      "Matlab",
+      "R",
+      "Python"
+    ]
+  },
+  {
+    "course_code": "ESP232",
+    "course_name": "Tiếng Anh chuyên ngành 3 (Quản trị kinh doanh) (English for Specific Purpose 3)",
+    "domain_knowledge": [
+      "Business English terminology",
+      "Human Resource Management terminology",
+      "Financial Management terminology",
+      "Strategic Management terminology",
+      "Operations Management terminology",
+      "Accounting terminology",
+      "Marketing Management and E-commerce terminology",
+      "Corporate culture and brand development concepts"
+    ],
+    "jd_skills": [
+      "Reading long texts on business topics",
+      "Listening to academic and technical presentations",
+      "English business presenting and situational communication",
+      "Writing academic business essays",
+      "Analyzing department interactions in business",
+      "Teamwork and task supervision"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "ESP342",
+    "course_name": "Tiếng Anh chuyên ngành 4 (Hợp đồng) (English for Specific Purpose 4)",
+    "domain_knowledge": [
+      "Contract language characteristics",
+      "Structure and basic clauses of international commercial contracts",
+      "International cargo transportation methods and bills of lading",
+      "Incoterms 2020",
+      "Force majeure and risk/property transfer",
+      "International payment methods (L/C, bank guarantee)",
+      "Cargo insurance terms and quality inspection",
+      "Civil law and Common law systems overview",
+      "Dispute resolution in international contracts"
+    ],
+    "jd_skills": [
+      "Negotiating international sales contracts",
+      "Drafting commercial contract clauses",
+      "Translating contract clauses (English-Vietnamese)",
+      "Writing business letters/texts on trade and transport",
+      "Presenting international trade and shipping legal issues",
+      "Independent and group research"
+    ],
+    "tools": [
+      "Incoterms 2020"
+    ]
+  },
+  {
+    "course_code": "KDO203E",
+    "course_name": "Introduction to Business",
+    "domain_knowledge": [
+      "Economic indicators and business cycles",
+      "Business establishment steps",
+      "Legal forms of business ownership",
+      "Human resource management overview",
+      "Quality and competitive management",
+      "Marketing and corporate finance fundamentals",
+      "Business ethics and Corporate Social Responsibility (CSR)",
+      "International market expansion decisions"
+    ],
+    "jd_skills": [
+      "Using business vocabulary",
+      "Critical and analytical thinking",
+      "Business decision-making",
+      "Workplace simulation exercises",
+      "Analyzing combination of business models and country characteristics",
+      "Teamwork, presentation, and leadership"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "NGOE102",
+    "course_name": "CULTURE AND CODING: PYTHON",
+    "domain_knowledge": [
+      "Computer science overview",
+      "Formal logic",
+      "Computational thinking",
+      "History and cultural roles of technology",
+      "Technology influence on modern culture"
+    ],
+    "jd_skills": [
+      "Writing simple programs in Python",
+      "Formulating research questions based on data",
+      "Synthesizing literature to support viewpoints",
+      "Writing cultural/technical essays",
+      "Adapting approaches in real-world contexts"
+    ],
+    "tools": [
+      "Python"
+    ]
+  },
+  {
+    "course_code": "KTEE309",
+    "course_name": "Econometrics",
+    "domain_knowledge": [
+      "Linear regression model theory",
+      "Model estimation methods",
+      "Econometric problems detection (heteroscedasticity, autocorrelation, etc.)",
+      "Hypothesis testing in regression",
+      "Forecasting principles",
+      "Policy recommendation drafting"
+    ],
+    "jd_skills": [
+      "Building linear regression models",
+      "Finding and collecting relevant economic data",
+      "Estimating models using software",
+      "Interpreting regression coefficients",
+      "Detecting and fixing model violations",
+      "Quantitative data analysis",
+      "Critical thinking and teamwork"
+    ],
+    "tools": [
+      "Statistical software"
+    ]
+  },
+  {
+    "course_code": "TINE314",
+    "course_name": "Programming for Data Analysis and Scientific Computing",
+    "domain_knowledge": [
+      "Scientific computing basics",
+      "Statistical data analysis using Python",
+      "Data science project lifecycle",
+      "Data processing and cleaning principles",
+      "Data visualization techniques",
+      "Predictive modeling and basic machine learning models"
+    ],
+    "jd_skills": [
+      "Processing large amounts of data efficiently",
+      "Data cleaning, manipulation, and summary",
+      "Running inferential statistical analyses",
+      "Visualizing corporate business data",
+      "Building and evaluating basic machine learning models",
+      "Logical thinking",
+      "Self-study"
+    ],
+    "tools": [
+      "Python",
+      "Python data science libraries"
+    ]
+  },
+  {
+    "course_code": "ESP341",
+    "course_name": "Tiếng Anh chuyên ngành 4 (Thư tín) (English for Specific Purpose 4)",
+    "domain_knowledge": [
+      "Business correspondence style and tone",
+      "Structure of trade letters (Inquiry, Offer, Quotation, Order, Payment, Complaint)",
+      "Structure of resumes and cover letters in English",
+      "Terminology in commercial exchange"
+    ],
+    "jd_skills": [
+      "Drafting business letters of inquiry and quotation",
+      "Drafting business offers and orders",
+      "Drafting payment follow-ups and complaint letters",
+      "Writing professional English resumes and cover letters",
+      "Trade risk mitigation through written communication",
+      "Professional vocabulary searching",
+      "Team collaboration"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KETE301",
+    "course_name": "Financial Accounting",
+    "domain_knowledge": [
+      "Fundamentals of financial accounting",
+      "Fraud prevention and internal control",
+      "Accounting elements (Inventory, cash, receivables, long-lived assets, bonds, liabilities, stockholders' equity)",
+      "Financial reporting disclosure requirements",
+      "Financial ratio analysis concepts",
+      "Professional accounting ethics"
+    ],
+    "jd_skills": [
+      "Recording allowances and bad debts",
+      "Recording and reporting company assets and liabilities",
+      "Recording equity transactions",
+      "Preparing financial statements",
+      "Computing financial ratios for business analysis",
+      "Applying accounting principles to ethical dilemmas"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "ESP233",
+    "course_name": "Tiếng Anh chuyên ngành 3 (Tài chính ngân Hàng) (English for Specific Purpose 3)",
+    "domain_knowledge": [
+      "Banking and finance terminology",
+      "Key financial system concepts",
+      "Financial instruments and markets vocabulary",
+      "Banking operations vocabulary",
+      "Data analysis terminology"
+    ],
+    "jd_skills": [
+      "Using technical vocabulary in appropriate context",
+      "Explaining technical terms in English fluently",
+      "Reading technical financial articles and news",
+      "Synthesizing financial reports",
+      "Presenting financial issues in English",
+      "Collaboration and teamwork"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE211/QTRH211",
+    "course_name": "Tư duy Khởi nghiệp và Thiết kế ý tưởng (Entrepreneurial Mindset and Ideation)",
+    "domain_knowledge": [
+      "Foundational principles of entrepreneurship",
+      "Opportunity identification, creation and evaluation",
+      "Business Model construction",
+      "Knowledge creation in startup process",
+      "Risk and uncertainty in venture creation",
+      "Integration of business disciplines (marketing, operations, HR, finance)"
+    ],
+    "jd_skills": [
+      "Developing actionable business ideas",
+      "Evaluating business opportunities",
+      "Creating viable Business Models",
+      "Collaborating as a startup team member",
+      "Pitching business ideas",
+      "Critical judgment"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "QTRE303/QTRH303",
+    "course_name": "Quản trị học (Fundamental of Management)",
+    "domain_knowledge": [
+      "Lý thuyết nền tảng về quản trị",
+      "Chức năng của quản trị (hoạch định, tổ chức, lãnh đạo, kiểm soát)",
+      "Môi trường kinh doanh ảnh hưởng tổ chức",
+      "Quy trình ra quyết định của nhà quản lý",
+      "Quy trình và công cụ hoạch định chiến lược",
+      "Cơ cấu tổ chức và thiết kế cơ cấu",
+      "Lý thuyết lãnh đạo và tạo động lực",
+      "Hệ thống và phương pháp kiểm soát hiệu quả"
+    ],
+    "jd_skills": [
+      "Phân tích môi trường kinh doanh",
+      "Thực hiện quy trình ra quyết định quản trị",
+      "Hoạch định chiến lược doanh nghiệp",
+      "Thiết kế cơ cấu tổ chức",
+      "Lãnh đạo và tạo động lực nhân viên",
+      "Tư duy phản biện",
+      "Giải quyết vấn đề tổ chức",
+      "Làm việc nhóm và thuyết trình"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KTEE201",
+    "course_name": "Microeconomics",
+    "domain_knowledge": [
+      "Market economy operation",
+      "Supply and demand mechanisms",
+      "Consumer and firm decision-making",
+      "Production costs and profit maximization",
+      "Market structures (competition, monopoly, oligopoly)",
+      "Market failures and corrective public policies",
+      "Resource allocation principles"
+    ],
+    "jd_skills": [
+      "Solving optimization problems using calculus",
+      "Explaining and analyzing market trends",
+      "Interpreting economic diagrams",
+      "Analytical decision making",
+      "Problem-solving and presentation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TMAE317",
+    "course_name": "International Relations",
+    "domain_knowledge": [
+      "Developments of international relations from pre-modern times",
+      "State-to-state relations, politics, and security",
+      "International cooperation theories",
+      "Conflict and security",
+      "International law and trade in IR context"
+    ],
+    "jd_skills": [
+      "Analyzing and criticizing global issues",
+      "Information collection, synthesis and systematic thinking",
+      "Group leadership and coordination",
+      "Presentation and debate",
+      "Adapting to changing geopolitical environments"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TRIE204/TRIH204",
+    "course_name": "Khoa học và Công nghệ vị Nhân sinh (Science and Technology for Humanity)",
+    "domain_knowledge": [
+      "Nguyên lý khoa học/kỹ thuật của các đổi mới công nghệ nổi bật",
+      "Mối liên hệ giữa khoa học/kỹ thuật, kinh doanh và xã hội",
+      "Các thách thức đạo đức, tài chính, pháp lý, xã hội và văn hóa trong ứng dụng công nghệ",
+      "Mô hình cân bằng khoa học-kinh doanh-xã hội"
+    ],
+    "jd_skills": [
+      "Phân tích lợi ích và chi phí của đổi mới công nghệ",
+      "Xác định và giải quyết các thách thức thực tiễn",
+      "Đánh giá khía cạnh đạo đức và xã hội của dự án công nghệ",
+      "Hợp tác phát triển dự án liên ngành",
+      "Tư duy phản biện"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "ESP451",
+    "course_name": "Tiếng Anh chuyên ngành 5 (Diễn thuyết trước công chúng) (English for Specific Purpose 5)",
+    "domain_knowledge": [
+      "Principles of preparing and delivering public speeches",
+      "Audience analysis techniques",
+      "Speech organization structures (informative, persuasive)",
+      "Reasoning and argumentation strategies",
+      "Visual aids design and integration"
+    ],
+    "jd_skills": [
+      "Drafting structured speeches at C1 level",
+      "Public speaking using outlines and memory",
+      "Controlling pronunciation, stress, and intonation",
+      "Selecting and citing info from diverse sources",
+      "Active listening and summarizing complex speeches",
+      "Managing audience questions",
+      "Developing learning plans"
+    ],
+    "tools": [
+      "Visual aids"
+    ]
+  },
+  {
+    "course_code": "KDO441E",
+    "course_name": "Career Development Skills (e-PLANE I)",
+    "domain_knowledge": [
+      "Career orientation theories and pathways",
+      "Self-assessment methods",
+      "Design thinking principles (Empathize, Define, Ideate, Prototype, Test)",
+      "Systems thinking concepts"
+    ],
+    "jd_skills": [
+      "Developing study and career roadmaps",
+      "Applying design thinking to group social projects",
+      "Time management",
+      "Problem-solving and creative thinking",
+      "Empathy and active listening",
+      "Teamwork and leadership",
+      "Adaptability to real-world situations"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "TINE313",
+    "course_name": "Data Management Systems",
+    "domain_knowledge": [
+      "Data storage concepts",
+      "Database design processes",
+      "Database administration overview",
+      "Structured Query Language (SQL) principles",
+      "Data query and calculation techniques"
+    ],
+    "jd_skills": [
+      "Designing databases for business/data analysis",
+      "Writing SQL queries for data processing",
+      "Data cleaning and transformation",
+      "Data aggregation and calculation",
+      "Logical thinking and problem-solving"
+    ],
+    "tools": [
+      "SQL",
+      "Database management systems"
+    ]
+  },
+  {
+    "course_code": "KTEE206",
+    "course_name": "Research Methodology in Economics and Business",
+    "domain_knowledge": [
+      "Research philosophy and theory development",
+      "Stages of research process",
+      "Research design principles",
+      "Ethics in research and data access",
+      "Quantitative and qualitative analysis techniques"
+    ],
+    "jd_skills": [
+      "Selecting and defining research topics",
+      "Writing literature reviews",
+      "Formulating research designs",
+      "Collecting and analyzing data",
+      "Producing academic research papers",
+      "Team project coordination",
+      "Independent and group work"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "KTEE203/KTEH203",
+    "course_name": "Kinh tế vĩ mô (Principles of Macroeconomics)",
+    "domain_knowledge": [
+      "Khái niệm cơ bản (sản lượng vĩ mô, thất nghiệp, lạm phát, tỷ giá)",
+      "Mô hình vĩ mô nền tảng",
+      "Cách tính toán chỉ số vĩ mô (GDP, CPI, thất nghiệp)",
+      "Chính sách tài khóa",
+      "Chính sách tiền tệ",
+      "Tác động của cú sốc vĩ mô ngắn hạn và dài hạn"
+    ],
+    "jd_skills": [
+      "Phân tích kinh tế vĩ mô dựa trên mô hình",
+      "Đánh giá chính sách tài khóa và tiền tệ",
+      "Làm việc nhóm",
+      "Thuyết trình",
+      "Giải quyết vấn đề và ra quyết định"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "DTIE100",
+    "course_name": "Design Thinking and Innovation",
+    "domain_knowledge": [
+      "Fundamental theories of innovation",
+      "Process and core principles of Design Thinking",
+      "User-centered thinking principles",
+      "Prototyping and testing models"
+    ],
+    "jd_skills": [
+      "Using Design Thinking tools",
+      "Analyzing real-world problems",
+      "Ideation of creative solutions",
+      "Building prototypes",
+      "Conducting testing",
+      "Presenting group projects",
+      "Persuading audiences",
+      "Teamwork and user-centered thinking"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "PPHE108",
+    "course_name": "Skills development and career orientation for managers",
+    "domain_knowledge": [
+      "Functions, levels, and types of management",
+      "Effective management principles",
+      "Interpersonal communication principles",
+      "Group and team development process",
+      "Conflict resolution models",
+      "Profiling tools and self-understanding"
+    ],
+    "jd_skills": [
+      "Interpersonal communication",
+      "Public presentation delivery",
+      "Using vocal and body language",
+      "Effective teamwork and team building",
+      "Performance management",
+      "Conflict resolution",
+      "Time management",
+      "Adaptability"
+    ],
+    "tools": [
+      "Profiling tools",
+      "Visual aids"
+    ]
+  },
+  {
+    "course_code": "TMAE201",
+    "course_name": "Global Economic Geography",
+    "domain_knowledge": [
+      "Socio-economic characteristics of global regions",
+      "Global political maps",
+      "Effects of scientific and technological revolutions on geography",
+      "Political, social, and environmental changes",
+      "Economic development characteristics of selected nations"
+    ],
+    "jd_skills": [
+      "Analyzing world economic geography",
+      "Analyzing external environments affecting business",
+      "Predicting socio-economic trends",
+      "Professional communication and presentation",
+      "Initiating business ideas related to taxation"
+    ],
+    "tools": []
+  },
+  {
+    "course_code": "ESP111",
+    "course_name": "Tiếng Anh chuyên ngành 1 (Tiếng Anh thương mại nâng cao) (English for Specific Purpose 1)",
+    "domain_knowledge": [
+      "Business English terminology at B2 level",
+      "Basic concepts of economics and management",
+      "Basic concepts of finance and international trade",
+      "Corporate organization and supply chains",
+      "Business and workspace culture"
+    ],
+    "jd_skills": [
+      "Reading business articles and financial reports",
+      "Listening comprehension and note-taking",
+      "Writing business documents and essays",
+      "English business presentation and discussion",
+      "Identifying implications in business texts",
+      "Teamwork and goal setting"
+    ],
+    "tools": []
+  }
+]

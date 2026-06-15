@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+flask
+requests
+beautifulsoup4
+python-docx
+google-genai
+playwright
+schedule

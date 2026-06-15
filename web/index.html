@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FTU Career Hub</title>
+    
+    <!-- iCielEffra Font (Using a fallback if local font fails) -->
+    <style>
+        @font-face {
+            font-family: "iCielEffra";
+            src: url('../fonts/iCielEffra-Regular.otf') format('opentype');
+            font-weight: normal;
+            font-style: normal;
+        }
+    </style>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css?v=4">
+    <link rel="stylesheet" href="home.css?v=4">
+
+    <!-- Firebase SDKs -->
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+        import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+        
+        // Mock Firebase Config (Will be replaced with real config if provided)
+        const firebaseConfig = {
+            apiKey: "MOCK_KEY",
+            authDomain: "ftu-career-hub.firebaseapp.com",
+            projectId: "ftu-career-hub",
+            storageBucket: "ftu-career-hub.appspot.com",
+            messagingSenderId: "123456789",
+            appId: "1:123456789:web:mock"
+        };
+        
+        // Initialize Firebase
+        // NOTE: Since this is a MOCK key, Firebase won't actually auth unless valid keys are provided.
+        // We will implement a mock fallback inside app.js if initialization fails.
+        try {
+            const app = initializeApp(firebaseConfig);
+            window.auth = getAuth(app);
+            window.provider = new GoogleAuthProvider();
+            window.signInWithPopup = signInWithPopup;
+            window.signOut = signOut;
+            window.onAuthStateChanged = onAuthStateChanged;
+        } catch(e) {
+            console.log("Firebase mock loaded.");
+        }
+    </script>
+    
+    <!-- PDF.js for parsing CV in browser -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <script>pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';</script>
+
+    <link rel="icon" type="image/png" href="favicon.png">
+</head>
+<body>
+    <!-- Top Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-left">
+            <div class="logo" id="nav-logo" style="cursor: pointer;" title="Về trang chủ">
+                <img src="logo.png" alt="FTU Career Hub" style="height: 40px; width: auto; margin-right: 8px;">
+            </div>
+        </div>
+        <div class="nav-center">
+            <a href="#" class="nav-item active" data-target="home-view">Trang chủ</a>
+            <a href="#" class="nav-item" data-target="jobs-view">Việc làm</a>
+            <a href="#" class="nav-item" data-target="insights-view">Market Insight</a>
+            <a href="#" class="nav-item" data-target="profile-view">Hồ sơ</a>
+        </div>
+        <div class="nav-right">
+            <button class="icon-btn" title="Thông báo"><i class="fa-regular fa-bell"></i></button>
+            <button class="icon-btn" title="Cài đặt"><i class="fa-solid fa-gear"></i></button>
+            <div class="avatar-container" id="user-avatar-btn">
+                <div class="avatar-placeholder">G</div>
+            </div>
+        </div>
+    </nav>
+
+        <div class="app-container">
+            <!-- Home View -->
+            <div id="home-view" class="view-section active">
+                <!-- Section 1: Hero -->
+                <div class="hero-section">
+                    <h1 class="hero-title">Looking for your best-fit job?</h1>
+                    <p class="hero-subtitle">Type your keyword, then click search to find your perfect job.</p>
+                    <div class="hero-search-box">
+                        <input type="text" placeholder="Tìm kiếm vị trí, công ty hoặc kỹ năng...">
+                        <button class="btn-primary" id="btn-hero-search">Tìm việc ngay</button>
+                    </div>
+                    <div class="hero-actions">
+                        <button class="btn-outline-light nav-trigger" data-target="jobs-view">Khám phá việc làm</button>
+                        <button class="btn-light nav-trigger" data-target="profile-view">Profile</button>
+                        <button class="btn-outline-light nav-trigger" data-target="insights-view">Market Insight</button>
+                    </div>
+                </div>
+
+                <!-- Section 2: Industries -->
+                <div class="home-section">
+                    <div class="section-header">
+                        <h2>Ngành nghề phổ biến</h2>
+                        <p>Khám phá các vị trí thực tập theo lĩnh vực bạn yêu thích</p>
+                    </div>
+                    <div class="industry-grid">
+                        <div class="industry-card" data-industry="Marketing"><span><i class="fa-solid fa-bullhorn"></i></span> Marketing</div>
+                        <div class="industry-card" data-industry="Finance"><span><i class="fa-solid fa-money-bill-wave"></i></span> Tài chính</div>
+                        <div class="industry-card" data-industry="Logistics"><span><i class="fa-solid fa-truck"></i></span> Logistics</div>
+                        <div class="industry-card" data-industry="Data"><span><i class="fa-solid fa-chart-simple"></i></span> Dữ liệu</div>
+                        <div class="industry-card" data-industry="HR"><span><i class="fa-solid fa-users"></i></span> Nhân sự</div>
+                        <div class="industry-card" data-industry="Business Development"><span><i class="fa-solid fa-briefcase"></i></span> Kinh doanh</div>
+                    </div>
+                </div>
+
+                <!-- Section 3: Courses -->
+                <div class="home-section">
+                    <div class="section-header">
+                        <h2>Khóa học đề xuất</h2>
+                        <span class="badge">DÀNH CHO SINH VIÊN</span>
+                    </div>
+                    <div class="course-grid" id="home-courses-grid">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+
+                <!-- Footer -->
+                <footer class="home-footer">
+                    <div class="footer-col">
+                        <img src="logo.png" alt="FTU Logo" style="height: 48px; margin-bottom: 16px;">
+                        <p><strong>Cổng thông tin Việc làm & Thực tập</strong><br>Trường Đại học Ngoại thương</p>
+                        <p style="margin-top: 12px; font-size: 14px;">Kết nối nhân tài trẻ với hàng ngàn doanh nghiệp hàng đầu.</p>
+                    </div>
+                    <div class="footer-col">
+                        <h4>Thông tin liên hệ</h4>
+                        <p style="margin-bottom: 8px;"><i class="fa-solid fa-location-dot" style="margin-right: 6px;"></i> Địa chỉ: 91 Chùa Láng, Láng Thượng, Đống Đa, Hà Nội</p>
+                        <p style="margin-bottom: 8px;"><i class="fa-solid fa-phone" style="margin-right: 6px;"></i> Hotline: (024) 3259 5158</p>
+                        <p style="margin-bottom: 8px;"><i class="fa-regular fa-envelope" style="margin-right: 6px;"></i> Email: qldt@ftu.edu.vn</p>
+                    </div>
+                    <div class="footer-col">
+                        <h4>Dành cho Sinh viên</h4>
+                        <a href="#">Cẩm nang Nghề nghiệp</a>
+                        <a href="#">Chuỗi sự kiện FTU</a>
+                        <a href="#">Khóa học Kỹ năng</a>
+                    </div>
+                    <div class="footer-col">
+                        <h4>Dành cho Doanh nghiệp</h4>
+                        <a href="#">Đăng tin tuyển dụng</a>
+                        <a href="#">Hợp tác đào tạo</a>
+                        <a href="#">Chính sách đối tác</a>
+                    </div>
+                </footer>
+            </div>
+
+            <!-- Insights View -->
+            <div id="insights-view" class="view-section hidden">
+                <div class="auth-card" style="max-width: 800px; margin: 0 auto; background: #fff; padding: 40px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+                    <div style="display: flex; gap: 16px; margin-bottom: 24px; align-items: center;">
+                        <select id="insight-industry-select" style="padding: 12px; border-radius: 8px; border: 1px solid #dee2e6; flex-grow: 1; font-size: 16px;">
+                            <option value="" disabled selected>Chọn ngành nghề để xem Insights...</option>
+                            <option value="Data">Dữ liệu & Phân tích (Data)</option>
+                            <option value="Marketing">Tiếp thị & Truyền thông (Marketing)</option>
+                            <option value="Finance">Tài chính (Finance)</option>
+                            <option value="Logistics">Logistics & Chuỗi cung ứng</option>
+                            <option value="HR">Nhân sự (HR)</option>
+                            <option value="Business Development">Kinh doanh & Bán hàng (BD)</option>
+                        </select>
+                        <button id="btn-insight-search" class="btn-primary" style="margin-top: 0; width: auto; padding: 12px 24px;">Tra cứu</button>
+                    </div>
+
+                    <h2 class="form-title" id="insight-title" style="margin-bottom: 8px; color: var(--accent);">Insight theo ngành</h2>
+                    <p style="color: #6c757d; margin-bottom: 24px;">Dữ liệu thị trường thời gian thực được trích xuất từ hàng ngàn tin tuyển dụng.</p>
+                    
+                    <div id="insight-stats" style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 24px;">
+                        <div style="background: #f8f9fa; padding: 24px; border-radius: 12px; text-align: center; border: 1px solid #e9ecef;">
+                            <h3 style="color: #495057; font-size: 16px; margin-bottom: 8px;">Số lượng Jobs Mở</h3>
+                            <div id="insight-job-count" style="font-size: 36px; font-weight: bold; color: #ff4d4f;">0</div>
+                        </div>
+                        <div style="background: #f8f9fa; padding: 24px; border-radius: 12px; text-align: center; border: 1px solid #e9ecef;">
+                            <h3 style="color: #495057; font-size: 16px; margin-bottom: 8px;">Mức lương TB (Triệu VNĐ)</h3>
+                            <div id="insight-avg-salary" style="font-size: 36px; font-weight: bold; color: #007bff;">Đang cập nhật</div>
+                        </div>
+                    </div>
+                    
+                    <h3 style="font-size: 18px; font-weight: bold; margin-bottom: 16px; border-bottom: 1px solid #dee2e6; padding-bottom: 12px;">Top Kỹ năng Yêu cầu</h3>
+                    <div id="insight-top-skills" style="display: flex; flex-wrap: wrap; gap: 10px;">
+                        <!-- JS populated -->
+                        <span class="empty-tag-msg" style="color: #6c757d; font-style: italic;">Vui lòng chọn ngành nghề ở trên...</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Auth Modal Overlay -->
+            <div id="auth-modal" class="modal-overlay hidden">
+                <div class="modal-content auth-box" style="margin: 0; position: relative;">
+                    <button id="close-auth-modal" class="icon-btn" style="position: absolute; top: 16px; right: 16px;">&times;</button>
+                    <h2>Đăng nhập Hệ thống</h2>
+                    <p>Kết nối để mở khóa tính năng Skill Match</p>
+                    <button id="manual-login-btn" class="btn-outline" style="width: 100%;">Dùng chế độ Khách (Guest Mode)</button>
+                </div>
+            </div>
+
+        <!-- 2. Profile Setup View -->
+        <section id="profile-view" class="view-section hidden">
+            <div class="profile-container">
+                <h2>Hồ sơ Cá nhân</h2>
+                
+                <div class="profile-col-left">
+                    <div class="profile-section-title">
+                        <span><i class="fa-solid fa-graduation-cap"></i></span> Thông tin học vấn
+                    </div>
+                    <div class="form-group">
+                        <label>Họ và Tên (*)</label>
+                        <input type="text" id="profile-name" placeholder="Ví dụ: Nguyễn Văn A">
+                    </div>
+                    <div class="form-group">
+                        <label>Ngày sinh (*)</label>
+                        <input type="date" id="profile-dob">
+                    </div>
+                    <div class="form-group">
+                        <label>Chương trình đào tạo (Chuyên ngành) (*)</label>
+                        <select id="profile-major">
+                            <option value="" disabled selected>Chọn chuyên ngành...</option>
+                            <!-- Loaded dynamically -->
+                        </select>
+                    </div>
+                    
+                    <div class="skills-box" id="major-skills-box">
+                        <label>Kỹ năng được đào tạo từ Chuyên ngành (*)</label>
+                        <div class="tags-container" id="major-tags">
+                            <span class="empty-tag-msg">Vui lòng chọn chuyên ngành...</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="profile-col-right">
+                    <div class="profile-section-title">
+                        <span><i class="fa-regular fa-file-lines"></i></span> Tải lên CV & Kỹ năng
+                    </div>
+                    <div class="form-group">
+                        <label>Tải lên CV (PDF/DOCX) để tự động trích xuất kỹ năng</label>
+                        <input type="file" id="cv-upload" accept="application/pdf,.docx">
+                    </div>
+                    
+                    <div class="skills-box" id="cv-skills-box">
+                        <label>Kỹ năng cá nhân (CV & Tự đánh giá)</label>
+                        <div class="tags-container" id="cv-tags">
+                            <span class="empty-tag-msg">Chưa tải CV...</span>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group" style="margin-top: 20px;">
+                        <label>Thêm kỹ năng khác</label>
+                        <div style="display: flex; gap: 8px;">
+                            <input type="text" id="custom-skill-input" placeholder="Nhập tên kỹ năng (ví dụ: Python, CFA, Excel)..." style="flex-grow: 1; padding: 10px; border: 1px solid #ced4da; border-radius: 4px;">
+                            <button id="add-skill-btn" class="btn-primary" style="padding: 0 16px; border-radius: 4px; height: auto;">Thêm</button>
+                        </div>
+                    </div>
+                </div>
+
+                <button id="save-profile-btn" class="btn-primary">Lưu Hồ sơ & Phân tích</button>
+            </div>
+        </section>
+
+        <!-- 3. Jobs View (New 2-Column Layout) -->
+        <section id="jobs-view" class="view-section active">
+            
+            <!-- Sub-Navigation -->
+            <div class="jobs-subnav">
+                <a href="#" class="active">Search</a>
+                <a href="#">Applied</a>
+                <a href="#">Saved</a>
+            </div>
+
+            <!-- Filter Bar -->
+            <div class="jobs-filter-bar">
+                <input type="text" id="job-search" placeholder="Job title, keywords, or company...">
+                <select id="job-category">
+                    <option value="">Job categories</option>
+                    <option value="Marketing">Marketing</option>
+                    <option value="Data/Business Analysis">Data & Analysis</option>
+                    <option value="Business Development">Business Development</option>
+                    <option value="HR">HR</option>
+                    <option value="Finance">Finance</option>
+                </select>
+                <select id="job-location">
+                    <option value="">Locations</option>
+                    <option value="Hà Nội">Hà Nội</option>
+                    <option value="Hồ Chí Minh">Hồ Chí Minh</option>
+                </select>
+                <select id="job-type">
+                    <option value="">Job types</option>
+                    <option value="Full-time">Full-time</option>
+                    <option value="Internship">Internship</option>
+                </select>
+                <select id="job-posted">
+                    <option value="">Posted date</option>
+                    <option value="1">Last 24 hours</option>
+                    <option value="7">Last 7 days</option>
+                </select>
+            </div>
+
+            <div class="jobs-layout-new">
+                <!-- Left: Job List -->
+                <div class="col-jobs-list-new">
+                    <div class="job-list-header">
+                        <span id="job-count-text">0 Jobs Found</span>
+                    </div>
+                    <div class="job-list-container-new" id="job-list">
+                        <!-- Loaded dynamically -->
+                    </div>
+                </div>
+
+                <!-- Right: Job Details -->
+                <div class="col-job-detail-new" id="job-detail">
+                    <div style="text-align: center; color: #6c757d; margin-top: 40px;">
+                        Chưa chọn công việc nào.<br>Hãy click vào 1 job ở bên trái.
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 2.5 Profile Dashboard View -->
+        <section id="profile-dashboard-view" class="view-section hidden">
+            <div class="profile-container" style="display: flex; flex-direction: column; gap: 32px;">
+                <!-- Header Summary -->
+                <div class="dashboard-header" style="text-align: center; border-bottom: 1px solid var(--border-color); padding-bottom: 24px;">
+                    <div style="width: 80px; height: 80px; border-radius: 50%; background: var(--glow-color); color: var(--accent); display: flex; align-items: center; justify-content: center; font-size: 32px; font-weight: bold; margin: 0 auto 16px;">
+                        <span id="dash-avatar-text">?</span>
+                    </div>
+                    <h2 id="dash-user-name" style="margin-bottom: 8px;">Người dùng</h2>
+                    <p id="dash-user-major" style="color: var(--text-secondary); font-size: 16px;">Chưa cập nhật chuyên ngành</p>
+                    <button id="edit-profile-btn" class="btn-primary" style="margin-top: 16px; padding: 8px 20px; font-size: 14px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px; justify-content: center;">
+                        <i class="fa-solid fa-pen"></i> Sửa lại hồ sơ
+                    </button>
+                    <div id="dash-user-skills" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 16px;"></div>
+                </div>
+
+                <!-- Main Grid -->
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 32px;">
+                    <!-- Left: Recently Viewed Jobs -->
+                    <div class="dash-card" style="background: #f8f9fa; padding: 24px; border-radius: 12px; border: 1px solid var(--border-color);">
+                        <h3 style="margin-bottom: 16px; font-size: 18px; color: var(--accent);"><i class="fa-solid fa-magnifying-glass"></i> Công việc vừa xem</h3>
+                        <div id="dash-recent-jobs" style="display: flex; flex-direction: column; gap: 12px;">
+                            <!-- Populated via JS -->
+                            <p style="color: var(--text-secondary); font-style: italic;">Chưa có dữ liệu</p>
+                        </div>
+                    </div>
+
+                    <!-- Right: Saved Courses & Recommended -->
+                    <div class="dash-card" style="background: #f8f9fa; padding: 24px; border-radius: 12px; border: 1px solid var(--border-color);">
+                        <h3 style="margin-bottom: 16px; font-size: 18px; color: var(--green-success);"><i class="fa-solid fa-book"></i> Khóa học đã lưu</h3>
+                        <div id="dash-saved-courses" style="display: flex; flex-direction: column; gap: 12px;">
+                            <!-- Populated via JS -->
+                            <p style="color: var(--text-secondary); font-style: italic;">Chưa lưu khóa học nào</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

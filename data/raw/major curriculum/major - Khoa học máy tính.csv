@@ -1,0 +1,99 @@
+STT,HỌC PHẦN,Mã học phần
+,,
+,,
+,TỔNG,
+1,KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG,
+1.1,Lý luận chính trị,
+1,Triết học Mác-Lênin(Marxist – Leninist Philosophy),TRIH114
+2,Kinh tế chính trị Mác-Lênin(Marxism-Leninism Political Economy),TRIH115
+3,Chủ nghĩa xã hội khoa học(Scientific Socialism),TRIH116
+4,Tư tưởng Hồ Chí Minh(Ho Chi Minh’s Ideology),TRIH104
+5,Lịch sử Đảng Cộng sản Việt Nam(History of the Communist Party of Vietnam),TRIH117
+1.2,"Khoa học xã hội, Nhân văn – Nghệ thuật, Toán – Tin học",
+1.2.1,Bắt buộc,
+6,Pháp luật đại cương(Introduction to Law),PLUE111/PLUH111
+7,Đại số tuyến tính(Linear Algebra),TOAE109/TOAH109
+8,Giải tích(Calculus),TOAE110/TOAH110
+9,Phương pháp nghiên cứu(Research Methodology),PPHE109/PPHH109
+10,Kinh tế vi mô(Microeconomics),KTEE201/KTEH201
+11,Kinh tế vĩ mô(Macroeconomics),KTEE203/KTEH203
+12,Quản trị học(Fundamental of Management),QTRE303/QTRH303
+13,Tư duy thiết kế(Design thinking),PPHE107/PPHH107
+1.2.2,Tự chọn (Chọn 1 trong số các HP sau),
+14,Đổi mới sáng tạo(Innovation),TMAE319/TMAH319
+15,Tâm lý học(Psychology),TLHE102/TLHH102
+16,Khoa học và Công nghệ vị Nhân sinh(Science and Technology for Humanity),TRIE204/TRIH204
+17,Tư duy Khởi nghiệp và Thiết kế ý tưởng(Entrepreneurial Mindset and Ideation),QTRE211/QTRH211
+18,Lý thuyết tài chính(Principles of Finance),TCHE302/TCHH302
+19,Nguyên lý kế toán(Principles of Accounting),KETE201/KETH201
+1.3,Ngoại ngữ bổ trợ (SV có đủ năng lực TA cơ bản chuyển sang học Tiếng Anh chuyên ngành),
+20,Tiếng Anh học thuật và thương mại 1(Academic and Business English 1),EAB111
+21,Tiếng Anh học thuật và thương mại 2(Academic and Business English 2),EAB121
+2,KHỐI KIẾN THỨC GIÁO DỤC CHUYÊN NGHIỆP,
+2.1,Kiến thức cơ sở khối ngành/ngành,
+2.1.1,Bắt buộc,
+22,Lý thuyết xác suất và thống kê toán(The Theory of Probability and Mathematical Statistics),TOAE201/TOAH201
+23,Toán rời rạc(Discrete Mathematics),TOAE111/TOAH111
+24,Nhập môn Tư duy tính toán và lập trình(Introduction to Computational Thinking and Programming),COSE100/COSH100
+25,Kiến trúc máy tính và Nguyên lý hệ điều hành(Computer Architecture and Principles of Operating Systems),COSE200/COSH200
+26,Mạng máy tính(Computer Networks),COSE201/COSH201
+27,Cấu trúc dữ liệu và Giải thuật(Data Structures and Algorithms),DASE100/DASH100
+2.1.2,Ngoại ngữ – Tiếng Anh chuyên ngành,
+28,Tiếng Anh chuyên ngành – Kỹ năng viết trong kỹ thuật và trình bày(ESP – Technical writing and presentation),ESP237
+29,Tiếng Anh chuyên ngành – Khoa học máy tính(ESP – Computer Science),ESP343
+2.1.3,Tự chọn (Chọn 1 trong số các HP sau),
+30,Vật lý cho hệ thống tính toán(Physics for Computing),TOAE207/TOAH207
+31,Phương pháp tính toán số(Numerical Computing Methods),TOAE208/TOAH208
+32,Thiết kế và phân tích thuật toán(Design and Analysis of Algorithms),TOAE209/TOAH209
+33,Marketing căn bản(Principles of Marketing),MKTE301/MKTH301
+2.2,Kiến thức ngành,
+2.2.1,Bắt buộc,
+34,An toàn thông tin(Information Security),COSE300/COSH300
+35,Phân tích và thiết kế hệ thống(System Analysis and Design),COSE301/COSH301
+36,Lập trình hướng đối tượng(Object-Oriented Programming),COSE203/COSH203
+37,Công nghệ Phần mềm(Software Engineering),COSE303/COSH303
+38,Hệ quản trị cơ sở dữ liệu(Database management system),DASE201/DASH201
+39,Nhập môn AI và Khoa học dữ liệu(Introduction to AI and Data Science),COSE202/COSH202
+40,Học máy(Machine Learning),DASE200/DASH200
+2.2.2,Tự chọn (Chọn 1 trong số các HP sau),
+41,Internet vạn vật(Internet of Things),COSE304/COSH304
+42,Quản trị tác nghiệp(Operations Management),QTRE410/QTRH410
+43,Kinh tế số(Digital Economics),KTEE214/KTEH214
+2.3,Kiến thức chuyên ngành,
+2.3.1,Bắt buộc,
+44,Phân tích dữ liệu trong kinh tế – kinh doanh (Introduction to Data Analytics in Economics and Business),DASE300/DASH300
+45,Phương pháp tối ưu hoá trong kinh tế và kinh doanh(Optimization methods in Economics and Business),DASE301/DASH301
+46,Kinh doanh số(Digital Business),DBZE306/DBZH306
+47,Phương pháp định lượng trong kinh tế và kinh doanh (Quantitative method for Economics and Business),DASE202/DASH202
+48,Thiết kế giao diện và trải nghiệm người dùng(User Interface and User Experiences Design (UI/UX Design)),COSE400/COSH400
+,Phát triển năng lực lãnh đạo và Đổi mới trong lĩnh vực công nghệ thông tin (Innovation and Leadership),
+49,Quản trị dự án Công nghệ thông tin và Truyền thông (ICT)(ICT Project Management),COSE302/COSH302
+50,Chuyển đổi kinh doanh với Hệ thống thông tin(Transforming Business with Information Systems),TINE208/TINH208
+2.3.2,Tự chọn (Chọn 4 trong số các HP sau)*,
+51,Marketing số(Digital marketing),MKTE206/MKTH206
+52,Thương mại điện tử(E-commerce),TMAE306/TMAH306
+53,Quản trị chiến lược(Strategic management),QTRE312/QTRH312
+54,Quản trị nguồn nhân lực(Human Resources Management),QTRE403/QTRH403
+55,Phát triển năng lực lãnh đạo và xây dựng chiến lược(Leadership and Strategy Practicum),QTRE212/QTRH212
+56,Tiếng Anh giao tiếp kinh doanh(Business Communication),VJP204
+57,Nghệ thuật diễn thuyết trước công chúng(Public Speaking),TANE313
+,Phát triển phần mềm (Software Development),
+58,Đảm bảo chất lượng phần mềm**(Software Quality Assurance),COSE401/COSH401
+59,Phát triển ứng dụng cho Web và thiết bị di động**(Web and Mobile Programming),COSE402/COSH402
+60,Hệ phân tán và Công nghệ Blockchain(Distributed System and Blockchain Technology),COSE403/COSH403
+61,Điện toán đám mây(Cloud Computing),COSE404/COSH404
+62,Lập trình nâng cao (Java/C++)(Advanced Programing),COSE405/COSH405
+63,Quản trị phát triển sản phẩm mới(Management of New Product Development),QTRE328/QTRH328
+,Phân tích dữ liệu trong kinh tế và kinh doanh (Data Analytics in Economics and Business),
+64,Công nghệ và Công cụ Big Data**(Big Data Technologies and Tools),DASE400/DASH400
+65,Học sâu và ứng dụng**(Deep Learning and Its Applications),DASE401/DASH401
+66,Công nghệ tài chính và ứng dụng(Fintech and Applications),TCHE406/TCHH406
+67,Phân tích dữ liệu Web(Web Analytics),DASE403/DASH403
+68,Mô hình chuỗi thời gian trong kinh tế và kinh doanh(Time Series Models for Economics and Business),TOAE206/TOAH206
+69,Mô hình ngẫu nhiên trong Phân tích dữ liệu kinh doanh(Stochastic Models in Business Analytics),DASE402/DASH402
+3,"Học phần thực tế, thực tập (Internship)",
+70,i-TEC 1: Phát triển kỹ năng và định hướng nghề nghiệp(i-TEC 1: Career Path Design and Skill Development),COSE101/COSH101
+71,i-TEC 2: Dự án AI(i-TEC 2: Artificial Intelligence Project),COSE204/COSH204
+72,i-TEC 3: Dự án Tối ưu hoá trong kinh tế và kinh doanh (Thực tập giữa khoá)(i-TEC 3: Optimization in Economics and Business Project),COSE305/COSH305
+4,Học phần tốt nghiệp,
+73,i-TEC 4: Học phần Tốt nghiệp – Dự án sáng tạo(i-TEC 4: Graduation Thesis – Creative Project),COSE531/COSH531

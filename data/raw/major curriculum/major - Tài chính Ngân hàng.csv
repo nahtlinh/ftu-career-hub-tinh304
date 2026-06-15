@@ -1,0 +1,175 @@
+STT,Tên học phần,Mã học phần
+,,
+,,
+1,Kiến thức giáo dục đại cương,
+1.1,Lý luận chính trị,
+1,"Triết học Mác – Lênin
+(Marxist – Leninist Philosophy)",TRIH114
+2,"Kinh tế chính trị Mác-Lênin
+(Marxist – Leninist Political Economy)",TRIH115
+3,"Chủ nghĩa xã hội khoa học
+(Scientific Socialism)",TRIH116
+4,"Lịch sử Đảng Cộng sản Việt Nam
+(History of The Communist Party of Vietnam)",TRIH117
+5,"Tư tưởng Hồ Chí Minh
+(Hochiminh’s Ideology)",TRIH104
+1.2,"Khoa học xã hội, Nhân văn - Nghệ thuật, Toán - Tin học",
+6,"Toán cao cấp
+(Advanced Mathematics)",TOAH105
+7,"Lý thuyết xác suất và thống kê toán
+(The Theory of Probability and Mathematical Statistics)",TOAH201
+8,"Pháp luật đại cương
+(Introduction to Law)",PLUE111
+9,"Tin học
+(Informatics)",TINH206
+,Tự chọn 1 trong 2 môn sau,
+11,"Phát triển kỹ năng
+(Skills development)",PPHH101
+12,"Tiếng Việt cơ bản 1
+(Basic Vietnamese 1)",TVIH100
+1.3.,Giáo dục thể chất,
+13,Giáo dục thể chất,
+1.4.,"Giáo dục quốc phòng, an ninh",
+14,Giáo dục quốc phòng,
+2,Kiến thức giáo dục chuyên nghiệp,
+2.1,Kiến thức cơ sở khối ngành/cơ sở ngành,
+2.1.1,Bắt buộc,
+15,"Kinh tế vi mô
+(Microeconomics)",KTEE201
+16,"Kinh tế vĩ mô
+(Macroeconomics)",KTEE203
+17,"Quản trị học
+(Fundamentals of Management)",QTRE303
+18,"Nguyên lý kế toán
+(Principles of Accounting)",KETE201
+19,"Phương pháp nghiên cứu trong kinh tế và kinh doanh
+(Research Methodology for Economics and Business)",KTEE206
+20,"Fin 1
+(Fin 1 - Project-based learning)",TCHE322
+21,"Tiếng Anh chuyên ngành 1 (Tiếng Anh thương mại nâng cao)
+(English for Specific Purpose 1 (Advanced Business English))",ESP111
+22,"Tiếng Anh chuyên ngành 2 (Giao tiếp kinh doanh)
+(English for Specific Purpose 2 (Business Communication))",ESP121
+23,"Tiếng Anh chuyên ngành 3 (Tài chính ngân hàng)
+(English for Specific Purpose 3(Banking and Finance))",ESP233
+24,"Tiếng Anh chuyên ngành 4
+SV chọn 1 trong 2 học phần sau:",
+25,"Tiếng Anh chuyên ngành 4 (Thư tín thương mại)
+(English for Specific Purpose 4 (Business Correspondence))",ESP341
+26,"Tiếng Anh chuyên ngành 4 (Hợp đồng)
+(English for Specific Purpose 4 (Contract))",ESP342
+27,"Tiếng Anh chuyên ngành 5 (Diễn thuyết trước công chúng)
+(English for Specific Purpose 5 (Public Speaking))",ESP451
+2.1.2,Tự chọn (sinh viên chọn 1 trong 6 học phần),
+28,"Kế toán quản trị
+(Managerial Accounting)",KETE310
+29,"Marketing căn bản
+(Principles of Marketing)",MKTE301
+30,"Thống kê và phân tích kinh doanh
+(Statistics and Business Analysis)",TOAE308
+31,"Cơ sở dữ liệu
+(Data Management System)",TINH313
+32,"Lập trình cho phân tích dữ liệu & tính toán khoa học
+(Programming for Data analysis and Scientific Computing)",TINH314
+33,"Trí tuệ nhân tạo trong kỷ nguyên chuyển đổi số
+(AI in the era of digital transformation)",AIDE300
+2.2,Kiến thức ngành,
+2.2.1,Bắt buộc,
+34,"Lý thuyết tài chính
+(Principles of Finance)",TCHE302
+35,"Tiền tệ - Ngân hàng
+(Money and Banking)",TCHE303
+36,"Thị trường tài chính và các định chế tài chính
+(Financial Markets and Institutions)",TCHE401
+37,"Tài chính doanh nghiệp
+(Corporate Finance)",TCHE321
+38,"Tài chính quốc tế
+(International Finance)",TCHE414
+39,"Nguyên lý hoạt động ngân hàng
+(Principles of Banking)",NHAE302
+40,"Kinh tế học tài chính
+(Financial Economics)",TCHE341
+41,"Tiêu chuẩn đạo đức, hành nghề và quản trị doanh nghiệp
+(Professional Ethics and Corporate Governance)",DTUE304
+42,"Phương pháp lượng cho tài chính
+(Quantitative Methods for Finance)",TCHE442
+2.2.2,Tự chọn,
+Tổ hợp tự chọn 1 (sinh viên chọn 1 học phần),,
+43,"Tài chính công
+(Public Finance)",TCHE431
+44,"Kinh tế lượng tài chính
+(Financial Econometrics)",KTEE310
+45,"Mô hình tài chính
+(Financial Modeling)",TCHE443
+46,"Tài chính cá nhân ứng dụng
+(Applied Personal Finance)",TCHE405
+47,"Công nghệ tài chính
+(Financial Technology)",TCHE404
+Tổ hợp tự chọn 2 (sinh viên chọn 1 học phần),,
+48,"Quản lý rủi ro và bảo hiểm
+(Risk management and Insurance)",TMAE308
+49,"Nguyên lý thống kê kinh tế
+(Principles of Statistics for Economics)",TOAE301
+50,"Kinh tế quốc tế
+(International Economics)",KTEE308
+51,"Chính sách thương mại quốc tế
+(International Trade Policy)",TMAE301
+52,"Kinh tế vi mô 2
+(Intermediate Microeconomics)",KTEE401
+53,"Kinh tế vĩ mô 2
+(Intermediate Macroeconomics)",KTEE402
+54,"Kinh tế môi trường
+(Environmental Economics)",KTEE404
+55,"Kinh tế phát triển
+(Development Economics)",KTEE406
+56,"Hệ thống thông tin quản lý
+(Management Information Systems)",QTRE201
+2.3,Kiến thức chuyên ngành,
+2.3.1,Bắt buộc,
+57,"Phân tích và đầu tư chứng khoán
+(Securities Analysis and Investments)",DTUE401
+58,"Phân tích báo cáo tài chính
+(Financial Statement Analysis)",TCHE424
+59,"Quản trị tài chính quốc tế
+(International Financial Management)",TCHE425
+60,"Quản trị danh mục đầu tư
+(Portfolio Management)",DTUE406
+61,"Quản trị rủi ro tài chính
+(Financial Risk Management)",TCHE409
+62,"Ứng dụng CN trong Tài chính – Ngân hàng
+(Applied Technology in Finance and Banking)",NHAE408
+63,"Tài trợ thương mại quốc tế
+(International Trade Finance)",TCHE417
+64,"Fin 2
+(Fin 2- Project-based learning)",TCHE426
+2.3.2,Tự chọn,
+Tổ hợp tự chọn 1 (sinh viên chọn 1 học phần),,
+65,"Pháp luật Tài chính - Ngân hàng
+(Law on Finance and Banking)",PLUE302
+66,"Marketing dịch vụ tài chính
+(Marketing of Financial Services)",MKTE405
+67,"Đầu tư bất động sản
+(Real Estate Finance)",DTUE306
+68,"Tín dụng Ngân hàng
+(Bank Lending)",NHAE401
+Tổ hợp tự chọn 2 (sinh viên chọn 1 học phần),,
+69,"Kế toán tài chính
+(Financial Accounting)",KETE301
+70,"Lý thuyết kiểm toán
+(Principles of Auditing)",KETE313
+71,"Thuế và Hệ thống Thuế ở Việt Nam
+(Taxation and Tax System in Viet Nam)",TMAE320
+72,"Quản trị chiến lược
+(Strategic Management)",QTRE312
+73,"Quản trị nguồn nhân lực
+(Human Resource Management)",QTRE403
+74,"Giao dịch thương mại quốc tế
+(International Business Transactions)",TMAE302
+75,Tinh thần doanh nhân và đổi mới (Entrepreneurship and Innovation),TCHE446
+3,Thực tập giữa khoá,
+76,"Thực tập giữa khóa
+(Mid-course Internship)",TCHE501
+4,Học phần tốt nghiệp,
+77,"Khoá luận tốt nghiệp
+(Graduation Thesis)",TCHE531
+,TỔNG CỘNG,

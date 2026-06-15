@@ -1,0 +1,125 @@
+STT,Tên học phần,Mã học phần
+,,
+,,
+1,Khối kiến thức giáo dục đại cương,
+1.1,Lý luận chính trị,
+1,"Triết học Mác-Lênin
+(Marxist - Leninist Philosophy)",TRI114
+2,"Kinh tế chính trị Mác-Lênin
+(Marxist- Leninist Political Economy)",TRI115
+3,"Chủ nghĩa xã hội khoa học
+(Scientific Socialism)",TRI116
+4,"Lịch sử Đảng cộng sản Việt Nam
+(History of the Communist Party of Vietnam)",TRI117
+5,"Tư tưởng Hồ Chí Minh
+(Ho Chi Minh’s ideology)",TRI104
+1.2,Khoa học xã hội. nhân văn. Nghệ thuật. Toán - Tin học,
+1.2.1,Kiến thức bắt buộc,
+6,"Toán tài chính
+(Mathematics for finance)",TOA106
+7,"Pháp luật đại cương
+(Introduction to Law)",PLU111
+8,"Tin học
+(Informatics)",TIN206
+9,"Phát triển kỹ năng
+(Development skills)",PPH101
+1.2.2,Kiến thức tự chọn (chọn 2 HP),
+10,"Tư duy logic và phương pháp nghiên cứu
+(Logical thinking and research methodology)",PPH106
+11,"Lý thuyết xác suất và thống kê toán
+(Theory of Probability and Mathematical Statistics)",TOA201
+12,"Kinh tế lượng
+(Econometrics)",KTE309
+13,"Tiếng Việt cơ bản 1
+(Basic Vietnamese 1)",TVI100
+1.3,Ngoại ngữ (Sinh viên đạt chuẩn một ngoại ngữ cho từng năm có thể lựa chọn miễn ngoại ngữ hoặc tích lũy tín chỉ bằng ngoại ngữ thứ hai),
+14,Tiếng Anh học thuật và thương mại 1,EAB111
+15,Tiếng Anh học thuật và thương mại 2,EAB121
+16,Tiếng Anh học thuật và thương mại 3,EAB231
+17,Tiếng Anh học thuật và thương mại 4,EAB241
+1.4,Giáo dục thể chất,
+,Giáo dục thể chất,
+1.5,"Giáo dục quốc phòng, an ninh",
+,"Giáo dục quốc phòng, an ninh",
+2,Khối kiến thức giáo dục chuyên nghiệp,
+2.1,Kiến thức cơ sở khối ngành. ngành,
+2.1.1,Kiến thức bắt buộc,
+18,"Kinh tế vi mô
+(Microeconomics)",KTE201
+19,"Kinh tế vĩ mô
+(Macroeconomics)",KTE203
+20,"Quản trị học
+(Fundamentals of Management)",QTR303
+21,"Nguyên lý kế toán
+(Principles of Accounting)",KET201
+22,"Lý thuyết tài chính
+(Principles of Finance)",TCH302
+23,"Pháp luật doanh nghiệp
+(Law on Enterprises)",PLU401
+24,Tiếng Anh chuyên ngành 1 (Tiếng Anh thương mại nâng cao),ESP111
+25,Tiếng Anh chuyên ngành 2 (Giao tiếp kinh doanh),ESP121
+26,Tiếng Anh chuyên ngành 3 (Kế toán- Kiểm toán),ESP234
+27,Phương pháp nghiên cứu trong kinh tế và kinh doanh (Research Methodology for Economics and Business),KTE206
+2.1.2,Kiến thức tự chọn (chọn 1 HP),
+28,"Nguyên lý thống kê kinh tế
+(Principles of economic statistics)",TOA301
+29,"Marketing căn bản
+(Principles of Marketing)",MKT301
+30,"Thương mại điện tử
+(E-Commerce)",TMA306
+31,"Quản trị Đổi mới
+(Innovation Management)",QTR424
+32,"Cơ sở dữ liệu
+(Data Management System)",TIN313
+33,Lập trình cho phân tích dữ liệu và tính toán khoa học (Programming for Data Analysis and Scientific Computing),TIN314
+2.2,Kiến thức ngành,
+2.2.1,Kiến thức bắt buộc,
+34,"Kế toán tài chính
+(Financial Accounting)",KET301
+35,"Kế toán quản trị
+(Managerial Accounting)",KET310
+36,"Nguyên lý kiểm toán
+(Principles of Auditing)",KET315
+37,"Quản trị tài chính
+(Financial Management)",KET307
+2.2.2,Kiến thức tự chọn (chọn 1 HP),
+38,"Thuế và hệ thống thuế ở Việt Nam
+(Tax and Tax System in Vietnam)",TMA320
+39,"Quản trị chiến lược
+(Strategy Management)",QTR312
+40,"Phân tích và đầu tư chứng khoán
+(Securities Analysis and Investment)",DTU401
+2.3,Kiến thức chuyên ngành,
+2.3.1,Kiến thức bắt buộc,
+41,Kế toán tài chính nâng cao,KET304
+42,"Báo cáo tài chính
+(Financial Reporting)",KET306
+43,Kế toán hợp nhất báo cáo tài chính,KET412
+44,"Kế toán quản trị nâng cao
+(Advanced Management Accounting)",KET314
+45,"Kiểm toán báo cáo tài chính
+(Audit of Financial Statements)",KET404
+46,"Quản trị tài chính nâng cao
+(Advanced Financial Management)",QTR413
+47,"Kế toán quốc tế
+(International Accounting)",KET410
+48,"Kế toán máy
+(Computerized Accounting)",KET305
+49,"Kế toán xuất nhập khẩu
+(Export-Import Accounting)",KET406
+50,"Kế toán thuế
+(Tax Accounting)",KET403
+2.3.2,Kiến thức tự chọn (chọn 2 học phần),
+51,"Phân tích kinh doanh
+(Business Analysis)",KET316
+52,Kế toán các đơn vị đặc thù(Accounting for specialized industries),KET318
+53,"Kiểm toán nội bộ
+(Internal Auditing)",KET402
+54,Kế toán trách nhiệm xã hội(Social responsibility Accounting),KET317
+55,"Hệ thống thông tin kế toán
+(Accounting Information System)",KET308
+3,"Thực tập giữa khóa
+(Mid - course Internship)",KET501
+4,"Học phần tốt nghiệp
+(Graduation Thesis)",KET531
+,Tổng,

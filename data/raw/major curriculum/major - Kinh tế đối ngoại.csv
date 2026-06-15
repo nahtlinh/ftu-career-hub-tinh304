@@ -1,0 +1,284 @@
+"STT
+No","Tên môn học
+ Course Name","Mã học phần
+Course code"
+,,
+,,
+1,"Kiến thức giáo dục đại cương
+Generic knowledge",
+1.1,"Lý luận chính trị
+Political Theories",
+1,"Triết học Mác-Lênin
+(Marxist - Leninist Philosophy)",TRIH114
+2,"Kinh tế chính trị Mác-Lênin
+(Marxist- Leninist Political Economy)",TRIH115
+3,"Chủ nghĩa xã hội khoa học
+(Scientific Socialism)",TRIH116
+4,"Tư tưởng Hồ Chí Minh
+(Ho Chi Minh's Ideology)",TRIH104
+5,"Lịch sử Đảng Cộng sản Việt Nam
+(History of the Communist Party of Vietnam)",TRIH117
+1.2,"Khoa học xã hội, Nhân văn - Nghệ thuật, Toán - Tin học
+Social Science, Humanities - Arts, Mathematics – Informatics",
+1.2.1,Bắt buộc,
+6,"Toán cao cấp
+(Advanced Mathematics)",TOAE105
+7,"Tin học
+(Informatics)",TINE206
+8,"Lý thuyết xác suất và thống kê toán
+(Theory of Probability and Mathematical Statistics)",TOAE201
+9,"Pháp luật đại cương
+(Introduction to Law)",PLUE111
+10,"Phương pháp nghiên cứu trong kinh tế và kinh doanh
+(Research Methodology for Economics and Business)",KTEE206
+1.2.2,"Tự chọn: Chọn 1 học phần
+Electives (choose 1 of the following courses)",
+11,"Nhập môn kinh doanh
+(Introduction to Business)",KDOE203
+12,"Tư duy thiết kế
+(Design Thinking)",PPHE107
+13,"Tâm lý học
+(Psychology)",TLHH102
+14,"Các vấn đề xã hội và đạo đức
+(Moral and Social problems)",DXHH201
+15,"Địa lý kinh tế thế giới
+(World Economic Geography)",TMAE201
+16,"Tiếng Việt cơ bản 1
+(Basic Vietnamese 1)",TVIH100
+1.3,"Giáo dục thể chất
+Physical education",
+1.4,"Giáo dục quốc phòng
+National defense education",
+2,"Kiến thức giáo dục chuyên nghiệp
+National defense education",
+2.1,"Kiến thức cơ sở khối ngành /cơ sở ngành
+Foundational knowledge",
+2.1.1,Bắt buộc/Compulsory,
+17,"Kinh tế vi mô
+(Microeconomics)",KTEE201
+18,"Kinh tế vĩ mô
+(Macroeconomics)",KTEE203
+19,"Nguyên lý kế toán
+(Principles of Accounting)",KETE201
+20,"Kinh tế lượng
+(Econometrics)",KTEE309
+21,"Lý thuyết tài chính
+(Principles of Finance)",TCHE302
+2.1.2,"Ngoại ngữ (bắt buộc)
+Languages (Compulsory)",
+22,"Tiếng Anh chuyên ngành 1 (Tiếng Anh thương mại nâng cao)
+(English for Specific Purpose 1 (Advanced Business English)",ESP111
+23,"Tiếng Anh chuyên ngành 2 (Giao tiếp kinh doanh)
+(English for Specific Purpose 2 (Business Communication))",ESP121
+24,"Tiếng Anh chuyên ngành 3 (Kinh tế và Kinh doanh Quốc tế)
+(English for Specific Purpose 3 (Business Communication))",ESP231
+25,"Tiếng Anh chuyên ngành 4 (Chọn 1 trong 2)
+English for Specific Purpose 4 (Choose 1 of the following courses)",
+25.a,"Tiếng Anh chuyên ngành 4 (Thư tín)
+(English for Specific Purpose 4 (Business Correspondence))",ESP341
+25.b,"Tiếng Anh chuyên ngành 4 (Hợp đồng)
+(English for Specific Purpose 4 (Contract))",ESP342
+26,"Tiếng Anh chuyên ngành 5 (Diễn thuyết trước công chúng)
+(English for Specific Purpose 5 (Public Speaking))",ESP451
+2.1.3,"Tự chọn: chọn 2 học phần
+Electives (choose 2 of the following courses)",
+27,"Khoa học quản lý căn bản
+(Introduction to Management Science)",KDOE202
+28,"Phân tích chính sách
+(Policy Analysis)",KTEE212
+29,"Cơ sở dữ liệu
+(Data Management System)",TINE313
+30,"Quan hệ quốc tế
+(International Relations)",TMAE317
+31,"Tâm lý học Kinh doanh
+(Psychology Business)",TLHH104
+32,"Trí tuệ nhân tạo trong kỷ nguyên chuyển đổi số
+(AI in the Era of Digital Transformation)",AIDE300
+33,"Mô hình chuỗi thời gian trong kinh tế & kinh doanh
+(Time Series Models for Economics and Business)",TOAE206
+34,"Văn hóa trong kinh doanh
+(Culture in Business)",KTEE325
+2.2,"Kiến thức ngành
+Major Knowledge",
+2.2.1,Bắt buộc/Compulsory,
+35,"Nguyên lý quản lý kinh tế
+(Principles of Economic Management)",DTUE301
+36,"Kinh tế kinh doanh
+(Business Economics)",KTEE312
+37,"Marketing căn bản
+(Principles of Marketing)",MKTE301
+38,"Kinh doanh quốc tế
+(International Business)",KDOE307
+2.2.2,"Tự chọn 1: chọn 1 học phần
+Electives 1: choose 1 of the following courses",3
+39,"Phân tích dữ liệu kinh doanh
+(Introduction to Business Analytics)",VJPE205
+40,"Đánh giá tác động
+(Impact Evaluation)",KTEE213
+41,"Lập trình cho phân tích dữ liệu và tính toán khoa học
+(Programming For Data Analysis and Scientific Computing)",TINE314
+42,"Thiết kế và phân tích dữ liệu khảo sát
+(Survey Design and Data Analysis)",KTEE209
+2.2.3,"Tự chọn 2: chọn 2 học phần
+Electives (choose 2 of the following courses)",
+43,"Tư tưởng và thể chế kinh tế hiện đại
+(Recent Economic Thought and Institutions)",KTEE211
+44,"Kinh tế đầu tư
+(Investment Economics)",KTEE311
+45,"Lập và phân tích dự án đầu tư
+(Investment Project Design)",DTUE300
+46,"Kinh tế phát triển
+(Development Economics)",KTEE406
+47,"Kinh tế môi trường
+(Environmental Economics)",KTEE404
+48,"Kinh tế biển
+(Maritime Economics)",TMAE203
+49,"Kinh tế và logistics đô thị
+(Economics and City Logistics)",TMAE204
+50,"Kinh tế vận tải
+(Transport Economics)",TMAE205
+51,"Quản lý năng suất và chất lượng
+(Productivity and Quality Management)",KTEE219
+52,"Pháp luật cạnh tranh
+(Competition Law)",PLUE424
+53,"Quan hệ kinh tế quốc tế
+(International Economic Relations)",KTEE306
+54,"Sở hữu trí tuệ
+(Intellectual Property)",TMAE408
+55,"Đổi mới sáng tạo
+(Innovation)",TMAE319
+56,"Thương mại điện tử
+(E-Commerce)",TMAE306
+57,"Kế toán quản trị
+(Managerial Accounting)",KETE310
+58,"Tiền tệ - Ngân hàng
+(Money and Banking)",TCHE303
+59,"Tài chính doanh nghiệp
+(Corporate Finance)",TCHE321
+60,"Thị trường tài chính và định chế tài chính
+(Financial Markets and Institutions)",TCHE401
+2.3,"Kiến thức chuyên ngành
+Specialized Knowledge",
+2.3.1,Bắt buộc/Compulsory,
+61,"Đầu tư quốc tế
+(International Investment)",DTUE310
+62,"Giao dịch thương mại quốc tế
+(International Business Transactions)",TMAE302
+63,"Logistics và vận tải quốc tế
+(Logistics and International Freight Forwarding)",TMAE336
+64,"Bảo hiểm trong kinh doanh
+(Insurance in Business)",TMAE402
+65,"Marketing quốc tế
+(International Marketing)",MKTE401
+66,"Chính sách thương mại quốc tế
+(International Trade Policy)",TMAE301
+2.3.3,Tự chọn: chọn 5 học phần,
+,"Định hướng Marketing
+Marketing Concentration",
+67,"Thương hiệu trong kinh doanh quốc tế
+(Brand in International Business)",MKTE407
+68,"Quan hệ khách hàng trong kinh doanh
+(Business Customer Relationship)",MKTE402
+69,"Nghiên cứu Marketing
+(Marketing Research)",MKTE305
+70,"Quản lý kênh phân phối và lực lượng bán hàng
+(Distribution Channel and Sales Force Management)",MKTE306
+71,"Truyền thông trong kinh doanh quốc tế
+(International Business Communication)",MKTE408
+72,"Marketing số
+(Digital marketing)",MKTE206
+,"Định hướng Quản lý công
+Public Governance Concentration",
+73,"Quản lý toàn cầu
+(Global Governance)",KTEE305
+74,"Quản lý số
+(Digital Governance)",KTEE315
+75,"Quản lý biến đổi khí hậu toàn cầu
+(Global Climate Governance)",KTEE317
+76,"Phân tích kinh tế dự án đầu tư công
+(Economic Analysis of Public Investment Project)",DTUE309
+77,"Quản lý nhà nước về tài nguyên biển
+(State Management on Maritime Resource)",KTEE333
+78,"Lựa chọn công
+(Public Choice)",KTEE334
+79,"Tài chính công
+(Public Finance)",TCHE431
+80,"Tài chính quốc tế
+(International Finance)",TCHE414
+81,"Phân tích chính sách thương mại
+(Trade Policy Analysis)",TMAE328
+82,"Pháp luật thương mại quốc tế
+(International Trade Law)",PLUE422
+83,"Thương mại dịch vụ
+(Trade in Services)",TMAE412
+,"Định hướng Kinh doanh quốc tế
+International Business Concentration",
+84,"Kinh tế học về nền tảng kinh doanh
+(Economics of Platforms)",KTEE335
+85,"Kinh doanh số
+(Digital Business)",DBZE306
+86,"Nghiệp vụ kinh doanh quốc tế
+(International business Operations)",KDOE408
+87,"Chuỗi giá trị toàn cầu
+(Global Value Chain)",KDOE304
+88,"Đàm phán và Quản trị xung đột
+(Negotiation and Conflict Management)",KDOE302
+89,"Đạo đức kinh doanh và trách nhiệm xã hội của doanh nghiệp
+(Business Ethics and Corporate Social Responsibility)",KDOE305
+90,"Pháp luật kinh doanh quốc tế
+(International Business Law)",PLUE410
+91,"Thuế quốc tế *
+(International Taxation)",TMAE330
+92,"Thuế và hệ thống thuế ở Việt Nam *
+(Taxation and Tax System in Vietnam)",TMAE320
+93,"Quản lý rủi ro trong kinh doanh quốc tế
+(Risk Management in International Business)",KDOE402
+94,"Quản lý dự án đầu tư quốc tế
+(International Investment Project Management)",TMAE315
+95,"Thanh toán quốc tế
+(International Payments)",TCHE412
+,"Định hướng Logistics và Quản lý chuỗi cung ứng
+Logistics and Supply Chain Management Concentration",
+96,"Nghiệp vụ hải quan
+(Customs Practices)",TMAE310
+97,"Quản lý chuỗi cung ứng
+(Supply Chain Management)",TMAE313
+98,"Quản lý sản xuất và vận hành
+(Operation and Production Management in Supply Chain)",KTEE337
+99,"Quản lý mua hàng toàn cầu
+(Global Purchasing Management)",GPME301
+100,"Quản lý vận tải quốc tế
+(International Transport Management)",ITME301
+101,"Hợp đồng trong quản lý chuỗi cung ứng
+(Contract in Supply Chain Management)",KTEE338
+102,"Quản lý kho hàng và phân phối
+(Warehouse and Distribution Management)",WDME301
+103,"Thuận lợi hóa thương mại
+(Trade Facilitation)",TMAE410
+,"Định hướng khác
+OTHERS",
+104,"Phân tích đầu tư chứng khoán
+(Securities Analysis and Investment)",DTUE401
+105,"Sáng tạo xã hội
+(Social Innovation)",TMAE202
+106,"Sáng tạo kinh doanh
+(Business Innovation)",TMAE327
+107,"Kế toán quốc tế
+(International Accounting)",KETE410
+108,"Các biện pháp phi thuế trong thương mại quốc tế
+(Non-Tariff Measures in International Trade)",TMAE329
+3,"THỰC HÀNH – THỰC TẬP
+Internship - Practicum",
+109,"Kỹ năng phát triển nghề nghiệp
+(Career Development Skills)",KDOE441
+110,"Thực tập giữa khóa
+(Mid-course Internship)",KTEE501
+,"Thực hành dự án kinh tế, kinh doanh
+(Chọn 1 trong 2 học phần KTEE507 hoặc KTEE508)
+Economic Research and Business Project in Practice (Choose KTEE507 or KTEE508)",
+111,"Thực hành dự án kinh doanh
+(Business Project in Practice)",KTEE507
+112,"Thực hành phân tích kinh tế
+(Economic Research Project in Practice)",KTEE508
+113,"Khóa luận tốt nghiệp
+(Graduation Thesis)",KTEE528

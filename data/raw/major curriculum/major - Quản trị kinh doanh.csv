@@ -1,0 +1,167 @@
+STT,Tên học phần,"Mã
+học phần"
+1,Khối kiến thức giáo dục đại cương,
+1.1.,Bắt buộc,
+1,"Triết học Mác-Lênin
+(Marxist - Leninist Philosophy)",TRIH114
+2,"Kinh tế chính trị Mác-Lênin
+(Marxist- Leninist Political Economy)",TRIH115
+3,"Chủ nghĩa xã hội khoa học
+(Scientific socialism)",TRIH116
+4,"Tư tưởng Hồ Chí Minh
+(Ho Chi Minh's Ideology)",TRIH104
+5,"Lịch sử Đảng Cộng sản Việt Nam
+(History of the Communist Party of Vietnam)",TRIH117
+,"Khoa học xã hội, Nhân văn - Nghệ thuật, Toán - Tin học",
+6,"Toán cao cấp
+(Advanced Mathematic)",TOAH105/TOAE105
+7,"Pháp luật đại cương
+(Introduction to Law)",PLUE111
+8,"Tin học
+(Informatics)",TINH206
+9,"MIDEL 1: Phát triển kỹ năng và định hướng nghề nghiệp cho nhà quản trị
+(Skill development and career orientation for managers)",PPHE108
+1.2,Tự chọn (chọn 1 HP trong đó có 1 HP về PPNC),
+10,"Tư duy thiết kế
+(Design Thinking)",PPHE107
+11,"Lý thuyết xác suất và thống kê toán
+(Theory of Probability and Mathematical Statistics)",TOAH201/TOAE201
+12,"Kinh tế lượng
+(Econometrics)",KTEE309
+13,"Tiếng Việt cơ bản 1
+(Basic Vietnamese 1)",TVIH100
+2,Khối kiến thức giáo dục chuyên nghiệp,
+2.1,Kiến thức cơ sở ngành,
+,Bắt buộc,
+14,"Phương pháp nghiên cứu trong kinh tế và kinh doanh 
+(Research methodology for economics and business)",KTEE206
+15,"Kinh tế vi mô
+(Microeconomics)",KTEE201
+16,"Kinh tế vĩ mô
+(Macroeconomics)",KTEE203
+17,"Quản trị học
+(Fundamentals of Management)",QTRE303
+18,"Nguyên lý thống kê và thống kê doanh nghiệp
+(Principles of Statistics and Business Statistics)",TOAE302
+19,"Nguyên lý kế toán
+(Principles of Accounting)",KETE201
+20,"Marketing căn bản
+(Principles of Marketing)",MKTE301
+21,"Tiếng Anh chuyên ngành 1 (Tiếng Anh thương mại nâng cao)
+(English for Specific Purpose 1 (Advanced Business English))",ESP111
+22,"Tiếng Anh chuyên ngành 2 (Giao tiếp kinh doanh)
+(English for Specific Purpose 2 (Business Communication))",ESP121
+23,"Tiếng Anh chuyên ngành 3 (Quản trị kinh doanh)
+(English for Specific Purpose 3 (Business Administration))",ESP232
+24,"Tiếng Anh chuyên ngành 5 (Diễn thuyết trước công chúng)
+(English for Specific Purpose 5(Public Speaking))",ESP451
+2.1.2,"Tự chọn
+(Sinh viên chọn 1 học phần)",
+25,"Tiếng Anh chuyên ngành 4 (Thư tín thương mại)
+(English for Specific Purpose 4 (Business Correspondence))",ESP341
+26,"Tiếng Anh chuyên ngành 4 (Hợp đồng)
+(English for Specific Purpose 4 (Contract))",ESP342
+2.2,Khối kiến thức ngành,
+2.2.1,Bắt buộc,
+27,"Quản trị nguồn nhân lực
+(Human Resource Management)",QTRE403
+28,"Quản trị tác nghiệp
+(Operation Management)",QTRE410
+29,"Quản trị tài chính doanh nghiệp
+(Financial Management)",KETE307
+30,"Quản trị chiến lược
+(Strategy Management)",QTRE312
+31,"Quản trị đổi mới sáng tạo
+(Innovation Management)",QTRE441
+32,"Quản trị dự án
+(Project Management)",QTRE407
+33,"Kế toán quản trị
+(Managerial Accounting)",KETE310
+34,"Thương mại điện tử
+(E-Commerce)",TMAE306
+35,"Hành vi tổ chức
+(Organizational Behavior)",QTRE402
+36,"Kỹ năng lãnh đạo
+(Leadership skill)",QTRE203
+37,"Quản trị năng suất và chất lượng
+(Productivity and Quality Management)",QTRE409
+38,"Pháp luật doanh nghiệp
+(Law on Enterprises)",PLUE401
+39,"MIDEL 2: Khởi sự kinh doanh
+(Principles of Entrepreneurship)",QTRE309
+40,"Phân tích dữ liệu 
+(Data analysis)",QTRE311
+2.2.2,Tự chọn ngành,(Sinh viên chọn 3 học phần trong số các học phần sau)
+41,"Đạo đức kinh doanh
+(Business ethics)",QTRE305
+42,"Quản trị nhân sự quốc tế
+(International Human Resource Management)",QTRE449
+43,"Những vấn đề mới trong quản lý
+(Emerging Issues in Management)",QTRE304
+44,"Logistics và vận tải quốc tế
+(Logistics and international freight forwarding)",TMAE336
+45,"Thanh toán quốc tế
+(International Payments)",TCHE412
+46,"Quan hệ khách hàng trong kinh doanh
+(Customer Relationships in Business)",MKTE402
+47,"Ứng dụng Blockchain trong Kinh doanh và Quản lý
+(Blockchain application in Business and Management)",QTRE439
+48,"Quản lý chuỗi cung ứng điện tử
+(Electronic supply chain management)",QTRE440
+49,"Kiểm toán
+(Auditing)",KETE401
+50,"Kế toán tài chính
+(Financial Accounting)",KETE301
+51,"Quản trị tài chính cá nhân
+(Personal Financial Management)",QTRE206
+52,"Quản trị dự án linh hoạt
+(Agile Project Management)",QTRE444
+53,"Quản trị tài chính chiến lược
+(Strategic Financial Management )",QTRE445
+54,"Quản trị chiến lược trong kỷ nguyên số
+(Strategic management in digital era)",QTRE438
+55,"Cơ sở dữ liệu 
+(Data management system)",TINE313
+56,"Lập trình cho phân tích dữ liệu và tính toán khoa học
+(Programming for Data Analysis and Scientific Computing)",TINE314
+57,"Trí tuệ nhân tạo trong kỷ nguyên chuyển đổi số 
+(AI in the Era of Digital Transformation)",AIDE300
+58,"Nhập môn đầu tư tài chính
+(Introduction of Investment)",DTUE303
+59,"Quản trị công ty
+(Corporate Governance)",QTRE442
+60,"Các nguyên tắc cơ bản của M&A và tái cấu trúc doanh nghiệp
+(The Fundamentals of M&A and Corporate Restructuring)",QTRE443
+61,"Định giá doanh nghiệp
+(Business Valuation)",QTRE446
+62,"Quản trị tài chính quốc tế
+(International Financial Management)",TCHE425
+2.2.3,Tự chọn chuyên sâu [1] (Sinh viên chọn 4 học phần trong số các học phần sau),
+2.2.3.1,Quản trị kinh doanh quốc tế (International Business Management Concentration),
+63,"Quản trị và kinh doanh quốc tế
+(International business and management)",QTRE401
+64,"Quản trị đa văn hóa
+(Cross-cultural management)",QTRE408
+65,"Marketing quốc tế
+(International Marketing)",MKTE401
+66,"Pháp luật kinh doanh quốc tế
+(International Business Law)",PLUE410
+67,"Quản trị tài chính nâng cao
+(Advanced Financial Management)",QTRE413
+2.2.3.2,Khởi nghiệp và Đổi mới sáng tạo (Entrepreneurship and Innovation Concentration),
+68,"Khởi nghiệp trong kỷ nguyên số
+(Entrepreneurship in digital era)",QTRE448
+69,"Gọi vốn cho khởi nghiệp
+(Fundraising for new ventures)",QTRE432
+70,"Quản trị thay đổi
+(Change Management)",QTRE326
+71,"Quản trị khởi nghiệp bền vững
+(Management of Sustainable entrepreneurship)",QTRE327
+72,"Quản trị phát triển sản phẩm mới
+(Management of New product development)",QTRE328
+3,Thực tập giữa khoá,
+73,"MIDEL 3: Thực tập giữa khoá
+(Mid-course Internship)",QTRE501
+4,Học phần tốt nghiệp,
+74,"MIDEL 4: Khóa luận tốt nghiệp
+(Graduation Thesis)",QTRE531
