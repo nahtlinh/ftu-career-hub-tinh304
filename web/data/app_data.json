@@ -21,137 +21,21 @@
             "canva": 9,
             "erp": 7,
             "english": 7
-        },
-        "Top_10_Skills_By_Family": {
-            "Business Development": {
-                "giao tiếp": 9,
-                "canva": 3,
-                "tiếng anh": 3,
-                "excel": 2,
-                "photoshop": 1,
-                "làm việc nhóm": 1,
-                "python": 0,
-                "sql": 0,
-                "powerpoint": 0,
-                "powerbi": 0
-            },
-            "Data/Business Analysis": {
-                "sql": 12,
-                "powerbi": 11,
-                "python": 10,
-                "excel": 6,
-                "tableau": 6,
-                "r": 5,
-                "giao tiếp": 5,
-                "tiếng anh": 4,
-                "erp": 3,
-                "communication": 2
-            },
-            "Finance": {
-                "excel": 8,
-                "giao tiếp": 6,
-                "tiếng anh": 2,
-                "làm việc nhóm": 2,
-                "sap": 1,
-                "erp": 1,
-                "english": 1,
-                "python": 0,
-                "sql": 0,
-                "powerpoint": 0
-            },
-            "HR": {
-                "giao tiếp": 9,
-                "tiếng anh": 5,
-                "excel": 4,
-                "erp": 3,
-                "english": 3,
-                "powerpoint": 2,
-                "làm việc nhóm": 2,
-                "photoshop": 1,
-                "communication": 1,
-                "python": 0
-            },
-            "Marketing": {
-                "canva": 5,
-                "capcut": 4,
-                "làm việc nhóm": 4,
-                "tiếng anh": 3,
-                "english": 2,
-                "communication": 1,
-                "giao tiếp": 1,
-                "python": 0,
-                "sql": 0,
-                "excel": 0
-            }
         }
     },
     "courses": [],
     "categories": [
         {
-            "id": "banking",
-            "name": "Banking & Finance",
-            "family_map": "Finance",
-            "qfilter": "Banking"
-        },
-        {
-            "id": "career",
-            "name": "Career Development & Interview Skills",
-            "family_map": "HR",
-            "qfilter": "Career"
-        },
-        {
-            "id": "consulting",
-            "name": "Consulting & Strategy",
-            "family_map": "BA",
-            "qfilter": "Consulting"
-        },
-        {
-            "id": "customer",
-            "name": "Customer Success & Account Management",
-            "family_map": "Sales",
-            "qfilter": "Customer+Success"
-        },
-        {
-            "id": "data",
-            "name": "Data & Analytics",
-            "family_map": "Data",
-            "qfilter": "Data"
-        },
-        {
-            "id": "gov",
-            "name": "Government & Public Service",
-            "family_map": "Government",
-            "qfilter": "Government"
-        },
-        {
             "id": "hr",
-            "name": "Human Resources & Recruiting",
+            "name": "HR",
             "family_map": "HR",
-            "qfilter": "Human+Resources"
+            "qfilter": "HR"
         },
         {
-            "id": "insurance",
-            "name": "Insurance",
+            "id": "finance",
+            "name": "Finance",
             "family_map": "Finance",
-            "qfilter": "Insurance"
-        },
-        {
-            "id": "pm",
-            "name": "Product Management",
-            "family_map": "BA",
-            "qfilter": "Product+Management"
-        },
-        {
-            "id": "project",
-            "name": "Project Management",
-            "family_map": "BA",
-            "qfilter": "Project+Management"
-        },
-        {
-            "id": "sales",
-            "name": "Sales Accounting & Advisory",
-            "family_map": "Sales",
-            "qfilter": "Sales"
+            "qfilter": "Finance"
         },
         {
             "id": "data/business analysis",

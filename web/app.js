@@ -5,7 +5,6 @@ let jobsData = [];
 let affiliateCourses = [];
 let ftuCourses = [];
 let externalCourses = [];
-let forageCategories = [];
 
 document.addEventListener('DOMContentLoaded', async () => {
     initNavigation();
@@ -228,10 +227,6 @@ async function loadInitialData() {
             externalCourses = data.external_courses;
         }
         
-        if (data.categories) {
-            forageCategories = data.categories;
-        }
-        
         // Load Affiliate Courses
         try {
             const courseRes = await fetch('data/affiliate_courses.json');
@@ -264,11 +259,11 @@ function renderHomeCourses() {
     
     // Add mock courses for UniTrain and Tomorrow Marketers since they might be missing in JSON
     const additionalCourses = [
-        { title: "Ứng dụng Excel trong Kế toán", provider: "UniTrain", category: "Excel", url: "#" },
-        { title: "Tổ chức dữ liệu & Lập BCTC bằng Excel", provider: "UniTrain", category: "Excel", url: "#" },
-        { title: "Dashboard Reporting in Excel", provider: "UniTrain", category: "Excel", url: "#" },
-        { title: "Data System in Marketing", provider: "Tomorrow Marketers", category: "Marketing", url: "#" },
-        { title: "Digital Performance Marketing", provider: "Tomorrow Marketers", category: "Marketing", url: "#" }
+        { title: "Ứng dụng Excel trong Kế toán", provider: "UniTrain", category: "Excel", url: "https://unitrain.edu.vn/khoa-hoc/ung-dung-excel-trong-ke-toan/" },
+        { title: "Tổ chức dữ liệu & Lập BCTC bằng Excel", provider: "UniTrain", category: "Excel", url: "https://unitrain.edu.vn/khoa-hoc/to-chuc-du-lieu-va-lap-bctc-bang-excel/" },
+        { title: "Dashboard Reporting in Excel", provider: "UniTrain", category: "Excel", url: "https://unitrain.edu.vn/khoa-hoc/dashboard-reporting-in-excel/" },
+        { title: "Data System in Marketing", provider: "Tomorrow Marketers", category: "Marketing", url: "https://www.tomorrowmarketers.org/khoa-hoc-data-system-in-marketing" },
+        { title: "Digital Performance Marketing", provider: "Tomorrow Marketers", category: "Marketing", url: "https://www.tomorrowmarketers.org/khoa-hoc-digital-performance-marketing" }
     ];
     
     const allCourses = [...affiliateCourses, ...additionalCourses];
@@ -650,9 +645,8 @@ function showInsights(industry) {
             count = counts[mappedFamily];
         }
         
-        if (rawInsightsData.Top_10_Skills_By_Family && rawInsightsData.Top_10_Skills_By_Family[mappedFamily]) {
-            const industrySkills = rawInsightsData.Top_10_Skills_By_Family[mappedFamily];
-            const entries = Object.entries(industrySkills).slice(0, 5);
+        if (rawInsightsData.Top_10_Skills) {
+            const entries = Object.entries(rawInsightsData.Top_10_Skills).slice(0, 5);
             topSkills = entries.map(e => ({ name: e[0], countText: e[1] + " jobs", rawCount: e[1] }));
         }
     }
@@ -685,50 +679,6 @@ function showInsights(industry) {
             </div>
         `;
     });
-
-    // Populate Forage Link
-    const forageContainer = document.getElementById('insight-forage-link');
-    if (forageContainer) {
-        let matchedCategory = forageCategories.find(c => c.family_map === mappedFamily);
-        if (!matchedCategory && forageCategories.length > 0) {
-            // Check if we can do a partial match
-            matchedCategory = forageCategories.find(c => mappedFamily.includes(c.family_map) || c.family_map.includes(mappedFamily));
-        }
-
-        if (matchedCategory) {
-            const forageUrl = `https://www.theforage.com/course-catalog?careerFields=${matchedCategory.qfilter}`;
-            forageContainer.innerHTML = `
-                <div style="display: flex; flex-direction: column; gap: 12px;">
-                    <div style="display: flex; align-items: center; gap: 16px;">
-                        <div style="width: 40px; height: 40px; background: #fff; border-radius: 8px; display: flex; align-items: center; justify-content: center; border: 1px solid #dee2e6;">
-                            <img src="https://cdn-1.webcatalog.io/catalog/forage/forage-icon-filled-256.png" alt="Forage Logo" style="width: 24px; height: 24px;">
-                        </div>
-                        <div>
-                            <h4 style="font-size: 16px; margin: 0; color: #0d47a1;">${matchedCategory.name} - Virtual Job Simulation</h4>
-                            <p style="font-size: 14px; margin: 4px 0 0 0; color: #495057;">Trải nghiệm công việc thực tế từ các tập đoàn hàng đầu thế giới trong ngành ${industry}.</p>
-                        </div>
-                    </div>
-                    <a href="${forageUrl}" target="_blank" class="btn-primary" style="display: inline-block; text-align: center; width: max-content; padding: 10px 24px; text-decoration: none; margin-top: 8px;">Khám phá khóa học ngay</a>
-                </div>
-            `;
-        } else {
-            const defaultUrl = "https://www.theforage.com/course-catalog";
-            forageContainer.innerHTML = `
-                <div style="display: flex; flex-direction: column; gap: 12px;">
-                    <div style="display: flex; align-items: center; gap: 16px;">
-                        <div style="width: 40px; height: 40px; background: #fff; border-radius: 8px; display: flex; align-items: center; justify-content: center; border: 1px solid #dee2e6;">
-                            <img src="https://cdn-1.webcatalog.io/catalog/forage/forage-icon-filled-256.png" alt="Forage Logo" style="width: 24px; height: 24px;">
-                        </div>
-                        <div>
-                            <h4 style="font-size: 16px; margin: 0; color: #0d47a1;">Virtual Job Simulation</h4>
-                            <p style="font-size: 14px; margin: 4px 0 0 0; color: #495057;">Khám phá các khóa học trải nghiệm nghề nghiệp miễn phí từ Forage.</p>
-                        </div>
-                    </div>
-                    <a href="${defaultUrl}" target="_blank" class="btn-primary" style="display: inline-block; text-align: center; width: max-content; padding: 10px 24px; text-decoration: none; margin-top: 8px;">Khám phá ngay</a>
-                </div>
-            `;
-        }
-    }
 }
 
 function formatJobDescription(descText) {

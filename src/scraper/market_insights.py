@@ -103,45 +103,6 @@ class MarketInsights:
         sorted_skills = sorted(skill_counts.items(), key=lambda x: x[1], reverse=True)
         return dict(sorted_skills[:10])
 
-    def extract_top_skills_by_family(self):
-        """
-        Phân tích cột JD_Text theo từng Job Family, đếm tần suất xuất hiện của kỹ năng.
-        Trả về dictionary dạng {family: {skill: count}} cho Top 10 skills.
-        """
-        if self.df.empty or "JD_Text" not in self.df.columns or "Job_Family" not in self.df.columns:
-            return {}
-            
-        skills_keywords = [
-            # Tech & Data
-            "python", "sql", "excel", "powerpoint", "powerbi", "power bi", "tableau", 
-            "spss", "r", "agile", "scrum", "sap", "erp",
-            # Design & Media
-            "capcut", "canva", "photoshop", "illustrator", "figma", "premiere",
-            # Soft Skills
-            "english", "communication", "giao tiếp", "tiếng anh", "làm việc nhóm", "teamwork"
-        ]
-        
-        result = {}
-        for family, group in self.df.groupby("Job_Family"):
-            skill_counts = {skill: 0 for skill in skills_keywords}
-            for jd in group["JD_Text"].dropna():
-                jd_lower = str(jd).lower()
-                for skill in skills_keywords:
-                    if skill == 'r':
-                        if re.search(r'\br\b', jd_lower):
-                            skill_counts[skill] += 1
-                    else:
-                        if skill in jd_lower:
-                            skill_counts[skill] += 1
-                            
-            if "power bi" in skill_counts:
-                skill_counts["powerbi"] += skill_counts.pop("power bi")
-                
-            sorted_skills = sorted(skill_counts.items(), key=lambda x: x[1], reverse=True)
-            result[family] = dict(sorted_skills[:10])
-            
-        return result
-
     def generate_full_report(self):
         """Trích xuất toàn bộ report dạng JSON-like Dict"""
         return {
@@ -149,8 +110,7 @@ class MarketInsights:
             "Level_Percentages": self.get_level_percentages(),
             "Top_Industries": self.get_industry_counts(),
             "Average_Salary": self.get_average_salary(),
-            "Top_10_Skills": self.extract_top_skills(),
-            "Top_10_Skills_By_Family": self.extract_top_skills_by_family()
+            "Top_10_Skills": self.extract_top_skills()
         }
 
 if __name__ == "__main__":

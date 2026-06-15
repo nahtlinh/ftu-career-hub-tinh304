@@ -45,31 +45,15 @@ def export_data():
                     except Exception:
                         pass
                         
-    # 3. Forage Categories Definition
-    forage_categories = [
-        {"id": "banking", "name": "Banking & Finance", "family_map": "Finance", "qfilter": "Banking"},
-        {"id": "career", "name": "Career Development & Interview Skills", "family_map": "HR", "qfilter": "Career"},
-        {"id": "consulting", "name": "Consulting & Strategy", "family_map": "BA", "qfilter": "Consulting"},
-        {"id": "customer", "name": "Customer Success & Account Management", "family_map": "Sales", "qfilter": "Customer+Success"},
-        {"id": "data", "name": "Data & Analytics", "family_map": "Data", "qfilter": "Data"},
-        {"id": "gov", "name": "Government & Public Service", "family_map": "Government", "qfilter": "Government"},
-        {"id": "hr", "name": "Human Resources & Recruiting", "family_map": "HR", "qfilter": "Human+Resources"},
-        {"id": "insurance", "name": "Insurance", "family_map": "Finance", "qfilter": "Insurance"},
-        {"id": "pm", "name": "Product Management", "family_map": "BA", "qfilter": "Product+Management"},
-        {"id": "project", "name": "Project Management", "family_map": "BA", "qfilter": "Project+Management"},
-        {"id": "sales", "name": "Sales Accounting & Advisory", "family_map": "Sales", "qfilter": "Sales"}
-    ]
-    
     # We also add our scraped categories if they aren't fully covered
-    existing_families = [c["family_map"] for c in forage_categories]
+    categories = []
     for family in insights_data.get("Job_Counts_By_Family", {}).keys():
-        if family not in existing_families:
-            forage_categories.append({
-                "id": family.lower(),
-                "name": family,
-                "family_map": family,
-                "qfilter": family
-            })
+        categories.append({
+            "id": family.lower(),
+            "name": family,
+            "family_map": family,
+            "qfilter": family
+        })
 
     # 3.5 FTU Courses & External Courses
     ftu_courses = []
@@ -105,7 +89,7 @@ def export_data():
     export_payload = {
         "market_insights": insights_data,
         "courses": courses,
-        "categories": forage_categories,
+        "categories": categories,
         "jobs": [],
         "ftu_courses": ftu_courses,
         "external_courses": external_courses
