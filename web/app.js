@@ -256,21 +256,43 @@ function renderHomeCourses() {
     if(!grid) return;
     
     grid.innerHTML = '';
-    // Show top 3 courses
-    const courses = affiliateCourses.slice(0, 3);
-    courses.forEach(c => {
+    
+    // Add mock courses for UniTrain and Tomorrow Marketers since they might be missing in JSON
+    const additionalCourses = [
+        { title: "Ứng dụng Excel trong Kế toán", provider: "UniTrain", category: "Excel", url: "#" },
+        { title: "Tổ chức dữ liệu & Lập BCTC bằng Excel", provider: "UniTrain", category: "Excel", url: "#" },
+        { title: "Dashboard Reporting in Excel", provider: "UniTrain", category: "Excel", url: "#" },
+        { title: "Data System in Marketing", provider: "Tomorrow Marketers", category: "Marketing", url: "#" },
+        { title: "Digital Performance Marketing", provider: "Tomorrow Marketers", category: "Marketing", url: "#" }
+    ];
+    
+    const allCourses = [...affiliateCourses, ...additionalCourses];
+
+    const getCourses = (keyword, count) => {
+        return allCourses.filter(c => c.title.toLowerCase().includes(keyword.toLowerCase()) || (c.category && c.category.toLowerCase().includes(keyword.toLowerCase()))).slice(0, count);
+    };
+
+    // Pick 3 of each requested category
+    const displayCourses = [
+        ...getCourses("acca", 3),
+        ...getCourses("excel", 3),
+        ...getCourses("power bi", 3),
+        ...getCourses("marketing", 3)
+    ];
+
+    displayCourses.forEach(c => {
         const logoFile = c.provider === 'BISC' ? 'bisc.jpg' :
                          c.provider === 'Datapot' ? 'datapot.png' :
                          c.provider === 'Tomorrow Marketers' ? 'tomorrow_marketers.jpg' :
                          c.provider === 'UniTrain' ? 'unitrain.png' : '';
         grid.innerHTML += `
-            <div class="industry-card" style="text-align: left;">
+            <div class="industry-card course-item" style="text-align: left; min-width: 320px; flex: 0 0 auto; display: flex; flex-direction: column;">
                 <div style="display:flex; align-items:center; margin-bottom:8px;">
-                    ${logoFile ? `<img src="logos/${logoFile}" alt="${c.provider}" style="height:24px; width:auto; margin-right:8px;">` : ''}
-                    <h3 style="color: #212529; font-size: 16px; margin:0;">${c.title}</h3>
+                    ${logoFile ? `<img src="logos/${logoFile}" alt="${c.provider}" style="height:28px; width:auto; margin-right:12px; border-radius: 4px; border: 1px solid #e9ecef;">` : ''}
+                    <h3 style="color: #212529; font-size: 16px; margin:0; line-height: 1.4;">${c.title}</h3>
                 </div>
                 <p style="color: #6c757d; font-size: 14px; margin-bottom: 16px;">Trung tâm: ${c.provider}</p>
-                <div style="display: flex; justify-content: flex-end; align-items: center;">
+                <div style="display: flex; justify-content: flex-end; align-items: center; margin-top: auto;">
                     <a href="${c.url}" target="_blank" style="color: #007bff; text-decoration: none; font-weight: 500;">Tìm hiểu thêm ></a>
                 </div>
             </div>
