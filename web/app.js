@@ -257,16 +257,7 @@ function renderHomeCourses() {
     
     grid.innerHTML = '';
     
-    // Add mock courses for UniTrain and Tomorrow Marketers since they might be missing in JSON
-    const additionalCourses = [
-        { title: "Ứng dụng Excel trong Kế toán", provider: "UniTrain", category: "Excel", url: "https://unitrain.edu.vn/khoa-hoc/ung-dung-excel-trong-ke-toan/" },
-        { title: "Tổ chức dữ liệu & Lập BCTC bằng Excel", provider: "UniTrain", category: "Excel", url: "https://unitrain.edu.vn/khoa-hoc/to-chuc-du-lieu-va-lap-bctc-bang-excel/" },
-        { title: "Dashboard Reporting in Excel", provider: "UniTrain", category: "Excel", url: "https://unitrain.edu.vn/khoa-hoc/dashboard-reporting-in-excel/" },
-        { title: "Data System in Marketing", provider: "Tomorrow Marketers", category: "Marketing", url: "https://www.tomorrowmarketers.org/khoa-hoc-data-system-in-marketing" },
-        { title: "Digital Performance Marketing", provider: "Tomorrow Marketers", category: "Marketing", url: "https://www.tomorrowmarketers.org/khoa-hoc-digital-performance-marketing" }
-    ];
-    
-    const allCourses = [...affiliateCourses, ...additionalCourses];
+    const allCourses = externalCourses || [];
 
     const getCourses = (keyword, count) => {
         return allCourses.filter(c => c.title.toLowerCase().includes(keyword.toLowerCase()) || (c.category && c.category.toLowerCase().includes(keyword.toLowerCase()))).slice(0, count);

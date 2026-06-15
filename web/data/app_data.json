@@ -8002,55 +8002,31 @@
         {
             "provider": "Tomorrow Marketers",
             "title": "Khóa học AI Marketing Sales System",
-            "url": "https://www.tomorrowmarketers.org/ai-marketing-sales-system?utm_source=homepage",
+            "url": "https://www.tomorrowmarketers.org/ai-marketing-sales-system",
             "category": "Digital Marketing"
         },
         {
             "provider": "Tomorrow Marketers",
-            "title": "Data System for Marketers",
-            "url": "https://www.tomorrowmarketers.org/data-system-for-marketers",
+            "title": "Data System",
+            "url": "https://www.tomorrowmarketers.org/data-system",
             "category": "Data Analysis"
         },
         {
-            "provider": "Tomorrow Marketers",
-            "title": "Digital Marketing Foundation",
-            "url": "https://www.tomorrowmarketers.org/digital-marketing-foundation",
-            "category": "Digital Marketing"
-        },
-        {
-            "provider": "Tomorrow Marketers",
-            "title": "Content Marketing",
-            "url": "https://www.tomorrowmarketers.org/content-marketing",
-            "category": "Content Marketing"
-        },
-        {
-            "provider": "Tomorrow Marketers",
-            "title": "Brand & Communication Strategy",
-            "url": "https://www.tomorrowmarketers.org/brand-strategy",
-            "category": "Digital Marketing"
-        },
-        {
-            "provider": "UniTrain",
-            "title": "Khóa học Financial Modeling & Valuation",
-            "url": "https://unitrain.edu.vn/khoa-hoc/financial-modeling-valuation/",
-            "category": "Financial Modeling"
-        },
-        {
-            "provider": "UniTrain",
-            "title": "Khóa học SQL & Power BI for Data Analysis",
-            "url": "https://unitrain.edu.vn/khoa-hoc/sql-power-bi-for-data-analysis/",
+            "provider": "Coursera",
+            "title": "Google Data Analytics",
+            "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
             "category": "Data Analysis"
         },
         {
-            "provider": "UniTrain",
-            "title": "Thực hành Excel trong Kiểm toán",
-            "url": "https://unitrain.edu.vn/khoa-hoc/excel-trong-kiem-toan/",
-            "category": "Financial Modeling"
+            "provider": "MindX",
+            "title": "Business Analysis",
+            "url": "https://www.mindx.edu.vn/course/business-analysis",
+            "category": "Business Analysis"
         },
         {
             "provider": "UniTrain",
-            "title": "Data Analyst Foundation",
-            "url": "https://unitrain.edu.vn/khoa-hoc/data-analyst-foundation/",
+            "title": "Data Analysis For Business",
+            "url": "https://unitrain.edu.vn/khoa-hoc/data-analysis-for-business/",
             "category": "Data Analysis"
         }
     ]

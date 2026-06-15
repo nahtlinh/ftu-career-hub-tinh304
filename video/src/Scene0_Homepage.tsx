@@ -32,14 +32,13 @@ export const Scene0_Homepage: React.FC = () => {
     { title: "Khóa học Acca Hoc Thu", org: "BISC", logo: "logos/bisc.jpg" },
     { title: "ACCA Online", org: "BISC", logo: "logos/bisc.jpg" },
     { title: "ACCA Offline", org: "BISC", logo: "logos/bisc.jpg" },
-    { title: "Ứng dụng Excel trong Kế toán", org: "UniTrain", logo: "logos/unitrain.png" },
-    { title: "Tổ chức dữ liệu & Lập BCTC bằng Excel", org: "UniTrain", logo: "logos/unitrain.png" },
-    { title: "Dashboard Reporting in Excel", org: "UniTrain", logo: "logos/unitrain.png" },
     { title: "Power BI", org: "Datapot", logo: "logos/datapot.png" },
     { title: "Khóa học Da 100 Analyzing Data With Power Bi", org: "Datapot", logo: "logos/datapot.png" },
-    { title: "Khóa học Ai Marketing Sales System", org: "Tomorrow Marketers", logo: "logos/tomorrow_marketers.jpg" },
-    { title: "Data System in Marketing", org: "Tomorrow Marketers", logo: "logos/tomorrow_marketers.jpg" },
-    { title: "Digital Performance Marketing", org: "Tomorrow Marketers", logo: "logos/tomorrow_marketers.jpg" },
+    { title: "Khóa học AI Marketing Sales System", org: "Tomorrow Marketers", logo: "logos/tomorrow_marketers.jpg" },
+    { title: "Data System", org: "Tomorrow Marketers", logo: "logos/tomorrow_marketers.jpg" },
+    { title: "Google Data Analytics", org: "Coursera", logo: "" },
+    { title: "Business Analysis", org: "MindX", logo: "" },
+    { title: "Data Analysis For Business", org: "UniTrain", logo: "logos/unitrain.png" },
   ];
 
   return (
