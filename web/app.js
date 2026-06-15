@@ -272,12 +272,12 @@ function renderHomeCourses() {
         return allCourses.filter(c => c.title.toLowerCase().includes(keyword.toLowerCase()) || (c.category && c.category.toLowerCase().includes(keyword.toLowerCase()))).slice(0, count);
     };
 
-    // Pick 3 of each requested category
+    // Pick 4 of each requested category to make a 4x4 grid (16 items)
     const displayCourses = [
-        ...getCourses("acca", 3),
-        ...getCourses("excel", 3),
-        ...getCourses("power bi", 3),
-        ...getCourses("marketing", 3)
+        ...getCourses("acca", 4),
+        ...getCourses("excel", 4),
+        ...getCourses("power bi", 4),
+        ...getCourses("marketing", 4)
     ];
 
     displayCourses.forEach(c => {
@@ -285,11 +285,14 @@ function renderHomeCourses() {
                          c.provider === 'Datapot' ? 'datapot.png' :
                          c.provider === 'Tomorrow Marketers' ? 'tomorrow_marketers.jpg' :
                          c.provider === 'UniTrain' ? 'unitrain.png' : '';
+                         
+        const cleanTitle = c.title.split('?')[0];
+        
         grid.innerHTML += `
-            <div class="industry-card course-item" style="text-align: left; min-width: 320px; flex: 0 0 auto; display: flex; flex-direction: column;">
+            <div class="industry-card course-item" style="text-align: left; display: flex; flex-direction: column;">
                 <div style="display:flex; align-items:center; margin-bottom:8px;">
                     ${logoFile ? `<img src="logos/${logoFile}" alt="${c.provider}" style="height:28px; width:auto; margin-right:12px; border-radius: 4px; border: 1px solid #e9ecef;">` : ''}
-                    <h3 style="color: #212529; font-size: 16px; margin:0; line-height: 1.4;">${c.title}</h3>
+                    <h3 style="color: #212529; font-size: 16px; margin:0; line-height: 1.4;">${cleanTitle}</h3>
                 </div>
                 <p style="color: #6c757d; font-size: 14px; margin-bottom: 16px;">Trung tâm: ${c.provider}</p>
                 <div style="display: flex; justify-content: flex-end; align-items: center; margin-top: auto;">

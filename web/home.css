@@ -122,25 +122,9 @@
 }
 
 .course-grid {
-    display: flex;
-    overflow-x: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
     gap: 24px;
-    padding-bottom: 16px;
-    scroll-snap-type: x mandatory;
-}
-.course-grid .course-item {
-    scroll-snap-align: start;
-}
-.course-grid::-webkit-scrollbar {
-    height: 8px;
-}
-.course-grid::-webkit-scrollbar-track {
-    background: #f1f5f9;
-    border-radius: 4px;
-}
-.course-grid::-webkit-scrollbar-thumb {
-    background: #cbd5e0;
-    border-radius: 4px;
 }
 
 .home-footer {
